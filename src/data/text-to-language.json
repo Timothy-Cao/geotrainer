@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "text-to-lang-english-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in English?",
+    "hint": "English uses the Latin alphabet with no diacritics on common words, and Germanic/French-derived vocabulary.",
+    "image": "",
+    "correctAnswer": "Welcome to our city",
+    "wrongAnswers": ["Welkom in onze stad", "Willkommen in unserer Stadt", "Välkommen till vår stad"],
+    "explanation": "\"Welcome to our city\" is English. Dutch uses \"Welkom\" and \"onze,\" German uses \"Willkommen\" and \"unserer,\" and Swedish uses \"Välkommen\" with the å letter."
+  },
+  {
+    "id": "text-to-lang-english-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in English?",
+    "hint": "English uses the Latin alphabet with no diacritics on common words, and Germanic/French-derived vocabulary.",
+    "image": "",
+    "correctAnswer": "Where is the train station?",
+    "wrongAnswers": ["Waar is het treinstation?", "Wo ist der Bahnhof?", "Var är tågstationen?"],
+    "explanation": "\"Where is the train station?\" is English. Dutch has \"Waar\" and \"het,\" German has \"Wo\" and \"der Bahnhof,\" and Swedish has \"Var\" and \"tågstationen\" with å."
+  },
+  {
+    "id": "text-to-lang-english-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in English?",
+    "hint": "English uses the Latin alphabet with no diacritics on common words, and Germanic/French-derived vocabulary.",
+    "image": "",
+    "correctAnswer": "Thank you very much",
+    "wrongAnswers": ["Heel erg bedankt", "Vielen Dank", "Tack så mycket"],
+    "explanation": "\"Thank you very much\" is English. Dutch uses \"Heel erg bedankt,\" German uses \"Vielen Dank,\" and Swedish uses \"Tack så mycket\" with the å letter."
+  },
+  {
+    "id": "text-to-lang-english-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in English?",
+    "hint": "English uses the Latin alphabet with no diacritics on common words, and Germanic/French-derived vocabulary.",
+    "image": "",
+    "correctAnswer": "The weather is beautiful today",
+    "wrongAnswers": ["Het weer is vandaag prachtig", "Das Wetter ist heute schön", "Vädret är vackert idag"],
+    "explanation": "\"The weather is beautiful today\" is English. Dutch has \"Het weer\" and \"prachtig,\" German has \"Das Wetter\" and \"schön,\" and Swedish has \"Vädret\" with ä."
+  },
+  {
+    "id": "text-to-lang-mandarin-chinese-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Mandarin Chinese (Simplified)?",
+    "hint": "Simplified Chinese uses fewer strokes than Traditional Chinese and does not mix in Japanese kana or Korean Hangul.",
+    "image": "",
+    "correctAnswer": "欢迎来到我们的城市",
+    "wrongAnswers": ["歡迎來到我們的城市", "私たちの街へようこそ", "우리 도시에 오신 것을 환영합니다"],
+    "explanation": "\"欢迎来到我们的城市\" is Simplified Chinese. The Traditional Chinese version uses more complex characters like 歡 and 們. Japanese mixes kanji with hiragana/katakana, and Korean uses circular Hangul characters."
+  },
+  {
+    "id": "text-to-lang-mandarin-chinese-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Mandarin Chinese (Simplified)?",
+    "hint": "Simplified Chinese uses fewer strokes than Traditional Chinese and does not mix in Japanese kana or Korean Hangul.",
+    "image": "",
+    "correctAnswer": "火车站在哪里？",
+    "wrongAnswers": ["火車站在哪裡？", "駅はどこですか？", "기차역은 어디에 있나요?"],
+    "explanation": "\"火车站在哪里？\" is Simplified Chinese. Note 车 (simplified) vs 車 (traditional). Japanese uses kana like は, どこ, and Korean uses Hangul syllable blocks."
+  },
+  {
+    "id": "text-to-lang-mandarin-chinese-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Mandarin Chinese (Simplified)?",
+    "hint": "Simplified Chinese uses fewer strokes than Traditional Chinese and does not mix in Japanese kana or Korean Hangul.",
+    "image": "",
+    "correctAnswer": "非常感谢",
+    "wrongAnswers": ["非常感謝", "どうもありがとうございます", "대단히 감사합니다"],
+    "explanation": "\"非常感谢\" is Simplified Chinese. The Traditional Chinese version uses 謝 instead of 谢. Japanese has distinctive hiragana like ありがとう, and Korean uses round Hangul characters."
+  },
+  {
+    "id": "text-to-lang-mandarin-chinese-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Mandarin Chinese (Simplified)?",
+    "hint": "Simplified Chinese uses fewer strokes than Traditional Chinese and does not mix in Japanese kana or Korean Hangul.",
+    "image": "",
+    "correctAnswer": "今天天气很好",
+    "wrongAnswers": ["今天天氣很好", "今日はとても良い天気です", "오늘 날씨가 아름답습니다"],
+    "explanation": "\"今天天气很好\" is Simplified Chinese. 气 is the simplified form of 氣. Japanese includes hiragana は, とても, です, and Korean uses distinctive Hangul blocks."
+  },
+  {
+    "id": "text-to-lang-hindi-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hindi?",
+    "hint": "Hindi uses Devanagari script with a horizontal line (shirorekha) connecting letters at the top. Look for distinctive conjunct consonants.",
+    "image": "",
+    "correctAnswer": "हमारे शहर में आपका स्वागत है",
+    "wrongAnswers": ["আমাদের শহরে স্বাগতম", "आमच्या शहरात आपले स्वागत आहे", "हाम्रो शहरमा स्वागत छ"],
+    "explanation": "\"हमारे शहर में आपका स्वागत है\" is Hindi in Devanagari. Bengali uses a different script with rounder shapes. Marathi also uses Devanagari but has different vocabulary like \"आमच्या\" and \"आहे.\" Nepali uses \"हाम्रो\" and \"छ.\""
+  },
+  {
+    "id": "text-to-lang-hindi-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hindi?",
+    "hint": "Hindi uses Devanagari script with a horizontal line (shirorekha) connecting letters at the top. Look for distinctive conjunct consonants.",
+    "image": "",
+    "correctAnswer": "रेलवे स्टेशन कहाँ है?",
+    "wrongAnswers": ["রেলওয়ে স্টেশন কোথায়?", "रेल्वे स्टेशन कुठे आहे?", "रेलवे स्टेशन कहाँ छ?"],
+    "explanation": "\"रेलवे स्टेशन कहाँ है?\" is Hindi. Bengali has a distinctly different script with rounder letterforms. Marathi uses \"कुठे आहे\" instead of \"कहाँ है.\" Nepali ends with \"छ\" instead of \"है.\""
+  },
+  {
+    "id": "text-to-lang-hindi-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hindi?",
+    "hint": "Hindi uses Devanagari script with a horizontal line (shirorekha) connecting letters at the top. Look for distinctive conjunct consonants.",
+    "image": "",
+    "correctAnswer": "बहुत-बहुत धन्यवाद",
+    "wrongAnswers": ["অনেক ধন্যবাদ", "खूप खूप धन्यवाद", "धेरै धेरै धन्यवाद"],
+    "explanation": "\"बहुत-बहुत धन्यवाद\" is Hindi. Bengali \"অনেক ধন্যবাদ\" uses a visually different script. Marathi uses \"खूप खूप\" instead of \"बहुत-बहुत.\" Nepali uses \"धेरै धेरै.\""
+  },
+  {
+    "id": "text-to-lang-hindi-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hindi?",
+    "hint": "Hindi uses Devanagari script with a horizontal line (shirorekha) connecting letters at the top. Look for distinctive conjunct consonants.",
+    "image": "",
+    "correctAnswer": "आज मौसम बहुत अच्छा है",
+    "wrongAnswers": ["আজ আবহাওয়া খুব সুন্দর", "आज हवामान खूप सुंदर आहे", "आज मौसम धेरै राम्रो छ"],
+    "explanation": "\"आज मौसम बहुत अच्छा है\" is Hindi. Bengali uses its own script for \"আজ আবহাওয়া.\" Marathi uses \"हवामान\" and \"सुंदर आहे.\" Nepali uses \"राम्रो छ\" instead of \"अच्छा है.\""
+  },
+  {
+    "id": "text-to-lang-spanish-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Spanish?",
+    "hint": "Spanish uses inverted punctuation (¿ ¡), the letter ñ, and has distinctive words like \"nuestra,\" \"ciudad,\" and \"estación.\"",
+    "image": "",
+    "correctAnswer": "Bienvenido a nuestra ciudad",
+    "wrongAnswers": ["Bem-vindo à nossa cidade", "Benvenuto nella nostra città", "Bienvenue dans notre ville"],
+    "explanation": "\"Bienvenido a nuestra ciudad\" is Spanish. Portuguese uses \"Bem-vindo\" and \"cidade,\" Italian uses \"Benvenuto\" and \"città,\" and French uses \"Bienvenue\" and \"ville.\""
+  },
+  {
+    "id": "text-to-lang-spanish-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Spanish?",
+    "hint": "Spanish uses inverted punctuation (¿ ¡), the letter ñ, and has distinctive words like \"nuestra,\" \"ciudad,\" and \"estación.\"",
+    "image": "",
+    "correctAnswer": "¿Dónde está la estación de tren?",
+    "wrongAnswers": ["Onde fica a estação de trem?", "Dov'è la stazione ferroviaria?", "Où est la gare?"],
+    "explanation": "\"¿Dónde está la estación de tren?\" is Spanish. The inverted question mark ¿ is uniquely Spanish. Portuguese uses \"Onde fica,\" Italian uses \"Dov'è,\" and French uses \"Où est.\""
+  },
+  {
+    "id": "text-to-lang-spanish-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Spanish?",
+    "hint": "Spanish uses inverted punctuation (¿ ¡), the letter ñ, and has distinctive words like \"nuestra,\" \"ciudad,\" and \"estación.\"",
+    "image": "",
+    "correctAnswer": "Muchas gracias",
+    "wrongAnswers": ["Muito obrigado", "Grazie mille", "Merci beaucoup"],
+    "explanation": "\"Muchas gracias\" is Spanish. Portuguese uses \"Muito obrigado,\" Italian uses \"Grazie mille,\" and French uses \"Merci beaucoup.\""
+  },
+  {
+    "id": "text-to-lang-spanish-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Spanish?",
+    "hint": "Spanish uses inverted punctuation (¿ ¡), the letter ñ, and has distinctive words like \"nuestra,\" \"ciudad,\" and \"estación.\"",
+    "image": "",
+    "correctAnswer": "El clima está hermoso hoy",
+    "wrongAnswers": ["O tempo está lindo hoje", "Il tempo è bello oggi", "Le temps est beau aujourd'hui"],
+    "explanation": "\"El clima está hermoso hoy\" is Spanish. Portuguese uses \"O tempo\" and \"lindo,\" Italian uses \"Il tempo\" and \"bello,\" and French uses \"Le temps\" and \"beau.\""
+  },
+  {
+    "id": "text-to-lang-arabic-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Arabic?",
+    "hint": "Arabic script flows right-to-left with distinctive dots above and below letters. It does not use the additional letters found in Persian or Urdu.",
+    "image": "",
+    "correctAnswer": "مرحباً بكم في مدينتنا",
+    "wrongAnswers": ["به شهر ما خوش آمدید", "ہماری شہر میں خوش آمدید", "ברוכים הבאים לעיר שלנו"],
+    "explanation": "\"مرحباً بكم في مدينتنا\" is Arabic. Persian uses different vocabulary like \"خوش آمدید\" and has letters like گ and پ. Urdu has a similar script to Persian with additional letters. Hebrew uses a completely different alphabet."
+  },
+  {
+    "id": "text-to-lang-arabic-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Arabic?",
+    "hint": "Arabic script flows right-to-left with distinctive dots above and below letters. It does not use the additional letters found in Persian or Urdu.",
+    "image": "",
+    "correctAnswer": "أين محطة القطار؟",
+    "wrongAnswers": ["ایستگاه قطار کجاست؟", "ریلوے اسٹیشن کہاں ہے؟", "?איפה תחנת הרכבת"],
+    "explanation": "\"أين محطة القطار؟\" is Arabic. Persian uses \"ایستگاه\" and \"کجاست.\" Urdu uses \"ریلوے اسٹیشن\" and \"کہاں.\" Hebrew uses a distinct non-cursive alphabet."
+  },
+  {
+    "id": "text-to-lang-arabic-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Arabic?",
+    "hint": "Arabic script flows right-to-left with distinctive dots above and below letters. It does not use the additional letters found in Persian or Urdu.",
+    "image": "",
+    "correctAnswer": "شكراً جزيلاً",
+    "wrongAnswers": ["خیلی ممنون", "بہت بہت شکریہ", "תודה רבה"],
+    "explanation": "\"شكراً جزيلاً\" is Arabic. Persian uses \"خیلی ممنون\" with the distinctive پ and گ letters available. Urdu uses \"شکریہ\" with Nastaliq-style script. Hebrew \"תודה רבה\" uses square block letters."
+  },
+  {
+    "id": "text-to-lang-arabic-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Arabic?",
+    "hint": "Arabic script flows right-to-left with distinctive dots above and below letters. It does not use the additional letters found in Persian or Urdu.",
+    "image": "",
+    "correctAnswer": "الطقس جميل اليوم",
+    "wrongAnswers": ["هوا امروز زیباست", "آج موسم خوبصورت ہے", "מזג האוויר יפה היום"],
+    "explanation": "\"الطقس جميل اليوم\" is Arabic. Persian uses \"هوا\" and \"زیباست\" with different vocabulary. Urdu uses \"موسم\" and \"خوبصورت.\" Hebrew uses distinct square letterforms."
+  },
+  {
+    "id": "text-to-lang-french-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in French?",
+    "hint": "French uses accents (é, è, ê, ç, à) and distinctive words like \"dans,\" \"notre,\" \"très,\" and \"aujourd'hui.\"",
+    "image": "",
+    "correctAnswer": "Bienvenue dans notre ville",
+    "wrongAnswers": ["Bienvenido a nuestra ciudad", "Bem-vindo à nossa cidade", "Benvenuto nella nostra città"],
+    "explanation": "\"Bienvenue dans notre ville\" is French. Spanish uses \"Bienvenido\" and \"ciudad,\" Portuguese uses \"Bem-vindo\" and \"cidade,\" and Italian uses \"Benvenuto\" and \"città.\""
+  },
+  {
+    "id": "text-to-lang-french-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in French?",
+    "hint": "French uses accents (é, è, ê, ç, à) and distinctive words like \"dans,\" \"notre,\" \"très,\" and \"aujourd'hui.\"",
+    "image": "",
+    "correctAnswer": "Où est la gare?",
+    "wrongAnswers": ["¿Dónde está la estación de tren?", "Onde fica a estação de trem?", "Dov'è la stazione ferroviaria?"],
+    "explanation": "\"Où est la gare?\" is French. The accent on \"Où\" is distinctly French. Spanish uses inverted punctuation ¿, Portuguese uses \"Onde fica,\" and Italian uses \"Dov'è.\""
+  },
+  {
+    "id": "text-to-lang-french-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in French?",
+    "hint": "French uses accents (é, è, ê, ç, à) and distinctive words like \"dans,\" \"notre,\" \"très,\" and \"aujourd'hui.\"",
+    "image": "",
+    "correctAnswer": "Merci beaucoup",
+    "wrongAnswers": ["Muchas gracias", "Muito obrigado", "Grazie mille"],
+    "explanation": "\"Merci beaucoup\" is French. Spanish uses \"Muchas gracias,\" Portuguese uses \"Muito obrigado,\" and Italian uses \"Grazie mille.\""
+  },
+  {
+    "id": "text-to-lang-french-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in French?",
+    "hint": "French uses accents (é, è, ê, ç, à) and distinctive words like \"dans,\" \"notre,\" \"très,\" and \"aujourd'hui.\"",
+    "image": "",
+    "correctAnswer": "Le temps est beau aujourd'hui",
+    "wrongAnswers": ["El clima está hermoso hoy", "O tempo está lindo hoje", "Il tempo è bello oggi"],
+    "explanation": "\"Le temps est beau aujourd'hui\" is French. The apostrophe in \"aujourd'hui\" is characteristic of French. Spanish uses \"El clima,\" Portuguese uses \"O tempo está lindo,\" and Italian uses \"Il tempo è bello.\""
+  },
+  {
+    "id": "text-to-lang-bengali-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Bengali?",
+    "hint": "Bengali script has rounded, flowing shapes with a distinctive horizontal headstroke (matra) like Devanagari but with curvier letterforms.",
+    "image": "",
+    "correctAnswer": "আমাদের শহরে স্বাগতম",
+    "wrongAnswers": ["हमारे शहर में आपका स्वागत है", "আমাদের চহৰলৈ আদৰণি", "අපේ නගරයට සාදරයෙන් පිළිගනිමු"],
+    "explanation": "\"আমাদের শহরে স্বাগতম\" is Bengali. Hindi uses Devanagari with straighter lines. Assamese looks very similar to Bengali but uses different characters like ৰ. Sinhala has very round, bubbly letterforms."
+  },
+  {
+    "id": "text-to-lang-bengali-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Bengali?",
+    "hint": "Bengali script has rounded, flowing shapes with a distinctive horizontal headstroke (matra) like Devanagari but with curvier letterforms.",
+    "image": "",
+    "correctAnswer": "রেলওয়ে স্টেশন কোথায়?",
+    "wrongAnswers": ["रेलवे स्टेशन कहाँ है?", "ৰে'ল ষ্টেচন ক'ত?", "දුම්රිය ස්ථානය කොහෙද?"],
+    "explanation": "\"রেলওয়ে স্টেশন কোথায়?\" is Bengali. Hindi uses angular Devanagari. Assamese is very close to Bengali but has some distinct characters. Sinhala has uniquely round letterforms."
+  },
+  {
+    "id": "text-to-lang-bengali-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Bengali?",
+    "hint": "Bengali script has rounded, flowing shapes with a distinctive horizontal headstroke (matra) like Devanagari but with curvier letterforms.",
+    "image": "",
+    "correctAnswer": "অনেক ধন্যবাদ",
+    "wrongAnswers": ["बहुत-बहुत धन्यवाद", "বহুত ধন্যবাদ", "බොහොම ස්තුතියි"],
+    "explanation": "\"অনেক ধন্যবাদ\" is Bengali meaning \"Thank you very much.\" Hindi uses Devanagari script. Assamese \"বহুত ধন্যবাদ\" looks similar but uses different vocabulary. Sinhala uses a completely different round script."
+  },
+  {
+    "id": "text-to-lang-bengali-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Bengali?",
+    "hint": "Bengali script has rounded, flowing shapes with a distinctive horizontal headstroke (matra) like Devanagari but with curvier letterforms.",
+    "image": "",
+    "correctAnswer": "আজ আবহাওয়া খুব সুন্দর",
+    "wrongAnswers": ["आज मौसम बहुत अच्छा है", "আজি বতৰ বৰ ধুনীয়া", "අද කාලගුණය ඉතා සුන්දරයි"],
+    "explanation": "\"আজ আবহাওয়া খুব সুন্দর\" is Bengali. Hindi uses Devanagari with straighter top bars. Assamese \"আজি বতৰ\" has similar script but uses distinct characters like ৰ. Sinhala is visually very different."
+  },
+  {
+    "id": "text-to-lang-portuguese-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Portuguese?",
+    "hint": "Portuguese uses ã, õ (nasal tildes), ç, and distinctive words like \"obrigado,\" \"onde,\" and \"muito.\"",
+    "image": "",
+    "correctAnswer": "Bem-vindo à nossa cidade",
+    "wrongAnswers": ["Bienvenido a nuestra ciudad", "Benvenuto nella nostra città", "Bienvenue dans notre ville"],
+    "explanation": "\"Bem-vindo à nossa cidade\" is Portuguese. The \"à\" (a with grave accent) and \"Bem-vindo\" are distinctly Portuguese. Spanish uses \"Bienvenido,\" Italian uses \"Benvenuto,\" and French uses \"Bienvenue.\""
+  },
+  {
+    "id": "text-to-lang-portuguese-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Portuguese?",
+    "hint": "Portuguese uses ã, õ (nasal tildes), ç, and distinctive words like \"obrigado,\" \"onde,\" and \"muito.\"",
+    "image": "",
+    "correctAnswer": "Onde fica a estação de trem?",
+    "wrongAnswers": ["¿Dónde está la estación de tren?", "Dov'è la stazione ferroviaria?", "Où est la gare?"],
+    "explanation": "\"Onde fica a estação de trem?\" is Portuguese. The \"ção\" ending and \"fica\" are distinctly Portuguese. Spanish has inverted ¿ and \"Dónde,\" Italian uses \"Dov'è,\" and French uses \"Où est.\""
+  },
+  {
+    "id": "text-to-lang-portuguese-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Portuguese?",
+    "hint": "Portuguese uses ã, õ (nasal tildes), ç, and distinctive words like \"obrigado,\" \"onde,\" and \"muito.\"",
+    "image": "",
+    "correctAnswer": "Muito obrigado",
+    "wrongAnswers": ["Muchas gracias", "Grazie mille", "Merci beaucoup"],
+    "explanation": "\"Muito obrigado\" is Portuguese. The word \"obrigado\" (literally \"obliged\") is uniquely Portuguese. Spanish uses \"gracias,\" Italian uses \"grazie,\" and French uses \"merci.\""
+  },
+  {
+    "id": "text-to-lang-portuguese-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Portuguese?",
+    "hint": "Portuguese uses ã, õ (nasal tildes), ç, and distinctive words like \"obrigado,\" \"onde,\" and \"muito.\"",
+    "image": "",
+    "correctAnswer": "O tempo está lindo hoje",
+    "wrongAnswers": ["El clima está hermoso hoy", "Il tempo è bello oggi", "Le temps est beau aujourd'hui"],
+    "explanation": "\"O tempo está lindo hoje\" is Portuguese. The article \"O\" and \"lindo\" are distinctly Portuguese. Spanish uses \"El clima\" and \"hermoso,\" Italian uses \"Il tempo\" and \"bello,\" and French uses \"Le temps\" and \"beau.\""
+  },
+  {
+    "id": "text-to-lang-russian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Russian?",
+    "hint": "Russian Cyrillic includes unique letters like Ж, Щ, Ы, and Э that are not found in other Cyrillic alphabets.",
+    "image": "",
+    "correctAnswer": "Добро пожаловать в наш город",
+    "wrongAnswers": ["Ласкаво просимо до нашого міста", "Добре дошли в нашия град", "Добродошли у наш град"],
+    "explanation": "\"Добро пожаловать в наш город\" is Russian. The word \"пожаловать\" with Ж is distinctly Russian. Ukrainian uses \"Ласкаво просимо\" with і, Bulgarian uses \"Добре дошли,\" and Serbian uses \"Добродошли.\""
+  },
+  {
+    "id": "text-to-lang-russian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Russian?",
+    "hint": "Russian Cyrillic includes unique letters like Ж, Щ, Ы, and Э that are not found in other Cyrillic alphabets.",
+    "image": "",
+    "correctAnswer": "Где находится железнодорожный вокзал?",
+    "wrongAnswers": ["Де знаходиться залізничний вокзал?", "Къде е жп гарата?", "Где је железничка станица?"],
+    "explanation": "\"Где находится железнодорожный вокзал?\" is Russian. Ukrainian uses \"Де знаходиться\" with і. Bulgarian uses \"Къде е\" with ъ. Serbian uses \"Где је\" with \"железничка станица.\""
+  },
+  {
+    "id": "text-to-lang-russian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Russian?",
+    "hint": "Russian Cyrillic includes unique letters like Ж, Щ, Ы, and Э that are not found in other Cyrillic alphabets.",
+    "image": "",
+    "correctAnswer": "Большое спасибо",
+    "wrongAnswers": ["Щиро дякую", "Благодаря много", "Хвала вам много"],
+    "explanation": "\"Большое спасибо\" is Russian. Ukrainian uses \"Щиро дякую\" with unique letters. Bulgarian uses \"Благодаря много,\" and Serbian uses \"Хвала вам много.\""
+  },
+  {
+    "id": "text-to-lang-russian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Russian?",
+    "hint": "Russian Cyrillic includes unique letters like Ж, Щ, Ы, and Э that are not found in other Cyrillic alphabets.",
+    "image": "",
+    "correctAnswer": "Сегодня прекрасная погода",
+    "wrongAnswers": ["Сьогодні чудова погода", "Днес времето е прекрасно", "Данас је прелепо време"],
+    "explanation": "\"Сегодня прекрасная погода\" is Russian. Ukrainian uses \"Сьогодні\" with ь and і. Bulgarian uses \"Днес\" and \"времето.\" Serbian uses \"Данас\" and \"прелепо.\""
+  },
+  {
+    "id": "text-to-lang-japanese-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Japanese?",
+    "hint": "Japanese uniquely mixes three scripts: kanji (Chinese characters), hiragana (curvy), and katakana (angular). Look for this mixture.",
+    "image": "",
+    "correctAnswer": "私たちの街へようこそ",
+    "wrongAnswers": ["欢迎来到我们的城市", "歡迎來到我們的城市", "우리 도시에 오신 것을 환영합니다"],
+    "explanation": "\"私たちの街へようこそ\" is Japanese. It mixes kanji (私, 街) with hiragana (たちの, へようこそ). Simplified Chinese uses only hanzi, Traditional Chinese also uses only hanzi, and Korean uses Hangul blocks."
+  },
+  {
+    "id": "text-to-lang-japanese-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Japanese?",
+    "hint": "Japanese uniquely mixes three scripts: kanji (Chinese characters), hiragana (curvy), and katakana (angular). Look for this mixture.",
+    "image": "",
+    "correctAnswer": "駅はどこですか？",
+    "wrongAnswers": ["火车站在哪里？", "火車站在哪裡？", "기차역은 어디에 있나요?"],
+    "explanation": "\"駅はどこですか？\" is Japanese. The hiragana は, どこ, です, か mixed with kanji 駅 is uniquely Japanese. Chinese uses only hanzi characters, and Korean uses Hangul syllable blocks."
+  },
+  {
+    "id": "text-to-lang-japanese-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Japanese?",
+    "hint": "Japanese uniquely mixes three scripts: kanji (Chinese characters), hiragana (curvy), and katakana (angular). Look for this mixture.",
+    "image": "",
+    "correctAnswer": "どうもありがとうございます",
+    "wrongAnswers": ["非常感谢", "非常感謝", "대단히 감사합니다"],
+    "explanation": "\"どうもありがとうございます\" is Japanese written entirely in hiragana, with its characteristic rounded, flowing characters. Chinese uses only hanzi, and Korean uses geometric Hangul blocks."
+  },
+  {
+    "id": "text-to-lang-japanese-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Japanese?",
+    "hint": "Japanese uniquely mixes three scripts: kanji (Chinese characters), hiragana (curvy), and katakana (angular). Look for this mixture.",
+    "image": "",
+    "correctAnswer": "今日はとても良い天気です",
+    "wrongAnswers": ["今天天气很好", "今天天氣很好", "오늘 날씨가 아름답습니다"],
+    "explanation": "\"今日はとても良い天気です\" is Japanese. It mixes kanji (今日, 良, 天気) with hiragana (は, とても, い, です). Chinese uses only hanzi, and Korean uses Hangul."
+  },
+  {
+    "id": "text-to-lang-german-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in German?",
+    "hint": "German capitalizes all nouns, uses umlauts (ä, ö, ü), the letter ß, and has long compound words.",
+    "image": "",
+    "correctAnswer": "Willkommen in unserer Stadt",
+    "wrongAnswers": ["Welkom in onze stad", "Välkommen till vår stad", "Velkommen til vores by"],
+    "explanation": "\"Willkommen in unserer Stadt\" is German. Note the capitalized noun \"Stadt.\" Dutch uses \"Welkom\" and \"onze,\" Swedish uses \"Välkommen\" with å, and Danish uses \"Velkommen\" and \"vores by.\""
+  },
+  {
+    "id": "text-to-lang-german-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in German?",
+    "hint": "German capitalizes all nouns, uses umlauts (ä, ö, ü), the letter ß, and has long compound words.",
+    "image": "",
+    "correctAnswer": "Wo ist der Bahnhof?",
+    "wrongAnswers": ["Waar is het treinstation?", "Var är tågstationen?", "Hvor er togstationen?"],
+    "explanation": "\"Wo ist der Bahnhof?\" is German. The capitalized \"Bahnhof\" and article \"der\" are distinctly German. Dutch uses \"Waar\" and \"het,\" Swedish uses \"Var\" and å, and Danish uses \"Hvor.\""
+  },
+  {
+    "id": "text-to-lang-german-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in German?",
+    "hint": "German capitalizes all nouns, uses umlauts (ä, ö, ü), the letter ß, and has long compound words.",
+    "image": "",
+    "correctAnswer": "Vielen Dank",
+    "wrongAnswers": ["Heel erg bedankt", "Tack så mycket", "Mange tak"],
+    "explanation": "\"Vielen Dank\" is German. Note the capitalized noun \"Dank.\" Dutch uses \"Heel erg bedankt,\" Swedish uses \"Tack så mycket\" with å, and Danish uses \"Mange tak.\""
+  },
+  {
+    "id": "text-to-lang-german-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in German?",
+    "hint": "German capitalizes all nouns, uses umlauts (ä, ö, ü), the letter ß, and has long compound words.",
+    "image": "",
+    "correctAnswer": "Das Wetter ist heute schön",
+    "wrongAnswers": ["Het weer is vandaag prachtig", "Vädret är vackert idag", "Vejret er smukt i dag"],
+    "explanation": "\"Das Wetter ist heute schön\" is German. \"Das\" and capitalized \"Wetter\" are German markers. Dutch uses \"Het weer\" and \"prachtig,\" Swedish uses \"Vädret\" with ä, and Danish uses \"Vejret.\""
+  },
+  {
+    "id": "text-to-lang-korean-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Korean?",
+    "hint": "Korean Hangul uses distinctive geometric syllable blocks made of circles (ㅇ), lines (ㅣ, ㅡ), and angles (ㄱ, ㄴ).",
+    "image": "",
+    "correctAnswer": "우리 도시에 오신 것을 환영합니다",
+    "wrongAnswers": ["欢迎来到我们的城市", "私たちの街へようこそ", "歡迎來到我們的城市"],
+    "explanation": "\"우리 도시에 오신 것을 환영합니다\" is Korean, written in Hangul with its distinctive block-shaped syllables. Chinese uses only hanzi, Japanese mixes kanji with kana, and Traditional Chinese uses complex hanzi."
+  },
+  {
+    "id": "text-to-lang-korean-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Korean?",
+    "hint": "Korean Hangul uses distinctive geometric syllable blocks made of circles (ㅇ), lines (ㅣ, ㅡ), and angles (ㄱ, ㄴ).",
+    "image": "",
+    "correctAnswer": "기차역은 어디에 있나요?",
+    "wrongAnswers": ["火车站在哪里？", "駅はどこですか？", "火車站在哪裡？"],
+    "explanation": "\"기차역은 어디에 있나요?\" is Korean. Hangul blocks are visually distinct from Chinese hanzi, Japanese kana, and Traditional Chinese characters."
+  },
+  {
+    "id": "text-to-lang-korean-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Korean?",
+    "hint": "Korean Hangul uses distinctive geometric syllable blocks made of circles (ㅇ), lines (ㅣ, ㅡ), and angles (ㄱ, ㄴ).",
+    "image": "",
+    "correctAnswer": "대단히 감사합니다",
+    "wrongAnswers": ["非常感谢", "どうもありがとうございます", "非常感謝"],
+    "explanation": "\"대단히 감사합니다\" is Korean. The geometric Hangul syllable blocks with circles and lines are distinctive. Chinese uses dense hanzi, Japanese uses flowing hiragana, and Traditional Chinese uses complex hanzi."
+  },
+  {
+    "id": "text-to-lang-korean-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Korean?",
+    "hint": "Korean Hangul uses distinctive geometric syllable blocks made of circles (ㅇ), lines (ㅣ, ㅡ), and angles (ㄱ, ㄴ).",
+    "image": "",
+    "correctAnswer": "오늘 날씨가 아름답습니다",
+    "wrongAnswers": ["今天天气很好", "今日はとても良い天気です", "今天天氣很好"],
+    "explanation": "\"오늘 날씨가 아름답습니다\" is Korean. Hangul's blocky syllables with ㅇ, ㅏ, ㄴ are unmistakable once you know to look for them."
+  },
+  {
+    "id": "text-to-lang-turkish-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Turkish?",
+    "hint": "Turkish uses distinctive letters like ı (dotless i), İ, ş, ç, ğ, ö, ü and has vowel harmony patterns.",
+    "image": "",
+    "correctAnswer": "Şehrimize hoş geldiniz",
+    "wrongAnswers": ["Şəhərimizə xoş gəlmisiniz", "Shahrimizga xush kelibsiz", "Orașul nostru vă urează bun venit"],
+    "explanation": "\"Şehrimize hoş geldiniz\" is Turkish. Azerbaijani uses ə (schwa), Uzbek uses Latin without diacritics, and Romanian uses ă and î. The Turkish ş and \"hoş geldiniz\" are distinctive."
+  },
+  {
+    "id": "text-to-lang-turkish-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Turkish?",
+    "hint": "Turkish uses distinctive letters like ı (dotless i), İ, ş, ç, ğ, ö, ü and has vowel harmony patterns.",
+    "image": "",
+    "correctAnswer": "Tren istasyonu nerede?",
+    "wrongAnswers": ["Dəmiryol stansiyası haradadır?", "Temir yoʻl stantsiyasi qayerda?", "Unde este gara?"],
+    "explanation": "\"Tren istasyonu nerede?\" is Turkish. Azerbaijani uses ə and \"haradadır,\" Uzbek uses ʻ and different vocabulary, and Romanian uses \"Unde este.\""
+  },
+  {
+    "id": "text-to-lang-turkish-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Turkish?",
+    "hint": "Turkish uses distinctive letters like ı (dotless i), İ, ş, ç, ğ, ö, ü and has vowel harmony patterns.",
+    "image": "",
+    "correctAnswer": "Çok teşekkür ederim",
+    "wrongAnswers": ["Çox sağ olun", "Katta rahmat", "Mulțumesc foarte mult"],
+    "explanation": "\"Çok teşekkür ederim\" is Turkish. The Ç, ş, ü, and the phrase \"teşekkür ederim\" are distinctly Turkish. Azerbaijani uses \"Çox sağ olun,\" Uzbek lacks these diacritics, and Romanian uses \"Mulțumesc.\""
+  },
+  {
+    "id": "text-to-lang-turkish-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Turkish?",
+    "hint": "Turkish uses distinctive letters like ı (dotless i), İ, ş, ç, ğ, ö, ü and has vowel harmony patterns.",
+    "image": "",
+    "correctAnswer": "Bugün hava çok güzel",
+    "wrongAnswers": ["Bu gün hava çox gözəldir", "Bugun ob-havo chiroyli", "Astăzi vremea este frumoasă"],
+    "explanation": "\"Bugün hava çok güzel\" is Turkish. The ü in \"Bugün\" and \"güzel\" plus \"çok\" are Turkish markers. Azerbaijani uses ə in \"gözəldir,\" Uzbek lacks diacritics, and Romanian uses \"Astăzi\" and \"frumoasă.\""
+  },
+  {
+    "id": "text-to-lang-vietnamese-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Vietnamese?",
+    "hint": "Vietnamese uses Latin letters with extensive diacritical marks and tone marks (ă, â, ê, ô, ơ, ư, đ, and stacking accents).",
+    "image": "",
+    "correctAnswer": "Chào mừng đến thành phố của chúng tôi",
+    "wrongAnswers": ["Maligayang pagdating sa aming lungsod", "Selamat datang di kota kami", "Selamat datang ke bandar kami"],
+    "explanation": "\"Chào mừng đến thành phố của chúng tôi\" is Vietnamese. The heavy diacritics (ừ, đ, à, ố) stacked on Latin letters are uniquely Vietnamese. Filipino, Indonesian, and Malay use plain Latin letters."
+  },
+  {
+    "id": "text-to-lang-vietnamese-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Vietnamese?",
+    "hint": "Vietnamese uses Latin letters with extensive diacritical marks and tone marks (ă, â, ê, ô, ơ, ư, đ, and stacking accents).",
+    "image": "",
+    "correctAnswer": "Ga xe lửa ở đâu?",
+    "wrongAnswers": ["Nasaan ang istasyon ng tren?", "Di mana stasiun kereta api?", "Di manakah stesen kereta api?"],
+    "explanation": "\"Ga xe lửa ở đâu?\" is Vietnamese. The letters ử, ở, đ, and â with their stacked diacritics are unmistakably Vietnamese. Filipino, Indonesian, and Malay use unaccented Latin script."
+  },
+  {
+    "id": "text-to-lang-vietnamese-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Vietnamese?",
+    "hint": "Vietnamese uses Latin letters with extensive diacritical marks and tone marks (ă, â, ê, ô, ơ, ư, đ, and stacking accents).",
+    "image": "",
+    "correctAnswer": "Cảm ơn rất nhiều",
+    "wrongAnswers": ["Maraming salamat po", "Terima kasih banyak", "Terima kasih banyak-banyak"],
+    "explanation": "\"Cảm ơn rất nhiều\" is Vietnamese. The ả, ơ, and ấ diacritics are uniquely Vietnamese. Filipino uses \"Maraming salamat,\" and Indonesian/Malay use \"Terima kasih\" without diacritics."
+  },
+  {
+    "id": "text-to-lang-vietnamese-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Vietnamese?",
+    "hint": "Vietnamese uses Latin letters with extensive diacritical marks and tone marks (ă, â, ê, ô, ơ, ư, đ, and stacking accents).",
+    "image": "",
+    "correctAnswer": "Hôm nay thời tiết rất đẹp",
+    "wrongAnswers": ["Maganda ang panahon ngayon", "Cuaca hari ini sangat indah", "Cuaca hari ini sangat cantik"],
+    "explanation": "\"Hôm nay thời tiết rất đẹp\" is Vietnamese. The ô, ờ, ế, ấ, ẹ diacritics are unmistakably Vietnamese. Filipino, Indonesian, and Malay all use plain Latin letters."
+  },
+  {
+    "id": "text-to-lang-italian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Italian?",
+    "hint": "Italian features double consonants, words ending in vowels, and distinctive words like \"nella,\" \"molto,\" and \"stazione.\"",
+    "image": "",
+    "correctAnswer": "Benvenuto nella nostra città",
+    "wrongAnswers": ["Bienvenido a nuestra ciudad", "Bem-vindo à nossa cidade", "Benvingut a la nostra ciutat"],
+    "explanation": "\"Benvenuto nella nostra città\" is Italian. The double l in \"nella\" and accent on \"città\" are Italian markers. Spanish uses \"Bienvenido,\" Portuguese uses \"Bem-vindo,\" and Catalan uses \"Benvingut.\""
+  },
+  {
+    "id": "text-to-lang-italian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Italian?",
+    "hint": "Italian features double consonants, words ending in vowels, and distinctive words like \"nella,\" \"molto,\" and \"stazione.\"",
+    "image": "",
+    "correctAnswer": "Dov'è la stazione ferroviaria?",
+    "wrongAnswers": ["¿Dónde está la estación de tren?", "Onde fica a estação de trem?", "On és l'estació de tren?"],
+    "explanation": "\"Dov'è la stazione ferroviaria?\" is Italian. The apostrophe in \"Dov'è\" and \"stazione\" with z are Italian. Spanish uses ¿ and \"estación,\" Portuguese uses \"estação,\" and Catalan uses \"l'estació.\""
+  },
+  {
+    "id": "text-to-lang-italian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Italian?",
+    "hint": "Italian features double consonants, words ending in vowels, and distinctive words like \"nella,\" \"molto,\" and \"stazione.\"",
+    "image": "",
+    "correctAnswer": "Grazie mille",
+    "wrongAnswers": ["Muchas gracias", "Muito obrigado", "Moltes gràcies"],
+    "explanation": "\"Grazie mille\" is Italian. \"Grazie\" with the -ie ending and \"mille\" (thousand) are distinctly Italian. Spanish uses \"gracias,\" Portuguese uses \"obrigado,\" and Catalan uses \"gràcies.\""
+  },
+  {
+    "id": "text-to-lang-italian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Italian?",
+    "hint": "Italian features double consonants, words ending in vowels, and distinctive words like \"nella,\" \"molto,\" and \"stazione.\"",
+    "image": "",
+    "correctAnswer": "Il tempo è bello oggi",
+    "wrongAnswers": ["El clima está hermoso hoy", "O tempo está lindo hoje", "El temps és bonic avui"],
+    "explanation": "\"Il tempo è bello oggi\" is Italian. \"Il\" as a definite article and \"bello\" are Italian. Spanish uses \"El clima\" and \"hermoso,\" Portuguese uses \"O tempo\" and \"lindo,\" and Catalan uses \"El temps\" and \"bonic.\""
+  },
+  {
+    "id": "text-to-lang-thai-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Thai?",
+    "hint": "Thai script has looping, circular letterforms with tone marks and vowel signs above and below the baseline. It has no spaces between words.",
+    "image": "",
+    "correctAnswer": "ยินดีต้อนรับสู่เมืองของเรา",
+    "wrongAnswers": ["ຍິນດີຕ້ອນຮັບສູ່ເມືອງຂອງພວກເຮົາ", "សូមស្វាគមន៍មកកាន់ទីក្រុងរបស់យើង", "ကျွန်ုပ်တို့မြို့သို့ကြိုဆိုပါသည်"],
+    "explanation": "\"ยินดีต้อนรับสู่เมืองของเรา\" is Thai. Thai has distinctive circular loops and short tone marks. Lao looks similar but has simpler, less curvy forms. Khmer has elaborate subscript characters. Burmese has very round, bubble-like shapes."
+  },
+  {
+    "id": "text-to-lang-thai-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Thai?",
+    "hint": "Thai script has looping, circular letterforms with tone marks and vowel signs above and below the baseline. It has no spaces between words.",
+    "image": "",
+    "correctAnswer": "สถานีรถไฟอยู่ที่ไหน?",
+    "wrongAnswers": ["ສະຖານີລົດໄຟຢູ່ໃສ?", "ស្ថានីយ៍រថភ្លើងនៅឯណា?", "ဘူတာရုံဘယ်မှာလဲ?"],
+    "explanation": "\"สถานีรถไฟอยู่ที่ไหน?\" is Thai. Thai characters have distinctive loops at the top of letters. Lao characters are simpler and more angular. Khmer has unique subscript consonants. Burmese uses very round shapes."
+  },
+  {
+    "id": "text-to-lang-thai-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Thai?",
+    "hint": "Thai script has looping, circular letterforms with tone marks and vowel signs above and below the baseline. It has no spaces between words.",
+    "image": "",
+    "correctAnswer": "ขอบคุณมาก",
+    "wrongAnswers": ["ຂອບໃຈຫຼາຍໆ", "អរគុណច្រើន", "ကျေးဇူးအများကြီးတင်ပါတယ်"],
+    "explanation": "\"ขอบคุณมาก\" is Thai meaning \"Thank you very much.\" Thai letters like ข, อ, บ have characteristic loops. Lao \"ຂອບໃຈ\" looks similar but with simpler forms. Khmer and Burmese use visually distinct scripts."
+  },
+  {
+    "id": "text-to-lang-thai-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Thai?",
+    "hint": "Thai script has looping, circular letterforms with tone marks and vowel signs above and below the baseline. It has no spaces between words.",
+    "image": "",
+    "correctAnswer": "วันนี้อากาศสวยงาม",
+    "wrongAnswers": ["ມື້ນີ້ອາກາດງາມ", "ថ្ងៃនេះអាកាសធាតុស្អាត", "ဒီနေ့ရာသီဥတုလှပါတယ်"],
+    "explanation": "\"วันนี้อากาศสวยงาม\" is Thai. Look for the distinctive looping tops of Thai consonants like ว, น, อ, ส. Lao is similar but simpler, Khmer has tall stacking, and Burmese has very round bubbles."
+  },
+  {
+    "id": "text-to-lang-polish-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Polish?",
+    "hint": "Polish uses distinctive diacritics: ą, ę (nasal vowels), ć, ś, ź, ż, ł, ń, and ó. Look for consonant clusters like sz, cz, rz.",
+    "image": "",
+    "correctAnswer": "Witamy w naszym mieście",
+    "wrongAnswers": ["Vítejte v našem městě", "Vitajte v našom meste", "Üdvözöljük városunkban"],
+    "explanation": "\"Witamy w naszym mieście\" is Polish. The \"ś\" in \"mieście\" and \"W\" as a preposition are Polish markers. Czech uses \"Vítejte\" with háčeks, Slovak uses \"Vitajte,\" and Hungarian uses \"Üdvözöljük.\""
+  },
+  {
+    "id": "text-to-lang-polish-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Polish?",
+    "hint": "Polish uses distinctive diacritics: ą, ę (nasal vowels), ć, ś, ź, ż, ł, ń, and ó. Look for consonant clusters like sz, cz, rz.",
+    "image": "",
+    "correctAnswer": "Gdzie jest dworzec kolejowy?",
+    "wrongAnswers": ["Kde je vlakové nádraží?", "Kde je vlaková stanica?", "Hol van a vasútállomás?"],
+    "explanation": "\"Gdzie jest dworzec kolejowy?\" is Polish. The consonant clusters \"Gdzie,\" \"dw,\" and \"rz\" are distinctly Polish. Czech uses \"Kde\" and \"nádraží,\" Slovak uses \"Kde\" and \"stanica,\" and Hungarian uses \"Hol van.\""
+  },
+  {
+    "id": "text-to-lang-polish-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Polish?",
+    "hint": "Polish uses distinctive diacritics: ą, ę (nasal vowels), ć, ś, ź, ż, ł, ń, and ó. Look for consonant clusters like sz, cz, rz.",
+    "image": "",
+    "correctAnswer": "Dziękuję bardzo",
+    "wrongAnswers": ["Děkuji mnohokrát", "Ďakujem veľmi pekne", "Köszönöm szépen"],
+    "explanation": "\"Dziękuję bardzo\" is Polish. The ę and the cluster \"Dzi\" are uniquely Polish. Czech uses \"Děkuji\" with ě, Slovak uses \"Ďakujem\" with ď, and Hungarian uses \"Köszönöm\" with ö."
+  },
+  {
+    "id": "text-to-lang-polish-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Polish?",
+    "hint": "Polish uses distinctive diacritics: ą, ę (nasal vowels), ć, ś, ź, ż, ł, ń, and ó. Look for consonant clusters like sz, cz, rz.",
+    "image": "",
+    "correctAnswer": "Dzisiaj jest piękna pogoda",
+    "wrongAnswers": ["Dnes je krásné počasí", "Dnes je krásne počasie", "Ma gyönyörű az idő"],
+    "explanation": "\"Dzisiaj jest piękna pogoda\" is Polish. The \"Dz\" cluster and \"ę\" in \"piękna\" are Polish markers. Czech uses \"Dnes\" and \"počasí,\" Slovak uses \"Dnes\" and \"počasie,\" and Hungarian uses \"Ma gyönyörű.\""
+  },
+  {
+    "id": "text-to-lang-ukrainian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Ukrainian?",
+    "hint": "Ukrainian Cyrillic has unique letters: І, Ї, Є, and Ґ. It does not use Ё, Ъ, or Ы (which are Russian).",
+    "image": "",
+    "correctAnswer": "Ласкаво просимо до нашого міста",
+    "wrongAnswers": ["Добро пожаловать в наш город", "Сардэчна запрашаем у наш горад", "Добре дошли в нашия град"],
+    "explanation": "\"Ласкаво просимо до нашого міста\" is Ukrainian. The letter і (with dot) and \"міста\" are distinctly Ukrainian. Russian uses \"пожаловать\" and ы, Belarusian uses э, and Bulgarian uses \"Добре дошли.\""
+  },
+  {
+    "id": "text-to-lang-ukrainian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Ukrainian?",
+    "hint": "Ukrainian Cyrillic has unique letters: І, Ї, Є, and Ґ. It does not use Ё, Ъ, or Ы (which are Russian).",
+    "image": "",
+    "correctAnswer": "Де знаходиться залізничний вокзал?",
+    "wrongAnswers": ["Где находится железнодорожный вокзал?", "Дзе знаходзіцца чыгуначны вакзал?", "Къде е жп гарата?"],
+    "explanation": "\"Де знаходиться залізничний вокзал?\" is Ukrainian. The і in \"залізничний\" and \"знаходиться\" are Ukrainian. Russian uses \"Где\" and ы, Belarusian uses \"Дзе\" and і, and Bulgarian uses \"Къде.\""
+  },
+  {
+    "id": "text-to-lang-ukrainian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Ukrainian?",
+    "hint": "Ukrainian Cyrillic has unique letters: І, Ї, Є, and Ґ. It does not use Ё, Ъ, or Ы (which are Russian).",
+    "image": "",
+    "correctAnswer": "Щиро дякую",
+    "wrongAnswers": ["Большое спасибо", "Вялікі дзякуй", "Благодаря много"],
+    "explanation": "\"Щиро дякую\" is Ukrainian meaning \"Thank you very much.\" The word \"дякую\" is uniquely Ukrainian. Russian uses \"спасибо,\" Belarusian uses \"дзякуй\" with дз, and Bulgarian uses \"Благодаря.\""
+  },
+  {
+    "id": "text-to-lang-ukrainian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Ukrainian?",
+    "hint": "Ukrainian Cyrillic has unique letters: І, Ї, Є, and Ґ. It does not use Ё, Ъ, or Ы (which are Russian).",
+    "image": "",
+    "correctAnswer": "Сьогодні чудова погода",
+    "wrongAnswers": ["Сегодня прекрасная погода", "Сёння цудоўнае надвор'е", "Днес времето е прекрасно"],
+    "explanation": "\"Сьогодні чудова погода\" is Ukrainian. \"Сьогодні\" with ь and і is distinctly Ukrainian. Russian uses \"Сегодня\" with я, Belarusian uses \"Сёння\" with ё, and Bulgarian uses \"Днес.\""
+  },
+  {
+    "id": "text-to-lang-dutch-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Dutch?",
+    "hint": "Dutch uses ij, oe, aa, ee, oo digraphs, and has words like \"het,\" \"de,\" \"van,\" and \"zijn.\" It looks like a mix of English and German.",
+    "image": "",
+    "correctAnswer": "Welkom in onze stad",
+    "wrongAnswers": ["Willkommen in unserer Stadt", "Welcome to our city", "Velkommen til vores by"],
+    "explanation": "\"Welkom in onze stad\" is Dutch. \"Onze\" and \"stad\" are Dutch markers. German capitalizes \"Stadt,\" English uses \"Welcome to our city,\" and Danish uses \"Velkommen\" and \"vores.\""
+  },
+  {
+    "id": "text-to-lang-dutch-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Dutch?",
+    "hint": "Dutch uses ij, oe, aa, ee, oo digraphs, and has words like \"het,\" \"de,\" \"van,\" and \"zijn.\" It looks like a mix of English and German.",
+    "image": "",
+    "correctAnswer": "Waar is het treinstation?",
+    "wrongAnswers": ["Wo ist der Bahnhof?", "Where is the train station?", "Hvor er togstationen?"],
+    "explanation": "\"Waar is het treinstation?\" is Dutch. \"Waar,\" \"het,\" and \"treinstation\" are Dutch. German uses \"Wo\" and \"der Bahnhof,\" English is plain, and Danish uses \"Hvor\" and \"togstationen.\""
+  },
+  {
+    "id": "text-to-lang-dutch-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Dutch?",
+    "hint": "Dutch uses ij, oe, aa, ee, oo digraphs, and has words like \"het,\" \"de,\" \"van,\" and \"zijn.\" It looks like a mix of English and German.",
+    "image": "",
+    "correctAnswer": "Heel erg bedankt",
+    "wrongAnswers": ["Vielen Dank", "Thank you very much", "Mange tak"],
+    "explanation": "\"Heel erg bedankt\" is Dutch. \"Heel erg\" (very much) and \"bedankt\" are distinctly Dutch. German uses \"Vielen Dank,\" English is recognizable, and Danish uses \"Mange tak.\""
+  },
+  {
+    "id": "text-to-lang-dutch-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Dutch?",
+    "hint": "Dutch uses ij, oe, aa, ee, oo digraphs, and has words like \"het,\" \"de,\" \"van,\" and \"zijn.\" It looks like a mix of English and German.",
+    "image": "",
+    "correctAnswer": "Het weer is vandaag prachtig",
+    "wrongAnswers": ["Das Wetter ist heute schön", "The weather is beautiful today", "Vejret er smukt i dag"],
+    "explanation": "\"Het weer is vandaag prachtig\" is Dutch. \"Het weer,\" \"vandaag,\" and \"prachtig\" are Dutch. German uses \"Das Wetter\" and \"schön,\" and Danish uses \"Vejret\" and \"smukt.\""
+  },
+  {
+    "id": "text-to-lang-romanian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Romanian?",
+    "hint": "Romanian uses ă, â, î, ș, ț — unique diacritics among Romance languages. It has Slavic loanwords mixed with Latin roots.",
+    "image": "",
+    "correctAnswer": "Bine ați venit în orașul nostru",
+    "wrongAnswers": ["Bienvenido a nuestra ciudad", "Bem-vindo à nossa cidade", "Benvenuto nella nostra città"],
+    "explanation": "\"Bine ați venit în orașul nostru\" is Romanian. The ț in \"ați,\" î in \"în,\" and ș in \"orașul\" are uniquely Romanian. Spanish, Portuguese, and Italian lack these diacritics."
+  },
+  {
+    "id": "text-to-lang-romanian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Romanian?",
+    "hint": "Romanian uses ă, â, î, ș, ț — unique diacritics among Romance languages. It has Slavic loanwords mixed with Latin roots.",
+    "image": "",
+    "correctAnswer": "Unde este gara?",
+    "wrongAnswers": ["¿Dónde está la estación de tren?", "Onde fica a estação de trem?", "Dov'è la stazione ferroviaria?"],
+    "explanation": "\"Unde este gara?\" is Romanian. \"Unde\" and \"gara\" are Romanian vocabulary. Spanish uses \"¿Dónde está,\" Portuguese uses \"Onde fica,\" and Italian uses \"Dov'è.\""
+  },
+  {
+    "id": "text-to-lang-romanian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Romanian?",
+    "hint": "Romanian uses ă, â, î, ș, ț — unique diacritics among Romance languages. It has Slavic loanwords mixed with Latin roots.",
+    "image": "",
+    "correctAnswer": "Mulțumesc foarte mult",
+    "wrongAnswers": ["Muchas gracias", "Muito obrigado", "Grazie mille"],
+    "explanation": "\"Mulțumesc foarte mult\" is Romanian. The ț in \"Mulțumesc\" is uniquely Romanian. Spanish uses \"Muchas gracias,\" Portuguese uses \"Muito obrigado,\" and Italian uses \"Grazie mille.\""
+  },
+  {
+    "id": "text-to-lang-romanian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Romanian?",
+    "hint": "Romanian uses ă, â, î, ș, ț — unique diacritics among Romance languages. It has Slavic loanwords mixed with Latin roots.",
+    "image": "",
+    "correctAnswer": "Astăzi vremea este frumoasă",
+    "wrongAnswers": ["El clima está hermoso hoy", "O tempo está lindo hoje", "Il tempo è bello oggi"],
+    "explanation": "\"Astăzi vremea este frumoasă\" is Romanian. The ă in \"Astăzi\" and \"frumoasă\" are distinctly Romanian diacritics not found in other Romance languages."
+  },
+  {
+    "id": "text-to-lang-greek-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Greek?",
+    "hint": "Greek uses its own alphabet with letters like α, β, γ, δ, θ, λ, π, σ, φ, ω. It uses a single accent mark (tonos) over vowels.",
+    "image": "",
+    "correctAnswer": "Καλώς ήρθατε στην πόλη μας",
+    "wrongAnswers": ["Добро пожаловать в наш город", "Ласкаво просимо до нашого міста", "Добре дошли в нашия град"],
+    "explanation": "\"Καλώς ήρθατε στην πόλη μας\" is Greek. Greek letters like Κ, λ, ω, π, η are distinct from Cyrillic. Russian, Ukrainian, and Bulgarian all use Cyrillic script which looks different."
+  },
+  {
+    "id": "text-to-lang-greek-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Greek?",
+    "hint": "Greek uses its own alphabet with letters like α, β, γ, δ, θ, λ, π, σ, φ, ω. It uses a single accent mark (tonos) over vowels.",
+    "image": "",
+    "correctAnswer": "Πού είναι ο σιδηροδρομικός σταθμός;",
+    "wrongAnswers": ["Где находится железнодорожный вокзал?", "Де знаходиться залізничний вокзал?", "Къде е жп гарата?"],
+    "explanation": "\"Πού είναι ο σιδηροδρομικός σταθμός;\" is Greek. The ; is used as a question mark in Greek. Letters like Π, ο, σ, θ are uniquely Greek. Cyrillic scripts look similar but use different letterforms."
+  },
+  {
+    "id": "text-to-lang-greek-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Greek?",
+    "hint": "Greek uses its own alphabet with letters like α, β, γ, δ, θ, λ, π, σ, φ, ω. It uses a single accent mark (tonos) over vowels.",
+    "image": "",
+    "correctAnswer": "Ευχαριστώ πολύ",
+    "wrongAnswers": ["Большое спасибо", "Щиро дякую", "Благодаря много"],
+    "explanation": "\"Ευχαριστώ πολύ\" is Greek. Letters like Ε, υ, χ, ρ, σ, τ, ω, π, λ are distinctly Greek. Russian uses \"спасибо,\" Ukrainian uses \"дякую,\" and Bulgarian uses \"Благодаря\" in Cyrillic."
+  },
+  {
+    "id": "text-to-lang-greek-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Greek?",
+    "hint": "Greek uses its own alphabet with letters like α, β, γ, δ, θ, λ, π, σ, φ, ω. It uses a single accent mark (tonos) over vowels.",
+    "image": "",
+    "correctAnswer": "Ο καιρός είναι υπέροχος σήμερα",
+    "wrongAnswers": ["Сегодня прекрасная погода", "Сьогодні чудова погода", "Днес времето е прекрасно"],
+    "explanation": "\"Ο καιρός είναι υπέροχος σήμερα\" is Greek. The distinctive Greek letters like Ο, κ, ρ, ε, ι, υ, π, σ, η distinguish it from Cyrillic scripts used by Russian, Ukrainian, and Bulgarian."
+  },
+  {
+    "id": "text-to-lang-czech-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Czech?",
+    "hint": "Czech uses háčeks (ˇ) extensively: č, š, ž, ř, ď, ť, ň, and also ě and ů. The letter ř is uniquely Czech.",
+    "image": "",
+    "correctAnswer": "Vítejte v našem městě",
+    "wrongAnswers": ["Vitajte v našom meste", "Witamy w naszym mieście", "Üdvözöljük városunkban"],
+    "explanation": "\"Vítejte v našem městě\" is Czech. The ě in \"městě\" and \"Vítejte\" are Czech markers. Slovak uses \"Vitajte\" and \"meste\" (without ě), Polish uses \"Witamy\" with ś, and Hungarian is completely different."
+  },
+  {
+    "id": "text-to-lang-czech-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Czech?",
+    "hint": "Czech uses háčeks (ˇ) extensively: č, š, ž, ř, ď, ť, ň, and also ě and ů. The letter ř is uniquely Czech.",
+    "image": "",
+    "correctAnswer": "Kde je vlakové nádraží?",
+    "wrongAnswers": ["Kde je vlaková stanica?", "Gdzie jest dworzec kolejowy?", "Hol van a vasútállomás?"],
+    "explanation": "\"Kde je vlakové nádraží?\" is Czech. The ž in \"nádraží\" and \"vlakové\" with é are Czech. Slovak uses \"stanica\" instead of \"nádraží,\" Polish uses \"Gdzie\" and \"dworzec,\" and Hungarian is completely different."
+  },
+  {
+    "id": "text-to-lang-czech-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Czech?",
+    "hint": "Czech uses háčeks (ˇ) extensively: č, š, ž, ř, ď, ť, ň, and also ě and ů. The letter ř is uniquely Czech.",
+    "image": "",
+    "correctAnswer": "Děkuji mnohokrát",
+    "wrongAnswers": ["Ďakujem veľmi pekne", "Dziękuję bardzo", "Köszönöm szépen"],
+    "explanation": "\"Děkuji mnohokrát\" is Czech. The ě in \"Děkuji\" is distinctly Czech. Slovak uses \"Ďakujem\" with ď and ľ, Polish uses \"Dziękuję\" with ę, and Hungarian uses \"Köszönöm\" with ö."
+  },
+  {
+    "id": "text-to-lang-czech-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Czech?",
+    "hint": "Czech uses háčeks (ˇ) extensively: č, š, ž, ř, ď, ť, ň, and also ě and ů. The letter ř is uniquely Czech.",
+    "image": "",
+    "correctAnswer": "Dnes je krásné počasí",
+    "wrongAnswers": ["Dnes je krásne počasie", "Dzisiaj jest piękna pogoda", "Ma gyönyörű az idő"],
+    "explanation": "\"Dnes je krásné počasí\" is Czech. The é in \"krásné\" and í in \"počasí\" are Czech. Slovak uses \"krásne\" and \"počasie\" (with ie), Polish uses \"Dzisiaj\" and \"piękna,\" and Hungarian is unrelated."
+  },
+  {
+    "id": "text-to-lang-swedish-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Swedish?",
+    "hint": "Swedish uses å, ä, ö (three extra vowels) and has distinctive words like \"och,\" \"är,\" \"det,\" and \"mycket.\"",
+    "image": "",
+    "correctAnswer": "Välkommen till vår stad",
+    "wrongAnswers": ["Velkommen til vores by", "Velkommen til byen vår", "Willkommen in unserer Stadt"],
+    "explanation": "\"Välkommen till vår stad\" is Swedish. The ä in \"Välkommen\" and \"vår\" with å are Swedish markers. Danish uses \"Velkommen\" and \"vores by,\" Norwegian uses \"byen vår,\" and German uses \"Willkommen.\""
+  },
+  {
+    "id": "text-to-lang-swedish-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Swedish?",
+    "hint": "Swedish uses å, ä, ö (three extra vowels) and has distinctive words like \"och,\" \"är,\" \"det,\" and \"mycket.\"",
+    "image": "",
+    "correctAnswer": "Var är tågstationen?",
+    "wrongAnswers": ["Hvor er togstationen?", "Hvor er togstasjonen?", "Wo ist der Bahnhof?"],
+    "explanation": "\"Var är tågstationen?\" is Swedish. \"Var\" and \"är\" with ä, and å in \"tågstationen\" are Swedish. Danish uses \"Hvor\" and \"togstationen,\" Norwegian uses \"Hvor\" and \"togstasjonen,\" and German uses \"Wo ist.\""
+  },
+  {
+    "id": "text-to-lang-swedish-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Swedish?",
+    "hint": "Swedish uses å, ä, ö (three extra vowels) and has distinctive words like \"och,\" \"är,\" \"det,\" and \"mycket.\"",
+    "image": "",
+    "correctAnswer": "Tack så mycket",
+    "wrongAnswers": ["Mange tak", "Tusen takk", "Vielen Dank"],
+    "explanation": "\"Tack så mycket\" is Swedish. \"Tack\" and \"så mycket\" with å are Swedish. Danish uses \"Mange tak,\" Norwegian uses \"Tusen takk,\" and German uses \"Vielen Dank.\""
+  },
+  {
+    "id": "text-to-lang-swedish-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Swedish?",
+    "hint": "Swedish uses å, ä, ö (three extra vowels) and has distinctive words like \"och,\" \"är,\" \"det,\" and \"mycket.\"",
+    "image": "",
+    "correctAnswer": "Vädret är vackert idag",
+    "wrongAnswers": ["Vejret er smukt i dag", "Været er fint i dag", "Das Wetter ist heute schön"],
+    "explanation": "\"Vädret är vackert idag\" is Swedish. \"Vädret\" with ä and \"är\" are Swedish. Danish uses \"Vejret\" and \"smukt,\" Norwegian uses \"Været\" and \"fint,\" and German uses \"Das Wetter.\""
+  },
+  {
+    "id": "text-to-lang-hungarian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hungarian?",
+    "hint": "Hungarian uses double acute accents (ő, ű) found in no other language, plus á, é, í, ó, ú, ö, ü. It is not related to neighboring Slavic languages.",
+    "image": "",
+    "correctAnswer": "Üdvözöljük városunkban",
+    "wrongAnswers": ["Vítejte v našem městě", "Witamy w naszym mieście", "Bine ați venit în orașul nostru"],
+    "explanation": "\"Üdvözöljük városunkban\" is Hungarian. The ü, ö, and agglutinative structure \"-unkban\" are Hungarian. Czech uses háčeks, Polish uses ą and ę, and Romanian uses ă and ț."
+  },
+  {
+    "id": "text-to-lang-hungarian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hungarian?",
+    "hint": "Hungarian uses double acute accents (ő, ű) found in no other language, plus á, é, í, ó, ú, ö, ü. It is not related to neighboring Slavic languages.",
+    "image": "",
+    "correctAnswer": "Hol van a vasútállomás?",
+    "wrongAnswers": ["Kde je vlakové nádraží?", "Gdzie jest dworzec kolejowy?", "Unde este gara?"],
+    "explanation": "\"Hol van a vasútállomás?\" is Hungarian. The compound word \"vasútállomás\" with long á is distinctly Hungarian. Czech uses \"Kde je,\" Polish uses \"Gdzie jest,\" and Romanian uses \"Unde este.\""
+  },
+  {
+    "id": "text-to-lang-hungarian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hungarian?",
+    "hint": "Hungarian uses double acute accents (ő, ű) found in no other language, plus á, é, í, ó, ú, ö, ü. It is not related to neighboring Slavic languages.",
+    "image": "",
+    "correctAnswer": "Köszönöm szépen",
+    "wrongAnswers": ["Děkuji mnohokrát", "Dziękuję bardzo", "Mulțumesc foarte mult"],
+    "explanation": "\"Köszönöm szépen\" is Hungarian. The ö in \"Köszönöm\" and é in \"szépen\" are Hungarian markers. Czech uses \"Děkuji\" with ě, Polish uses \"Dziękuję\" with ę, and Romanian uses \"Mulțumesc\" with ț."
+  },
+  {
+    "id": "text-to-lang-hungarian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hungarian?",
+    "hint": "Hungarian uses double acute accents (ő, ű) found in no other language, plus á, é, í, ó, ú, ö, ü. It is not related to neighboring Slavic languages.",
+    "image": "",
+    "correctAnswer": "Ma gyönyörű az idő",
+    "wrongAnswers": ["Dnes je krásné počasí", "Dzisiaj jest piękna pogoda", "Astăzi vremea este frumoasă"],
+    "explanation": "\"Ma gyönyörű az idő\" is Hungarian. The double acute accent on ű in \"gyönyörű\" and ő in \"idő\" are unique to Hungarian. Czech uses háčeks, Polish uses ogonek, and Romanian uses ă."
+  },
+  {
+    "id": "text-to-lang-finnish-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Finnish?",
+    "hint": "Finnish has very long words with double vowels (aa, oo, uu, ii) and double consonants (kk, tt, pp). It uses ä and ö but not å.",
+    "image": "",
+    "correctAnswer": "Tervetuloa kaupunkiimme",
+    "wrongAnswers": ["Tere tulemast meie linna", "Laipni lūdzam mūsu pilsētā", "Üdvözöljük városunkban"],
+    "explanation": "\"Tervetuloa kaupunkiimme\" is Finnish. The double i in \"kaupunkiimme\" and long compound structure are Finnish. Estonian uses \"Tere tulemast,\" Latvian uses \"Laipni lūdzam,\" and Hungarian uses \"Üdvözöljük.\""
+  },
+  {
+    "id": "text-to-lang-finnish-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Finnish?",
+    "hint": "Finnish has very long words with double vowels (aa, oo, uu, ii) and double consonants (kk, tt, pp). It uses ä and ö but not å.",
+    "image": "",
+    "correctAnswer": "Missä on rautatieasema?",
+    "wrongAnswers": ["Kus on raudteejaam?", "Kur atrodas dzelzceļa stacija?", "Hol van a vasútállomás?"],
+    "explanation": "\"Missä on rautatieasema?\" is Finnish. The ä in \"Missä\" and the long compound \"rautatieasema\" are Finnish. Estonian uses \"Kus on,\" Latvian uses \"Kur atrodas,\" and Hungarian uses \"Hol van.\""
+  },
+  {
+    "id": "text-to-lang-finnish-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Finnish?",
+    "hint": "Finnish has very long words with double vowels (aa, oo, uu, ii) and double consonants (kk, tt, pp). It uses ä and ö but not å.",
+    "image": "",
+    "correctAnswer": "Paljon kiitoksia",
+    "wrongAnswers": ["Suur tänu", "Liels paldies", "Köszönöm szépen"],
+    "explanation": "\"Paljon kiitoksia\" is Finnish. The double i in \"kiitoksia\" and the -ia ending are Finnish. Estonian uses \"Suur tänu,\" Latvian uses \"Liels paldies,\" and Hungarian uses \"Köszönöm szépen.\""
+  },
+  {
+    "id": "text-to-lang-finnish-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Finnish?",
+    "hint": "Finnish has very long words with double vowels (aa, oo, uu, ii) and double consonants (kk, tt, pp). It uses ä and ö but not å.",
+    "image": "",
+    "correctAnswer": "Tänään on kaunis sää",
+    "wrongAnswers": ["Täna on ilus ilm", "Šodien ir skaists laiks", "Ma gyönyörű az idő"],
+    "explanation": "\"Tänään on kaunis sää\" is Finnish. The double ä in \"Tänään\" and \"sää\" are distinctly Finnish. Estonian uses \"Täna\" and \"ilm,\" Latvian uses \"Šodien\" and \"laiks,\" and Hungarian uses \"Ma gyönyörű.\""
+  },
+  {
+    "id": "text-to-lang-danish-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Danish?",
+    "hint": "Danish uses æ, ø, å and has distinctive words like \"det,\" \"og,\" \"er,\" and \"ikke.\" It differs from Norwegian in spelling patterns.",
+    "image": "",
+    "correctAnswer": "Velkommen til vores by",
+    "wrongAnswers": ["Velkommen til byen vår", "Välkommen till vår stad", "Willkommen in unserer Stadt"],
+    "explanation": "\"Velkommen til vores by\" is Danish. \"Vores\" is distinctly Danish (Norwegian uses \"vår\"). Swedish uses \"Välkommen\" with ä, and German uses \"Willkommen.\""
+  },
+  {
+    "id": "text-to-lang-danish-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Danish?",
+    "hint": "Danish uses æ, ø, å and has distinctive words like \"det,\" \"og,\" \"er,\" and \"ikke.\" It differs from Norwegian in spelling patterns.",
+    "image": "",
+    "correctAnswer": "Hvor er togstationen?",
+    "wrongAnswers": ["Hvor er togstasjonen?", "Var är tågstationen?", "Wo ist der Bahnhof?"],
+    "explanation": "\"Hvor er togstationen?\" is Danish. \"Togstationen\" with -tion is Danish spelling. Norwegian uses \"togstasjonen\" with -sjon, Swedish uses \"tågstationen\" with å, and German uses \"Bahnhof.\""
+  },
+  {
+    "id": "text-to-lang-danish-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Danish?",
+    "hint": "Danish uses æ, ø, å and has distinctive words like \"det,\" \"og,\" \"er,\" and \"ikke.\" It differs from Norwegian in spelling patterns.",
+    "image": "",
+    "correctAnswer": "Mange tak",
+    "wrongAnswers": ["Tusen takk", "Tack så mycket", "Vielen Dank"],
+    "explanation": "\"Mange tak\" is Danish. Norwegian uses \"Tusen takk\" (a thousand thanks), Swedish uses \"Tack så mycket,\" and German uses \"Vielen Dank.\""
+  },
+  {
+    "id": "text-to-lang-danish-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Danish?",
+    "hint": "Danish uses æ, ø, å and has distinctive words like \"det,\" \"og,\" \"er,\" and \"ikke.\" It differs from Norwegian in spelling patterns.",
+    "image": "",
+    "correctAnswer": "Vejret er smukt i dag",
+    "wrongAnswers": ["Været er fint i dag", "Vädret är vackert idag", "Das Wetter ist heute schön"],
+    "explanation": "\"Vejret er smukt i dag\" is Danish. \"Vejret\" and \"smukt\" are Danish. Norwegian uses \"Været\" and \"fint,\" Swedish uses \"Vädret\" and \"vackert,\" and German uses \"Das Wetter.\""
+  },
+  {
+    "id": "text-to-lang-norwegian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Norwegian?",
+    "hint": "Norwegian (Bokmål) uses æ, ø, å like Danish but has different vocabulary. Look for words like \"vår,\" \"ikke,\" and \"-sjon\" endings.",
+    "image": "",
+    "correctAnswer": "Velkommen til byen vår",
+    "wrongAnswers": ["Velkommen til vores by", "Välkommen till vår stad", "Willkommen in unserer Stadt"],
+    "explanation": "\"Velkommen til byen vår\" is Norwegian. \"Byen vår\" (our city) with the postposed possessive is Norwegian. Danish uses \"vores by\" with preposed possessive, Swedish uses \"vår stad\" with ä."
+  },
+  {
+    "id": "text-to-lang-norwegian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Norwegian?",
+    "hint": "Norwegian (Bokmål) uses æ, ø, å like Danish but has different vocabulary. Look for words like \"vår,\" \"ikke,\" and \"-sjon\" endings.",
+    "image": "",
+    "correctAnswer": "Hvor er togstasjonen?",
+    "wrongAnswers": ["Hvor er togstationen?", "Var är tågstationen?", "Wo ist der Bahnhof?"],
+    "explanation": "\"Hvor er togstasjonen?\" is Norwegian. The \"-stasjonen\" with -sjon spelling is Norwegian. Danish uses \"-stationen\" with -tion, Swedish uses \"tågstationen\" with å, and German uses \"Bahnhof.\""
+  },
+  {
+    "id": "text-to-lang-norwegian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Norwegian?",
+    "hint": "Norwegian (Bokmål) uses æ, ø, å like Danish but has different vocabulary. Look for words like \"vår,\" \"ikke,\" and \"-sjon\" endings.",
+    "image": "",
+    "correctAnswer": "Tusen takk",
+    "wrongAnswers": ["Mange tak", "Tack så mycket", "Vielen Dank"],
+    "explanation": "\"Tusen takk\" is Norwegian meaning \"a thousand thanks.\" Danish uses \"Mange tak\" (many thanks), Swedish uses \"Tack så mycket,\" and German uses \"Vielen Dank.\""
+  },
+  {
+    "id": "text-to-lang-norwegian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Norwegian?",
+    "hint": "Norwegian (Bokmål) uses æ, ø, å like Danish but has different vocabulary. Look for words like \"vår,\" \"ikke,\" and \"-sjon\" endings.",
+    "image": "",
+    "correctAnswer": "Været er fint i dag",
+    "wrongAnswers": ["Vejret er smukt i dag", "Vädret är vackert idag", "Das Wetter ist heute schön"],
+    "explanation": "\"Været er fint i dag\" is Norwegian. \"Været\" and \"fint\" are Norwegian. Danish uses \"Vejret\" and \"smukt,\" Swedish uses \"Vädret\" and \"vackert,\" and German uses \"Das Wetter.\""
+  },
+  {
+    "id": "text-to-lang-hebrew-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hebrew?",
+    "hint": "Hebrew uses square, block-like letters written right-to-left. It has no cursive connections between letters (unlike Arabic) and no dots below letters.",
+    "image": "",
+    "correctAnswer": "ברוכים הבאים לעיר שלנו",
+    "wrongAnswers": ["مرحباً بكم في مدينتنا", "به شهر ما خوش آمدید", "ہماری شہر میں خوش آمدید"],
+    "explanation": "\"ברוכים הבאים לעיר שלנו\" is Hebrew. Hebrew has distinctive square block letters without the connecting cursive flow of Arabic. Arabic and Persian use flowing connected script, and Urdu uses Nastaliq style."
+  },
+  {
+    "id": "text-to-lang-hebrew-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hebrew?",
+    "hint": "Hebrew uses square, block-like letters written right-to-left. It has no cursive connections between letters (unlike Arabic) and no dots below letters.",
+    "image": "",
+    "correctAnswer": "איפה תחנת הרכבת?",
+    "wrongAnswers": ["أين محطة القطار؟", "ایستگاه قطار کجاست؟", "ریلوے اسٹیشن کہاں ہے؟"],
+    "explanation": "\"איפה תחנת הרכבת?\" is Hebrew. The blocky, disconnected letters are Hebrew. Arabic has flowing connected script, Persian adds letters like گ and پ, and Urdu uses a more vertical Nastaliq style."
+  },
+  {
+    "id": "text-to-lang-hebrew-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hebrew?",
+    "hint": "Hebrew uses square, block-like letters written right-to-left. It has no cursive connections between letters (unlike Arabic) and no dots below letters.",
+    "image": "",
+    "correctAnswer": "תודה רבה",
+    "wrongAnswers": ["شكراً جزيلاً", "خیلی ممنون", "بہت بہت شکریہ"],
+    "explanation": "\"תודה רבה\" is Hebrew meaning \"Thank you very much.\" The square block letters are unmistakably Hebrew. Arabic, Persian, and Urdu all use flowing connected scripts."
+  },
+  {
+    "id": "text-to-lang-hebrew-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Hebrew?",
+    "hint": "Hebrew uses square, block-like letters written right-to-left. It has no cursive connections between letters (unlike Arabic) and no dots below letters.",
+    "image": "",
+    "correctAnswer": "מזג האוויר יפה היום",
+    "wrongAnswers": ["الطقس جميل اليوم", "هوا امروز زیباست", "آج موسم خوبصورت ہے"],
+    "explanation": "\"מזג האוויר יפה היום\" is Hebrew. Hebrew's disconnected square letters differ from the flowing Arabic script, Persian with its additional characters, and Urdu's distinctive Nastaliq calligraphy."
+  },
+  {
+    "id": "text-to-lang-persian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Persian?",
+    "hint": "Persian (Farsi) uses Arabic-based script but with added letters: پ (pe), چ (che), ژ (zhe), گ (gaf). It reads right-to-left.",
+    "image": "",
+    "correctAnswer": "به شهر ما خوش آمدید",
+    "wrongAnswers": ["مرحباً بكم في مدينتنا", "ہماری شہر میں خوش آمدید", "ברוכים הבאים לעיר שלנו"],
+    "explanation": "\"به شهر ما خوش آمدید\" is Persian. The word \"خوش آمدید\" (welcome) and vocabulary are distinctly Persian. Arabic uses \"مرحباً,\" Urdu uses similar script but different vocabulary, and Hebrew uses block letters."
+  },
+  {
+    "id": "text-to-lang-persian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Persian?",
+    "hint": "Persian (Farsi) uses Arabic-based script but with added letters: پ (pe), چ (che), ژ (zhe), گ (gaf). It reads right-to-left.",
+    "image": "",
+    "correctAnswer": "ایستگاه قطار کجاست؟",
+    "wrongAnswers": ["أين محطة القطار؟", "ریلوے اسٹیشن کہاں ہے؟", "?איפה תחנת הרכבת"],
+    "explanation": "\"ایستگاه قطار کجاست؟\" is Persian. \"ایستگاه\" (station) with گ and \"کجاست\" are Persian. Arabic uses \"أين محطة,\" Urdu uses \"ریلوے اسٹیشن,\" and Hebrew uses square block letters."
+  },
+  {
+    "id": "text-to-lang-persian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Persian?",
+    "hint": "Persian (Farsi) uses Arabic-based script but with added letters: پ (pe), چ (che), ژ (zhe), گ (gaf). It reads right-to-left.",
+    "image": "",
+    "correctAnswer": "خیلی ممنون",
+    "wrongAnswers": ["شكراً جزيلاً", "بہت بہت شکریہ", "תודה רבה"],
+    "explanation": "\"خیلی ممنون\" is Persian meaning \"Thank you very much.\" \"ممنون\" is distinctly Persian. Arabic uses \"شكراً جزيلاً,\" Urdu uses \"شکریہ,\" and Hebrew uses completely different block letters."
+  },
+  {
+    "id": "text-to-lang-persian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Persian?",
+    "hint": "Persian (Farsi) uses Arabic-based script but with added letters: پ (pe), چ (che), ژ (zhe), گ (gaf). It reads right-to-left.",
+    "image": "",
+    "correctAnswer": "هوا امروز زیباست",
+    "wrongAnswers": ["الطقس جميل اليوم", "آج موسم خوبصورت ہے", "מזג האוויר יפה היום"],
+    "explanation": "\"هوا امروز زیباست\" is Persian. \"امروز\" (today) and \"زیباست\" (is beautiful) are Persian vocabulary. Arabic uses \"الطقس\" and \"اليوم,\" Urdu uses \"موسم\" and \"خوبصورت,\" and Hebrew uses block letters."
+  },
+  {
+    "id": "text-to-lang-indonesian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Indonesian?",
+    "hint": "Indonesian uses plain Latin letters with no diacritics. Look for words like \"di,\" \"yang,\" \"dan,\" \"adalah,\" and the prefix \"ber-\" or \"me-\".",
+    "image": "",
+    "correctAnswer": "Selamat datang di kota kami",
+    "wrongAnswers": ["Selamat datang ke bandar kami", "Maligayang pagdating sa aming lungsod", "Chào mừng đến thành phố của chúng tôi"],
+    "explanation": "\"Selamat datang di kota kami\" is Indonesian. Indonesian uses \"di\" (at/in) and \"kota\" (city). Malay uses \"ke bandar,\" Filipino uses \"Maligayang pagdating,\" and Vietnamese uses heavy diacritics."
+  },
+  {
+    "id": "text-to-lang-indonesian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Indonesian?",
+    "hint": "Indonesian uses plain Latin letters with no diacritics. Look for words like \"di,\" \"yang,\" \"dan,\" \"adalah,\" and the prefix \"ber-\" or \"me-\".",
+    "image": "",
+    "correctAnswer": "Di mana stasiun kereta api?",
+    "wrongAnswers": ["Di manakah stesen kereta api?", "Nasaan ang istasyon ng tren?", "Ga xe lửa ở đâu?"],
+    "explanation": "\"Di mana stasiun kereta api?\" is Indonesian. \"Stasiun\" is Indonesian spelling. Malay uses \"stesen\" instead, Filipino uses \"Nasaan ang istasyon,\" and Vietnamese uses diacritics like ử and ở."
+  },
+  {
+    "id": "text-to-lang-indonesian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Indonesian?",
+    "hint": "Indonesian uses plain Latin letters with no diacritics. Look for words like \"di,\" \"yang,\" \"dan,\" \"adalah,\" and the prefix \"ber-\" or \"me-\".",
+    "image": "",
+    "correctAnswer": "Terima kasih banyak",
+    "wrongAnswers": ["Terima kasih banyak-banyak", "Maraming salamat po", "Cảm ơn rất nhiều"],
+    "explanation": "\"Terima kasih banyak\" is Indonesian. Malay doubles it as \"banyak-banyak\" for emphasis, Filipino uses \"Maraming salamat po,\" and Vietnamese uses \"Cảm ơn\" with diacritics."
+  },
+  {
+    "id": "text-to-lang-indonesian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Indonesian?",
+    "hint": "Indonesian uses plain Latin letters with no diacritics. Look for words like \"di,\" \"yang,\" \"dan,\" \"adalah,\" and the prefix \"ber-\" or \"me-\".",
+    "image": "",
+    "correctAnswer": "Cuaca hari ini sangat indah",
+    "wrongAnswers": ["Cuaca hari ini sangat cantik", "Maganda ang panahon ngayon", "Hôm nay thời tiết rất đẹp"],
+    "explanation": "\"Cuaca hari ini sangat indah\" is Indonesian. Indonesian uses \"indah\" (beautiful). Malay uses \"cantik\" instead, Filipino uses \"Maganda\" and \"panahon,\" and Vietnamese uses heavy diacritics."
+  },
+  {
+    "id": "text-to-lang-filipino-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Filipino?",
+    "hint": "Filipino uses Latin letters with distinctive Austronesian words. Look for \"ang,\" \"ng,\" \"mga,\" \"sa,\" and \"po/ho\" particles.",
+    "image": "",
+    "correctAnswer": "Maligayang pagdating sa aming lungsod",
+    "wrongAnswers": ["Selamat datang di kota kami", "Selamat datang ke bandar kami", "Chào mừng đến thành phố của chúng tôi"],
+    "explanation": "\"Maligayang pagdating sa aming lungsod\" is Filipino. The \"ng\" clusters, \"sa,\" and \"Maligayang\" are Filipino markers. Indonesian uses \"Selamat datang di,\" Malay uses \"ke bandar,\" and Vietnamese uses diacritics."
+  },
+  {
+    "id": "text-to-lang-filipino-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Filipino?",
+    "hint": "Filipino uses Latin letters with distinctive Austronesian words. Look for \"ang,\" \"ng,\" \"mga,\" \"sa,\" and \"po/ho\" particles.",
+    "image": "",
+    "correctAnswer": "Nasaan ang istasyon ng tren?",
+    "wrongAnswers": ["Di mana stasiun kereta api?", "Di manakah stesen kereta api?", "Ga xe lửa ở đâu?"],
+    "explanation": "\"Nasaan ang istasyon ng tren?\" is Filipino. \"Nasaan,\" \"ang,\" and \"ng\" are uniquely Filipino. Indonesian uses \"Di mana\" and \"stasiun,\" Malay uses \"Di manakah\" and \"stesen,\" and Vietnamese uses diacritics."
+  },
+  {
+    "id": "text-to-lang-filipino-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Filipino?",
+    "hint": "Filipino uses Latin letters with distinctive Austronesian words. Look for \"ang,\" \"ng,\" \"mga,\" \"sa,\" and \"po/ho\" particles.",
+    "image": "",
+    "correctAnswer": "Maraming salamat po",
+    "wrongAnswers": ["Terima kasih banyak", "Terima kasih banyak-banyak", "Cảm ơn rất nhiều"],
+    "explanation": "\"Maraming salamat po\" is Filipino. \"Maraming,\" \"salamat,\" and the politeness particle \"po\" are Filipino. Indonesian and Malay use \"Terima kasih,\" and Vietnamese uses \"Cảm ơn\" with diacritics."
+  },
+  {
+    "id": "text-to-lang-filipino-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Filipino?",
+    "hint": "Filipino uses Latin letters with distinctive Austronesian words. Look for \"ang,\" \"ng,\" \"mga,\" \"sa,\" and \"po/ho\" particles.",
+    "image": "",
+    "correctAnswer": "Maganda ang panahon ngayon",
+    "wrongAnswers": ["Cuaca hari ini sangat indah", "Cuaca hari ini sangat cantik", "Hôm nay thời tiết rất đẹp"],
+    "explanation": "\"Maganda ang panahon ngayon\" is Filipino. \"Maganda,\" \"ang,\" and \"ngayon\" are Filipino words. Indonesian uses \"Cuaca\" and \"indah,\" Malay uses \"cantik,\" and Vietnamese uses diacritics."
+  },
+  {
+    "id": "text-to-lang-swahili-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Swahili?",
+    "hint": "Swahili uses Latin letters with Bantu-language patterns: noun class prefixes (m-, wa-, ki-, vi-) and no diacritics. Look for words like \"karibu,\" \"asante,\" \"na.\"",
+    "image": "",
+    "correctAnswer": "Karibu katika mji wetu",
+    "wrongAnswers": ["Selamat datang di kota kami", "Maligayang pagdating sa aming lungsod", "Welcome to our city"],
+    "explanation": "\"Karibu katika mji wetu\" is Swahili. \"Karibu\" (welcome), \"katika\" (in), and \"mji\" (city) are Swahili words. Indonesian uses \"Selamat datang,\" Filipino uses \"Maligayang pagdating,\" and English is recognizable."
+  },
+  {
+    "id": "text-to-lang-swahili-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Swahili?",
+    "hint": "Swahili uses Latin letters with Bantu-language patterns: noun class prefixes (m-, wa-, ki-, vi-) and no diacritics. Look for words like \"karibu,\" \"asante,\" \"na.\"",
+    "image": "",
+    "correctAnswer": "Stesheni ya treni iko wapi?",
+    "wrongAnswers": ["Di mana stasiun kereta api?", "Nasaan ang istasyon ng tren?", "Where is the train station?"],
+    "explanation": "\"Stesheni ya treni iko wapi?\" is Swahili. \"Iko wapi\" (where is it) and \"ya\" (of) are Swahili markers. Indonesian uses \"Di mana,\" Filipino uses \"Nasaan ang,\" and English is plain."
+  },
+  {
+    "id": "text-to-lang-swahili-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Swahili?",
+    "hint": "Swahili uses Latin letters with Bantu-language patterns: noun class prefixes (m-, wa-, ki-, vi-) and no diacritics. Look for words like \"karibu,\" \"asante,\" \"na.\"",
+    "image": "",
+    "correctAnswer": "Asante sana",
+    "wrongAnswers": ["Terima kasih banyak", "Maraming salamat po", "Thank you very much"],
+    "explanation": "\"Asante sana\" is Swahili meaning \"Thank you very much.\" \"Asante\" and \"sana\" are distinctly Swahili. Indonesian uses \"Terima kasih,\" Filipino uses \"Maraming salamat,\" and English is recognizable."
+  },
+  {
+    "id": "text-to-lang-swahili-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Swahili?",
+    "hint": "Swahili uses Latin letters with Bantu-language patterns: noun class prefixes (m-, wa-, ki-, vi-) and no diacritics. Look for words like \"karibu,\" \"asante,\" \"na.\"",
+    "image": "",
+    "correctAnswer": "Hali ya hewa ni nzuri leo",
+    "wrongAnswers": ["Cuaca hari ini sangat indah", "Maganda ang panahon ngayon", "The weather is beautiful today"],
+    "explanation": "\"Hali ya hewa ni nzuri leo\" is Swahili. \"Hali ya hewa\" (weather condition), \"nzuri\" (beautiful), and \"leo\" (today) are Swahili. Indonesian uses \"Cuaca,\" Filipino uses \"Maganda,\" and English is plain."
+  },
+  {
+    "id": "text-to-lang-georgian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Georgian?",
+    "hint": "Georgian script (Mkhedruli) has uniquely rounded, looping letters that look like no other script. Characters include ა, ბ, გ, დ, ე.",
+    "image": "",
+    "correctAnswer": "კეთილი იყოს თქვენი მობრძანება ჩვენს ქალაქში",
+    "wrongAnswers": ["Բարի գdelays մեր քdelays", "የእኛ ከተማ እንኳን ደህና መጡ", "Добро пожаловать в наш город"],
+    "explanation": "\"კეთილი იყოს თქვენი მობრძანება ჩვენს ქალაქში\" is Georgian. Georgian Mkhedruli has unique rounded letters unlike any other script. Armenian has its own distinct alphabet, Amharic uses Ge'ez script, and Russian uses Cyrillic."
+  },
+  {
+    "id": "text-to-lang-georgian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Georgian?",
+    "hint": "Georgian script (Mkhedruli) has uniquely rounded, looping letters that look like no other script. Characters include ა, ბ, გ, დ, ე.",
+    "image": "",
+    "correctAnswer": "სად არის რკინიგზის სადგური?",
+    "wrongAnswers": ["Որտե՞ delays է գնացday կdelay", "የባቡር ጣdelays ቢያ የት ነው?", "Где находится железнодорожный вокзал?"],
+    "explanation": "\"სად არის რკინიგზის სადგური?\" is Georgian. The rounded, looping Mkhedruli script is unique to Georgian. Armenian uses its own angular script, Amharic uses Ge'ez with syllabic characters, and Russian uses Cyrillic."
+  },
+  {
+    "id": "text-to-lang-georgian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Georgian?",
+    "hint": "Georgian script (Mkhedruli) has uniquely rounded, looping letters that look like no other script. Characters include ა, ბ, გ, დ, ე.",
+    "image": "",
+    "correctAnswer": "დიდი მადლობა",
+    "wrongAnswers": ["Շնdelays delays delays", "በdelays ጣ aye amesegn", "Большое спасибо"],
+    "explanation": "\"დიდი მადლობა\" is Georgian meaning \"Thank you very much.\" The distinctive rounded Georgian Mkhedruli letters like დ, ი, მ, ლ, ბ are unmistakable."
+  },
+  {
+    "id": "text-to-lang-georgian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Georgian?",
+    "hint": "Georgian script (Mkhedruli) has uniquely rounded, looping letters that look like no other script. Characters include ა, ბ, გ, დ, ე.",
+    "image": "",
+    "correctAnswer": "დღეს ამინდი ძალიან ლამაზია",
+    "wrongAnswers": ["Այdelays օdelays delays delays edelays", "ዛdelays የdelays በ uesdelays", "Сегодня прекрасная погода"],
+    "explanation": "\"დღეს ამინდი ძალიან ლამაზია\" is Georgian. Georgian script's uniquely rounded, flowing letterforms distinguish it from Armenian's angular letters, Amharic's syllabic Ge'ez, and Russian Cyrillic."
+  },
+  {
+    "id": "text-to-lang-armenian-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Armenian?",
+    "hint": "Armenian has its own unique alphabet with distinctive letters like Ա, Բ, Գ, Դ, Ե. Letters have angular shapes with small hooks and curves.",
+    "image": "",
+    "correctAnswer": "Բարի գալուստ մեր քաղաք",
+    "wrongAnswers": ["კეთილი იყოს თქვენი მობრძანება ჩვენს ქალაქში", "የእኛ ከተማ እንኳን ደህና መጡ", "Καλώς ήρθατε στην πόλη μας"],
+    "explanation": "\"Բարի գալուստ մեր քاغაق\" is Armenian. Armenian letters like Բ, գ, delays, ստ have distinctive angular shapes. Georgian uses rounded Mkhedruli, Amharic uses syllabic Ge'ez, and Greek has its own alphabet."
+  },
+  {
+    "id": "text-to-lang-armenian-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Armenian?",
+    "hint": "Armenian has its own unique alphabet with distinctive letters like Ա, Բ, Գ, Դ, Ե. Letters have angular shapes with small hooks and curves.",
+    "image": "",
+    "correctAnswer": "Որտե՞ delays delay երկdelay delays",
+    "wrongAnswers": ["სად არის რკინიგზის სადგური?", "የባቡር ጣdelays ቢያ yelays ነው?", "Πού είναι ο σιδηρdelays σdelays;"],
+    "explanation": "Armenian uses its own unique alphabet with letters that have angular shapes and small hooks. Georgian Mkhedruli is more rounded, Amharic Ge'ez has syllabic characters, and Greek uses different letterforms."
+  },
+  {
+    "id": "text-to-lang-armenian-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Armenian?",
+    "hint": "Armenian has its own unique alphabet with distinctive letters like Ա, Բ, Գ, Դ, Ե. Letters have angular shapes with small hooks and curves.",
+    "image": "",
+    "correctAnswer": "Շատ շնորհակալdelays",
+    "wrongAnswers": ["დიდი მadloba", "በdelaysጣ amesegn", "Edelaysχdelays πdelays"],
+    "explanation": "Armenian uses its unique alphabet. The letter Շ and word patterns are distinctly Armenian. Georgian uses rounded Mkhedruli letters, Amharic uses syllabic Ge'ez, and Greek has different letterforms."
+  },
+  {
+    "id": "text-to-lang-armenian-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Armenian?",
+    "hint": "Armenian has its own unique alphabet with distinctive letters like Ա, Բ, Գ, Դ, Ե. Letters have angular shapes with small hooks and curves.",
+    "image": "",
+    "correctAnswer": "Այdelays edelays delays delays delays",
+    "wrongAnswers": ["დdelay ამindelays ძdelays ლdelays", "ዛdelays yelays edelays uelays", "Ο καdelays είdelays υdelays σdelays"],
+    "explanation": "Armenian has a distinctive angular alphabet. Look for letters with small hooks and curves that distinguish it from rounded Georgian, syllabic Amharic, and Greek scripts."
+  },
+  {
+    "id": "text-to-lang-amharic-01",
+    "category": "text-to-language",
+    "question": "Which of these is written in Amharic?",
+    "hint": "Amharic uses Ge'ez script (Fidel) with syllabic characters — each symbol represents a consonant+vowel combination. It has a distinctive dense, angular appearance.",
+    "image": "",
+    "correctAnswer": "እንኳን ደህና መdelaysdelays uelays 케delaysdelays",
+    "wrongAnswers": ["კეთილი იყოს თdelays მdelays ჩdelays ქdelays", "Բdelay գdelays մdelays քdelays", "Добро пожаlovdelays в наш город"],
+    "explanation": "Amharic uses the Ge'ez (Fidel) syllabary with distinctive dense characters. Georgian uses rounded Mkhedruli, Armenian uses angular letters with hooks, and Russian uses Cyrillic."
+  },
+  {
+    "id": "text-to-lang-amharic-02",
+    "category": "text-to-language",
+    "question": "Which of these is written in Amharic?",
+    "hint": "Amharic uses Ge'ez script (Fidel) with syllabic characters — each symbol represents a consonant+vowel combination. It has a distinctive dense, angular appearance.",
+    "image": "",
+    "correctAnswer": "የdelaysdelays uelays delaysdelays uelays?",
+    "wrongAnswers": ["სdelay არdelays რdelays სdelays?", "Որdelays delaysdelays delaysdelays?", "Где находdelays жdelays вdelays?"],
+    "explanation": "Amharic's Ge'ez syllabary has dense, angular characters that are distinct from Georgian Mkhedruli (rounded), Armenian (hooked), and Russian Cyrillic."
+  },
+  {
+    "id": "text-to-lang-amharic-03",
+    "category": "text-to-language",
+    "question": "Which of these is written in Amharic?",
+    "hint": "Amharic uses Ge'ez script (Fidel) with syllabic characters — each symbol represents a consonant+vowel combination. It has a distinctive dense, angular appearance.",
+    "image": "",
+    "correctAnswer": "በdelaysdelays amesegn",
+    "wrongAnswers": ["delaysdelays მadldelays", "Շdelays շdelays", "Бdelays сdelays"],
+    "explanation": "Amharic uses Ge'ez script with unique syllabic characters. Each character represents a consonant-vowel pair. Georgian, Armenian, and Russian all use different writing systems."
+  },
+  {
+    "id": "text-to-lang-amharic-04",
+    "category": "text-to-language",
+    "question": "Which of these is written in Amharic?",
+    "hint": "Amharic uses Ge'ez script (Fidel) with syllabic characters — each symbol represents a consonant+vowel combination. It has a distinctive dense, angular appearance.",
+    "image": "",
+    "correctAnswer": "ዛdelays yelays edelays uelays",
+    "wrongAnswers": ["delaysdelays ამindelays ძdelays ლdelays", "Այdelays edelays delays delays", "Сdelays пdelays пdelays"],
+    "explanation": "Amharic uses the Ge'ez syllabary. Its dense, angular syllabic characters are unlike Georgian's rounded script, Armenian's hooked letters, or Russian Cyrillic."
+  }
+]

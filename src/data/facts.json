@@ -1,0 +1,252 @@
+[
+  {
+    "id": "facts-sweden-islands-01",
+    "category": "facts",
+    "question": "This country has the most islands in the world, with over 267,570 islands.",
+    "hint": "It's a Scandinavian country.",
+    "image": "",
+    "correctAnswer": "Sweden",
+    "wrongAnswers": ["Finland", "Indonesia", "Philippines"],
+    "explanation": "Sweden has 267,570 islands, more than any other country. Most are tiny and uninhabited rocky outcrops along its extensive Baltic coastline."
+  },
+  {
+    "id": "facts-nepal-flag-01",
+    "category": "facts",
+    "question": "This is the only country in the world whose national flag is not rectangular or square.",
+    "hint": "It's a small country in the Himalayas.",
+    "image": "",
+    "correctAnswer": "Nepal",
+    "wrongAnswers": ["Bhutan", "Switzerland", "Vatican City"],
+    "explanation": "Nepal's flag consists of two stacked triangular pennants, making it the only national flag that isn't quadrilateral. Switzerland and Vatican City have square flags, but those are still quadrilateral."
+  },
+  {
+    "id": "facts-mongolia-horses-01",
+    "category": "facts",
+    "question": "This country has more horses per capita than any other nation — roughly 13 horses for every 10 people.",
+    "hint": "It's the world's most sparsely populated sovereign state.",
+    "image": "",
+    "correctAnswer": "Mongolia",
+    "wrongAnswers": ["Kazakhstan", "Argentina", "Iceland"],
+    "explanation": "Mongolia has about 4 million horses for a population of roughly 3.3 million people. The horse remains central to Mongolian nomadic culture and daily life."
+  },
+  {
+    "id": "facts-russia-timezones-01",
+    "category": "facts",
+    "question": "This country spans 11 time zones, more than any other country.",
+    "hint": "It's the largest country by land area.",
+    "image": "",
+    "correctAnswer": "Russia",
+    "wrongAnswers": ["China", "United States", "Canada"],
+    "explanation": "Russia stretches across 11 time zones from Kaliningrad (UTC+2) to Kamchatka (UTC+12). China, despite being the third-largest country, uses only one time zone."
+  },
+  {
+    "id": "facts-colombia-birds-01",
+    "category": "facts",
+    "question": "This country has the highest number of bird species in the world — nearly 2,000 documented species.",
+    "hint": "It's in South America, bordering both the Pacific and Caribbean.",
+    "image": "",
+    "correctAnswer": "Colombia",
+    "wrongAnswers": ["Brazil", "Peru", "Ecuador"],
+    "explanation": "Colombia hosts nearly 2,000 bird species — about 20% of all bird species worldwide. Its diverse geography includes Andes mountains, Amazon rainforest, and both ocean coasts."
+  },
+  {
+    "id": "facts-iceland-surnames-01",
+    "category": "facts",
+    "question": "In this country, most people don't have traditional family surnames — they use patronymic (or matronymic) names, and phone books are organized by first name.",
+    "hint": "It's a volcanic island nation in the North Atlantic.",
+    "image": "",
+    "correctAnswer": "Iceland",
+    "wrongAnswers": ["Norway", "Denmark", "Greenland"],
+    "explanation": "Icelanders use patronymic naming: a person's last name is their father's first name plus '-son' or '-dóttir'. Phone directories are sorted by first name since last names aren't shared family names."
+  },
+  {
+    "id": "facts-finland-sauna-01",
+    "category": "facts",
+    "question": "This country has more saunas than cars — with roughly 3.3 million saunas for a population of 5.5 million.",
+    "hint": "It's in northern Europe, known for its thousands of lakes.",
+    "image": "",
+    "correctAnswer": "Finland",
+    "wrongAnswers": ["Sweden", "Norway", "Estonia"],
+    "explanation": "Finland has approximately 3.3 million saunas — roughly one for every household. Sauna culture is so integral that even the Finnish parliament building has a sauna."
+  },
+  {
+    "id": "facts-ethiopia-calendar-01",
+    "category": "facts",
+    "question": "This country uses a unique calendar that is 7-8 years behind the Gregorian calendar, with 13 months in a year.",
+    "hint": "It's in the Horn of Africa and was never colonized by a European power.",
+    "image": "",
+    "correctAnswer": "Ethiopia",
+    "wrongAnswers": ["Eritrea", "Somalia", "Sudan"],
+    "explanation": "The Ethiopian calendar has 12 months of 30 days each, plus a 13th month of 5-6 days. It runs roughly 7-8 years behind the Gregorian calendar due to a different calculation of the Annunciation."
+  },
+  {
+    "id": "facts-lesotho-elevation-01",
+    "category": "facts",
+    "question": "This is the only country in the world where every point of its territory is above 1,000 meters (3,281 feet) elevation.",
+    "hint": "It's a small country entirely surrounded by another country in southern Africa.",
+    "image": "",
+    "correctAnswer": "Lesotho",
+    "wrongAnswers": ["Swaziland", "Bhutan", "Nepal"],
+    "explanation": "Lesotho is often called 'The Kingdom in the Sky.' Its lowest point (1,400m) is the highest lowest point of any country. It's also one of only three countries entirely surrounded by a single other country."
+  },
+  {
+    "id": "facts-france-timezone-01",
+    "category": "facts",
+    "question": "This country has the most time zones of any country (12), thanks to its overseas territories spanning the globe.",
+    "hint": "It's a major European country with territories in the Pacific, Caribbean, Indian Ocean, and South America.",
+    "image": "",
+    "correctAnswer": "France",
+    "wrongAnswers": ["United Kingdom", "United States", "Russia"],
+    "explanation": "France spans 12 time zones due to overseas territories like French Polynesia, New Caledonia, Réunion, Guadeloupe, Martinique, and French Guiana."
+  },
+  {
+    "id": "facts-canada-coastline-01",
+    "category": "facts",
+    "question": "This country has the longest coastline of any country in the world — over 243,000 km, longer than the next 6 countries combined.",
+    "hint": "It's the second-largest country by area, in North America.",
+    "image": "",
+    "correctAnswer": "Canada",
+    "wrongAnswers": ["Russia", "Australia", "Indonesia"],
+    "explanation": "Canada's coastline stretches over 243,000 km along three oceans (Atlantic, Pacific, Arctic) and includes thousands of islands in the Arctic Archipelago."
+  },
+  {
+    "id": "facts-vatican-country-01",
+    "category": "facts",
+    "question": "This country has a zero birth rate — no one is born within its borders because it has no hospitals or maternity facilities.",
+    "hint": "It's the world's smallest independent state, located within a European capital city.",
+    "image": "",
+    "correctAnswer": "Vatican City",
+    "wrongAnswers": ["Monaco", "San Marino", "Liechtenstein"],
+    "explanation": "Vatican City has no hospitals or maternity wards. Its roughly 800 residents are clergy and Swiss Guards. New citizens are appointed rather than born."
+  },
+  {
+    "id": "facts-japan-vending-01",
+    "category": "facts",
+    "question": "This country has the highest density of vending machines in the world — approximately one for every 23 people.",
+    "hint": "It's an island nation in East Asia known for its technology and convenience culture.",
+    "image": "",
+    "correctAnswer": "Japan",
+    "wrongAnswers": ["South Korea", "Singapore", "United States"],
+    "explanation": "Japan has over 5 million vending machines selling everything from hot coffee and ramen to umbrellas and fresh eggs. The low crime rate makes outdoor machines viable everywhere."
+  },
+  {
+    "id": "facts-brazil-species-01",
+    "category": "facts",
+    "question": "This country contains approximately 60% of the Amazon rainforest and has more species of plants and animals than any other country on Earth.",
+    "hint": "It's the largest country in South America.",
+    "image": "",
+    "correctAnswer": "Brazil",
+    "wrongAnswers": ["Colombia", "Peru", "Venezuela"],
+    "explanation": "Brazil is the world's most biodiverse country, hosting roughly 60% of the Amazon and containing more known species of plants, freshwater fish, and mammals than any other nation."
+  },
+  {
+    "id": "facts-bhutan-carbon-01",
+    "category": "facts",
+    "question": "This is the only carbon-negative country in the world — its forests absorb more CO2 than the country emits.",
+    "hint": "It's a small Himalayan kingdom that measures Gross National Happiness instead of GDP.",
+    "image": "",
+    "correctAnswer": "Bhutan",
+    "wrongAnswers": ["Nepal", "Sri Lanka", "Costa Rica"],
+    "explanation": "Bhutan's constitution mandates that at least 60% of the country remain forested. Its forests absorb over 6 million tonnes of CO2 annually, while it produces only about 1.5 million tonnes."
+  },
+  {
+    "id": "facts-norway-tunnels-01",
+    "category": "facts",
+    "question": "This country has the world's longest road tunnel (24.5 km) and the deepest undersea tunnel (287m below sea level), both for road traffic.",
+    "hint": "It's a Scandinavian country famous for its fjords.",
+    "image": "",
+    "correctAnswer": "Norway",
+    "wrongAnswers": ["Switzerland", "Austria", "Sweden"],
+    "explanation": "Norway's Lærdal Tunnel (24.5 km) is the world's longest road tunnel, and the Ryfast Tunnel descends 287m below sea level. Norway's mountainous fjord terrain necessitates extensive tunneling."
+  },
+  {
+    "id": "facts-indonesia-languages-01",
+    "category": "facts",
+    "question": "This country has over 700 living languages — the second-most linguistically diverse country after Papua New Guinea.",
+    "hint": "It's the world's largest archipelago nation in Southeast Asia.",
+    "image": "",
+    "correctAnswer": "Indonesia",
+    "wrongAnswers": ["Philippines", "India", "Malaysia"],
+    "explanation": "Indonesia has over 700 living languages across its 17,000+ islands. Bahasa Indonesia serves as the unifying national language, but Javanese alone has over 80 million native speakers."
+  },
+  {
+    "id": "facts-egypt-suez-01",
+    "category": "facts",
+    "question": "Approximately 12% of global trade passes through a canal in this country — a 193 km waterway connecting two seas.",
+    "hint": "It's a transcontinental country in northeast Africa.",
+    "image": "",
+    "correctAnswer": "Egypt",
+    "wrongAnswers": ["Panama", "Turkey", "Iran"],
+    "explanation": "The Suez Canal in Egypt connects the Mediterranean and Red Seas. About 12% of global trade traverses this canal, making it one of the world's most critical shipping chokepoints."
+  },
+  {
+    "id": "facts-south-korea-age-01",
+    "category": "facts",
+    "question": "Until 2023, this country had a unique age-counting system where babies were considered 1 year old at birth and everyone aged up on New Year's Day.",
+    "hint": "It's an East Asian country on a peninsula.",
+    "image": "",
+    "correctAnswer": "South Korea",
+    "wrongAnswers": ["Japan", "China", "North Korea"],
+    "explanation": "South Korea used 'Korean age' (만 나이 vs 세는 나이) where newborns started at age 1 and gained a year every January 1st. In June 2023, the country officially switched to the international age system."
+  },
+  {
+    "id": "facts-turkey-tulips-01",
+    "category": "facts",
+    "question": "Tulips actually originated in this country (not the Netherlands) — they were cultivated here centuries before becoming famous in Dutch gardens.",
+    "hint": "This transcontinental country bridges Europe and Asia.",
+    "image": "",
+    "correctAnswer": "Turkey",
+    "wrongAnswers": ["Netherlands", "Iran", "Afghanistan"],
+    "explanation": "Tulips were first cultivated in the Ottoman Empire (modern Turkey). The 'Tulip Era' (1718-1730) was a period of Ottoman cultural flourishing. They were exported to the Netherlands in the 16th century."
+  },
+  {
+    "id": "facts-greece-oldest-language-01",
+    "category": "facts",
+    "question": "This country's language has the longest documented history of any living Indo-European language, with written records spanning 3,400 years.",
+    "hint": "It's a southern European country known as the birthplace of democracy and the Olympics.",
+    "image": "",
+    "correctAnswer": "Greece",
+    "wrongAnswers": ["Italy", "Iran", "India"],
+    "explanation": "Greek has been continuously documented since the Mycenaean period (Linear B, ~1450 BC). It's the longest-attested living Indo-European language, with literature spanning over three millennia."
+  },
+  {
+    "id": "facts-bolivia-salt-01",
+    "category": "facts",
+    "question": "This country contains the world's largest salt flat — a 10,582 km² expanse so flat it's used to calibrate satellite altimeters.",
+    "hint": "It's a landlocked South American country in the Andes.",
+    "image": "",
+    "correctAnswer": "Bolivia",
+    "wrongAnswers": ["Chile", "Peru", "Argentina"],
+    "explanation": "The Salar de Uyuni in Bolivia is the world's largest salt flat at over 10,000 km². During the rainy season, a thin layer of water creates a mirror effect reflecting the sky perfectly."
+  },
+  {
+    "id": "facts-australia-fence-01",
+    "category": "facts",
+    "question": "This country has the world's longest fence — 5,614 km long — built to keep a specific animal out of the fertile southeast.",
+    "hint": "It's a continent-country in the Southern Hemisphere.",
+    "image": "",
+    "correctAnswer": "Australia",
+    "wrongAnswers": ["China", "India", "United States"],
+    "explanation": "Australia's Dingo Fence stretches 5,614 km across the southeast, longer than the Great Wall of China. It was built to keep dingoes away from sheep-grazing lands."
+  },
+  {
+    "id": "facts-maldives-elevation-01",
+    "category": "facts",
+    "question": "This is the lowest country on Earth — its average ground level is only 1.5 meters above sea level, with no point exceeding 5.1 meters.",
+    "hint": "It's an island nation in the Indian Ocean, popular for luxury tourism.",
+    "image": "",
+    "correctAnswer": "Maldives",
+    "wrongAnswers": ["Tuvalu", "Marshall Islands", "Kiribati"],
+    "explanation": "The Maldives' highest natural point is only 5.1 meters above sea level, making it the world's flattest and lowest country. Rising sea levels pose an existential threat to its 1,200 islands."
+  },
+  {
+    "id": "facts-chad-desert-lake-01",
+    "category": "facts",
+    "question": "This country is named after a lake that has shrunk by 90% since the 1960s — from 25,000 km² to less than 2,500 km².",
+    "hint": "It's a landlocked Central African country.",
+    "image": "",
+    "correctAnswer": "Chad",
+    "wrongAnswers": ["Niger", "Nigeria", "Cameroon"],
+    "explanation": "Lake Chad, which gives the country its name, was once one of Africa's largest lakes. Due to climate change and irrigation demands, it has shrunk by approximately 90% since the 1960s."
+  }
+]

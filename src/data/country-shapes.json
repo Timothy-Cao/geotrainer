@@ -1,0 +1,252 @@
+[
+  {
+    "id": "country-shapes-italy-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "This country is shaped like a high-heeled boot kicking a ball (Sicily).",
+    "image": "",
+    "correctAnswer": "Italy",
+    "wrongAnswers": ["Greece", "Croatia", "Portugal"],
+    "explanation": "Italy's distinctive boot shape is one of the most recognizable country outlines in the world, extending into the Mediterranean Sea with Sicily at its toe."
+  },
+  {
+    "id": "country-shapes-japan-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "An archipelago of four main islands forming a curved chain off the east coast of Asia.",
+    "image": "",
+    "correctAnswer": "Japan",
+    "wrongAnswers": ["Philippines", "Indonesia", "Taiwan"],
+    "explanation": "Japan consists of four main islands — Hokkaido, Honshu, Shikoku, and Kyushu — forming a distinctive curved arc along the Pacific Ring of Fire."
+  },
+  {
+    "id": "country-shapes-chile-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "An extremely long, narrow strip of land running along the western coast of South America — over 4,300 km long but averaging only 177 km wide.",
+    "image": "",
+    "correctAnswer": "Chile",
+    "wrongAnswers": ["Argentina", "Peru", "Ecuador"],
+    "explanation": "Chile is the world's longest north-south country, stretching 4,300 km along South America's Pacific coast, squeezed between the Andes and the ocean."
+  },
+  {
+    "id": "country-shapes-india-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A large inverted triangle (peninsula) with a flat northern border along the Himalayas.",
+    "image": "",
+    "correctAnswer": "India",
+    "wrongAnswers": ["Pakistan", "Bangladesh", "Myanmar"],
+    "explanation": "India's shape is a distinctive downward-pointing triangle forming the Indian subcontinent, bordered by the Himalayas to the north and tapering to a point in the south."
+  },
+  {
+    "id": "country-shapes-australia-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A massive island continent with a distinctive bite taken out of the southern coast (Great Australian Bight).",
+    "image": "",
+    "correctAnswer": "Australia",
+    "wrongAnswers": ["Indonesia", "New Zealand", "Papua New Guinea"],
+    "explanation": "Australia is the only country that is also a continent. Its outline features the Great Australian Bight (southern coast indentation) and Cape York Peninsula in the northeast."
+  },
+  {
+    "id": "country-shapes-france-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "Often described as a hexagon, this European country has both Atlantic and Mediterranean coastlines.",
+    "image": "",
+    "correctAnswer": "France",
+    "wrongAnswers": ["Spain", "Germany", "Poland"],
+    "explanation": "France is nicknamed 'l'Hexagone' due to its roughly hexagonal shape. It's bordered by the English Channel, Atlantic Ocean, Mediterranean Sea, and several mountain ranges."
+  },
+  {
+    "id": "country-shapes-brazil-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "The largest country in South America, with a distinctive bulge on its eastern coast facing Africa.",
+    "image": "",
+    "correctAnswer": "Brazil",
+    "wrongAnswers": ["Argentina", "Colombia", "Peru"],
+    "explanation": "Brazil occupies nearly half of South America. Its distinctive eastward bulge (near Natal) is the closest point in the Americas to Africa."
+  },
+  {
+    "id": "country-shapes-uk-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "An island shaped somewhat like a seated figure or old woman, with Scotland as the head and England/Wales as the body.",
+    "image": "",
+    "correctAnswer": "United Kingdom",
+    "wrongAnswers": ["Ireland", "Iceland", "Denmark"],
+    "explanation": "Great Britain's distinctive shape — with Scotland's highlands to the north, the narrow waist of England in the middle, and the bulge of Wales and Cornwall — is instantly recognizable."
+  },
+  {
+    "id": "country-shapes-norway-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A long, narrow country hugging the western and northern coast of a Scandinavian peninsula, with an extremely jagged fjord-cut coastline.",
+    "image": "",
+    "correctAnswer": "Norway",
+    "wrongAnswers": ["Sweden", "Finland", "Denmark"],
+    "explanation": "Norway wraps around the western and northern edges of the Scandinavian Peninsula. Its coastline is famously jagged with thousands of fjords, making it one of the world's longest coastlines."
+  },
+  {
+    "id": "country-shapes-sweden-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "Occupies the eastern side of the Scandinavian Peninsula, elongated north-south with a wider southern portion.",
+    "image": "",
+    "correctAnswer": "Sweden",
+    "wrongAnswers": ["Norway", "Finland", "Denmark"],
+    "explanation": "Sweden occupies the eastern half of the Scandinavian Peninsula, stretching from the Arctic Circle in the north to the agricultural plains of Skåne in the south."
+  },
+  {
+    "id": "country-shapes-thailand-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "Often compared to an elephant's head in profile, with a long trunk extending southward along a narrow peninsula.",
+    "image": "",
+    "correctAnswer": "Thailand",
+    "wrongAnswers": ["Myanmar", "Vietnam", "Cambodia"],
+    "explanation": "Thailand's shape resembles an elephant's head — fitting, as the elephant is the national symbol. The 'trunk' is the Malay Peninsula extending south toward Malaysia."
+  },
+  {
+    "id": "country-shapes-vietnam-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A long, S-shaped country running along the eastern coast of the Indochina Peninsula, narrow in the middle.",
+    "image": "",
+    "correctAnswer": "Vietnam",
+    "wrongAnswers": ["Thailand", "Laos", "Cambodia"],
+    "explanation": "Vietnam's distinctive S-curve stretches over 1,650 km along the South China Sea. It's extremely narrow in the center (only 50 km wide at its thinnest)."
+  },
+  {
+    "id": "country-shapes-indonesia-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "The world's largest archipelago, stretching across 5,000 km with major islands including Sumatra, Java, Borneo (partial), and Sulawesi.",
+    "image": "",
+    "correctAnswer": "Indonesia",
+    "wrongAnswers": ["Philippines", "Malaysia", "Papua New Guinea"],
+    "explanation": "Indonesia spans over 17,000 islands across 5,000 km. Its major islands — Sumatra, Java, Kalimantan (Borneo), Sulawesi, and Papua — create a distinctive archipelagic chain."
+  },
+  {
+    "id": "country-shapes-greece-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A southern European country with a jagged coastline, a large peninsula (Peloponnese) connected by an isthmus, and many islands in the Aegean Sea.",
+    "image": "",
+    "correctAnswer": "Greece",
+    "wrongAnswers": ["Italy", "Turkey", "Croatia"],
+    "explanation": "Greece has one of the most complex coastlines in the world, featuring the Peloponnese peninsula, the Halkidiki 'trident', and thousands of Aegean islands."
+  },
+  {
+    "id": "country-shapes-new-zealand-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "Two main islands in the South Pacific — the North Island is rounder with volcanic features, the South Island is longer with a mountain spine.",
+    "image": "",
+    "correctAnswer": "New Zealand",
+    "wrongAnswers": ["Japan", "Philippines", "Madagascar"],
+    "explanation": "New Zealand consists of two main islands separated by the Cook Strait. The North Island has a distinctive bulge, while the South Island is more elongated with the Southern Alps."
+  },
+  {
+    "id": "country-shapes-south-korea-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "The southern half of a peninsula jutting off northeast Asia, roughly rectangular with a jagged southern/western coast.",
+    "image": "",
+    "correctAnswer": "South Korea",
+    "wrongAnswers": ["North Korea", "Taiwan", "Japan"],
+    "explanation": "South Korea occupies the southern portion of the Korean Peninsula. Its western and southern coasts are heavily indented with thousands of small islands."
+  },
+  {
+    "id": "country-shapes-madagascar-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "The world's fourth-largest island, located off the southeast coast of Africa, elongated roughly north-south.",
+    "image": "",
+    "correctAnswer": "Madagascar",
+    "wrongAnswers": ["Sri Lanka", "New Zealand", "Cuba"],
+    "explanation": "Madagascar is a massive island nation off Africa's southeast coast in the Indian Ocean. It's roughly 1,600 km long and 570 km wide, with a distinctive elongated shape."
+  },
+  {
+    "id": "country-shapes-cuba-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A long, narrow Caribbean island often compared to a crocodile or cigar, stretching east-west.",
+    "image": "",
+    "correctAnswer": "Cuba",
+    "wrongAnswers": ["Jamaica", "Haiti", "Puerto Rico"],
+    "explanation": "Cuba is the largest Caribbean island, stretching about 1,250 km east to west but only 32-210 km north to south. Its elongated shape earned it the nickname 'El Cocodrilo' (The Crocodile)."
+  },
+  {
+    "id": "country-shapes-sri-lanka-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A teardrop-shaped island just off the southern tip of India, sometimes called the 'Pearl of the Indian Ocean'.",
+    "image": "",
+    "correctAnswer": "Sri Lanka",
+    "wrongAnswers": ["Madagascar", "Taiwan", "Maldives"],
+    "explanation": "Sri Lanka's distinctive teardrop (or pearl) shape sits just southeast of India's southern tip, separated by the narrow Palk Strait."
+  },
+  {
+    "id": "country-shapes-pakistan-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A South Asian country with a roughly rectangular shape, bordered by mountains in the north and a coastline along the Arabian Sea in the south.",
+    "image": "",
+    "correctAnswer": "Pakistan",
+    "wrongAnswers": ["Afghanistan", "Iran", "India"],
+    "explanation": "Pakistan's shape roughly resembles an irregular rectangle, stretching from the Karakoram mountains in the north to the Arabian Sea coast in the south."
+  },
+  {
+    "id": "country-shapes-saudi-arabia-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "The largest country on the Arabian Peninsula, roughly rectangular, occupying most of the peninsula's landmass.",
+    "image": "",
+    "correctAnswer": "Saudi Arabia",
+    "wrongAnswers": ["Iran", "Iraq", "Yemen"],
+    "explanation": "Saudi Arabia dominates the Arabian Peninsula, covering about 80% of its area. Its shape is roughly trapezoidal, bordered by the Red Sea to the west and the Persian Gulf to the east."
+  },
+  {
+    "id": "country-shapes-turkey-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A transcontinental country shaped like a rectangle with a small European portion separated by two straits and an inland sea.",
+    "image": "",
+    "correctAnswer": "Turkey",
+    "wrongAnswers": ["Iran", "Greece", "Syria"],
+    "explanation": "Turkey's Anatolian peninsula forms a distinctive rectangular shape bridging Europe and Asia. The Bosphorus and Dardanelles straits separate its small European portion (Thrace) from Asia Minor."
+  },
+  {
+    "id": "country-shapes-mexico-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A large North American country that narrows dramatically from a wide northern border to a thin isthmus in the southeast, with a distinctive hook-shaped peninsula on its east coast.",
+    "image": "",
+    "correctAnswer": "Mexico",
+    "wrongAnswers": ["Colombia", "Venezuela", "Peru"],
+    "explanation": "Mexico's shape features the Yucatán Peninsula jutting east, Baja California extending south in the west, and a dramatic narrowing at the Isthmus of Tehuantepec."
+  },
+  {
+    "id": "country-shapes-philippines-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "An archipelago of over 7,000 islands in Southeast Asia, with two large islands (Luzon in the north, Mindanao in the south) and many smaller ones between.",
+    "image": "",
+    "correctAnswer": "Philippines",
+    "wrongAnswers": ["Indonesia", "Japan", "Malaysia"],
+    "explanation": "The Philippines comprises over 7,600 islands. Luzon (north) and Mindanao (south) are the two largest, with the Visayas island group between them."
+  },
+  {
+    "id": "country-shapes-egypt-01",
+    "category": "country-shapes",
+    "question": "Which country has this shape?",
+    "hint": "A mostly rectangular North African country with a distinctive triangular peninsula (Sinai) in its northeast corner, separated by a canal.",
+    "image": "",
+    "correctAnswer": "Egypt",
+    "wrongAnswers": ["Libya", "Sudan", "Saudi Arabia"],
+    "explanation": "Egypt's shape is defined by its mostly straight borders (drawn by colonial powers) and the distinctive Sinai Peninsula in the northeast, separated from the mainland by the Suez Canal."
+  }
+]
