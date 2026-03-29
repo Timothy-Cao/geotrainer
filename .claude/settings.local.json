@@ -31,7 +31,9 @@
       "Bash(node scripts/generate-more-facts.js)",
       "Bash(node scripts/generate-shapes.js)",
       "Bash(node scripts/prune-missing-shapes.js)",
-      "Bash(node scripts/prune-missing-flags.js)"
+      "Bash(node scripts/prune-missing-flags.js)",
+      "Bash(node scripts/generate-capitals.js)",
+      "Bash(node scripts/generate-extra-facts.js)"
     ]
   }
 }

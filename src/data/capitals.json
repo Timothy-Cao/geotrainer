@@ -1,0 +1,1920 @@
+[
+  {
+    "id": "cap-to-country-france",
+    "category": "capitals",
+    "question": "Paris is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "France",
+    "wrongAnswers": [
+      "Germany",
+      "Spain",
+      "Italy"
+    ],
+    "explanation": "Paris is the capital city of France."
+  },
+  {
+    "id": "cap-to-country-germany",
+    "category": "capitals",
+    "question": "Berlin is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Germany",
+    "wrongAnswers": [
+      "Austria",
+      "Poland",
+      "Czech Republic"
+    ],
+    "explanation": "Berlin is the capital city of Germany."
+  },
+  {
+    "id": "cap-to-country-italy",
+    "category": "capitals",
+    "question": "Rome is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Italy",
+    "wrongAnswers": [
+      "Spain",
+      "Greece",
+      "Portugal"
+    ],
+    "explanation": "Rome is the capital city of Italy."
+  },
+  {
+    "id": "cap-to-country-spain",
+    "category": "capitals",
+    "question": "Madrid is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Spain",
+    "wrongAnswers": [
+      "Portugal",
+      "Italy",
+      "France"
+    ],
+    "explanation": "Madrid is the capital city of Spain."
+  },
+  {
+    "id": "cap-to-country-portugal",
+    "category": "capitals",
+    "question": "Lisbon is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Portugal",
+    "wrongAnswers": [
+      "Spain",
+      "Italy",
+      "Greece"
+    ],
+    "explanation": "Lisbon is the capital city of Portugal."
+  },
+  {
+    "id": "cap-to-country-united-kingdom",
+    "category": "capitals",
+    "question": "London is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "United Kingdom",
+    "wrongAnswers": [
+      "Ireland",
+      "Edinburgh",
+      "France"
+    ],
+    "explanation": "London is the capital city of United Kingdom."
+  },
+  {
+    "id": "cap-to-country-ireland",
+    "category": "capitals",
+    "question": "Dublin is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Ireland",
+    "wrongAnswers": [
+      "United Kingdom",
+      "Belfast",
+      "Edinburgh"
+    ],
+    "explanation": "Dublin is the capital city of Ireland."
+  },
+  {
+    "id": "cap-to-country-netherlands",
+    "category": "capitals",
+    "question": "Amsterdam is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Netherlands",
+    "wrongAnswers": [
+      "Belgium",
+      "Denmark",
+      "Germany"
+    ],
+    "explanation": "Amsterdam is the capital city of Netherlands."
+  },
+  {
+    "id": "cap-to-country-belgium",
+    "category": "capitals",
+    "question": "Brussels is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Belgium",
+    "wrongAnswers": [
+      "Netherlands",
+      "Luxembourg",
+      "France"
+    ],
+    "explanation": "Brussels is the capital city of Belgium."
+  },
+  {
+    "id": "cap-to-country-luxembourg",
+    "category": "capitals",
+    "question": "Luxembourg City is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Luxembourg",
+    "wrongAnswers": [
+      "Belgium",
+      "Switzerland",
+      "Vaduz"
+    ],
+    "explanation": "Luxembourg City is the capital city of Luxembourg."
+  },
+  {
+    "id": "cap-to-country-switzerland",
+    "category": "capitals",
+    "question": "Bern is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Switzerland",
+    "wrongAnswers": [
+      "Zurich",
+      "Geneva",
+      "Austria"
+    ],
+    "explanation": "Bern is the capital city of Switzerland."
+  },
+  {
+    "id": "cap-to-country-austria",
+    "category": "capitals",
+    "question": "Vienna is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Austria",
+    "wrongAnswers": [
+      "Czech Republic",
+      "Hungary",
+      "Germany"
+    ],
+    "explanation": "Vienna is the capital city of Austria."
+  },
+  {
+    "id": "cap-to-country-poland",
+    "category": "capitals",
+    "question": "Warsaw is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Poland",
+    "wrongAnswers": [
+      "Czech Republic",
+      "Germany",
+      "Lithuania"
+    ],
+    "explanation": "Warsaw is the capital city of Poland."
+  },
+  {
+    "id": "cap-to-country-czech-republic",
+    "category": "capitals",
+    "question": "Prague is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Czech Republic",
+    "wrongAnswers": [
+      "Poland",
+      "Austria",
+      "Slovakia"
+    ],
+    "explanation": "Prague is the capital city of Czech Republic."
+  },
+  {
+    "id": "cap-to-country-slovakia",
+    "category": "capitals",
+    "question": "Bratislava is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Slovakia",
+    "wrongAnswers": [
+      "Czech Republic",
+      "Hungary",
+      "Austria"
+    ],
+    "explanation": "Bratislava is the capital city of Slovakia."
+  },
+  {
+    "id": "cap-to-country-hungary",
+    "category": "capitals",
+    "question": "Budapest is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Hungary",
+    "wrongAnswers": [
+      "Slovakia",
+      "Austria",
+      "Serbia"
+    ],
+    "explanation": "Budapest is the capital city of Hungary."
+  },
+  {
+    "id": "cap-to-country-romania",
+    "category": "capitals",
+    "question": "Bucharest is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Romania",
+    "wrongAnswers": [
+      "Hungary",
+      "Bulgaria",
+      "Serbia"
+    ],
+    "explanation": "Bucharest is the capital city of Romania."
+  },
+  {
+    "id": "cap-to-country-bulgaria",
+    "category": "capitals",
+    "question": "Sofia is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Bulgaria",
+    "wrongAnswers": [
+      "Romania",
+      "Serbia",
+      "North Macedonia"
+    ],
+    "explanation": "Sofia is the capital city of Bulgaria."
+  },
+  {
+    "id": "cap-to-country-greece",
+    "category": "capitals",
+    "question": "Athens is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Greece",
+    "wrongAnswers": [
+      "Italy",
+      "Cyprus",
+      "Bulgaria"
+    ],
+    "explanation": "Athens is the capital city of Greece."
+  },
+  {
+    "id": "cap-to-country-sweden",
+    "category": "capitals",
+    "question": "Stockholm is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Sweden",
+    "wrongAnswers": [
+      "Norway",
+      "Finland",
+      "Denmark"
+    ],
+    "explanation": "Stockholm is the capital city of Sweden."
+  },
+  {
+    "id": "cap-to-country-norway",
+    "category": "capitals",
+    "question": "Oslo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Norway",
+    "wrongAnswers": [
+      "Sweden",
+      "Finland",
+      "Denmark"
+    ],
+    "explanation": "Oslo is the capital city of Norway."
+  },
+  {
+    "id": "cap-to-country-finland",
+    "category": "capitals",
+    "question": "Helsinki is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Finland",
+    "wrongAnswers": [
+      "Sweden",
+      "Estonia",
+      "Norway"
+    ],
+    "explanation": "Helsinki is the capital city of Finland."
+  },
+  {
+    "id": "cap-to-country-denmark",
+    "category": "capitals",
+    "question": "Copenhagen is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Denmark",
+    "wrongAnswers": [
+      "Sweden",
+      "Norway",
+      "Netherlands"
+    ],
+    "explanation": "Copenhagen is the capital city of Denmark."
+  },
+  {
+    "id": "cap-to-country-iceland",
+    "category": "capitals",
+    "question": "Reykjavik is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Iceland",
+    "wrongAnswers": [
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
+    "explanation": "Reykjavik is the capital city of Iceland."
+  },
+  {
+    "id": "cap-to-country-estonia",
+    "category": "capitals",
+    "question": "Tallinn is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Estonia",
+    "wrongAnswers": [
+      "Latvia",
+      "Finland",
+      "Lithuania"
+    ],
+    "explanation": "Tallinn is the capital city of Estonia."
+  },
+  {
+    "id": "cap-to-country-latvia",
+    "category": "capitals",
+    "question": "Riga is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Latvia",
+    "wrongAnswers": [
+      "Estonia",
+      "Lithuania",
+      "Poland"
+    ],
+    "explanation": "Riga is the capital city of Latvia."
+  },
+  {
+    "id": "cap-to-country-lithuania",
+    "category": "capitals",
+    "question": "Vilnius is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Lithuania",
+    "wrongAnswers": [
+      "Latvia",
+      "Poland",
+      "Estonia"
+    ],
+    "explanation": "Vilnius is the capital city of Lithuania."
+  },
+  {
+    "id": "cap-to-country-croatia",
+    "category": "capitals",
+    "question": "Zagreb is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Croatia",
+    "wrongAnswers": [
+      "Serbia",
+      "Slovenia",
+      "Bosnia and Herzegovina"
+    ],
+    "explanation": "Zagreb is the capital city of Croatia."
+  },
+  {
+    "id": "cap-to-country-slovenia",
+    "category": "capitals",
+    "question": "Ljubljana is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Slovenia",
+    "wrongAnswers": [
+      "Croatia",
+      "Austria",
+      "Slovakia"
+    ],
+    "explanation": "Ljubljana is the capital city of Slovenia."
+  },
+  {
+    "id": "cap-to-country-serbia",
+    "category": "capitals",
+    "question": "Belgrade is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Serbia",
+    "wrongAnswers": [
+      "Croatia",
+      "Bosnia and Herzegovina",
+      "Bulgaria"
+    ],
+    "explanation": "Belgrade is the capital city of Serbia."
+  },
+  {
+    "id": "cap-to-country-bosnia-and-herzegovina",
+    "category": "capitals",
+    "question": "Sarajevo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Bosnia and Herzegovina",
+    "wrongAnswers": [
+      "Serbia",
+      "Croatia",
+      "Montenegro"
+    ],
+    "explanation": "Sarajevo is the capital city of Bosnia and Herzegovina."
+  },
+  {
+    "id": "cap-to-country-montenegro",
+    "category": "capitals",
+    "question": "Podgorica is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Montenegro",
+    "wrongAnswers": [
+      "Serbia",
+      "Bosnia and Herzegovina",
+      "Albania"
+    ],
+    "explanation": "Podgorica is the capital city of Montenegro."
+  },
+  {
+    "id": "cap-to-country-albania",
+    "category": "capitals",
+    "question": "Tirana is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Albania",
+    "wrongAnswers": [
+      "Montenegro",
+      "North Macedonia",
+      "Greece"
+    ],
+    "explanation": "Tirana is the capital city of Albania."
+  },
+  {
+    "id": "cap-to-country-north-macedonia",
+    "category": "capitals",
+    "question": "Skopje is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "North Macedonia",
+    "wrongAnswers": [
+      "Albania",
+      "Bulgaria",
+      "Serbia"
+    ],
+    "explanation": "Skopje is the capital city of North Macedonia."
+  },
+  {
+    "id": "cap-to-country-moldova",
+    "category": "capitals",
+    "question": "Chisinau is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Moldova",
+    "wrongAnswers": [
+      "Romania",
+      "Ukraine",
+      "Belarus"
+    ],
+    "explanation": "Chisinau is the capital city of Moldova."
+  },
+  {
+    "id": "cap-to-country-ukraine",
+    "category": "capitals",
+    "question": "Kyiv is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Ukraine",
+    "wrongAnswers": [
+      "Russia",
+      "Belarus",
+      "Poland"
+    ],
+    "explanation": "Kyiv is the capital city of Ukraine."
+  },
+  {
+    "id": "cap-to-country-belarus",
+    "category": "capitals",
+    "question": "Minsk is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Belarus",
+    "wrongAnswers": [
+      "Ukraine",
+      "Russia",
+      "Lithuania"
+    ],
+    "explanation": "Minsk is the capital city of Belarus."
+  },
+  {
+    "id": "cap-to-country-russia",
+    "category": "capitals",
+    "question": "Moscow is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Russia",
+    "wrongAnswers": [
+      "Saint Petersburg",
+      "Ukraine",
+      "Belarus"
+    ],
+    "explanation": "Moscow is the capital city of Russia."
+  },
+  {
+    "id": "cap-to-country-georgia",
+    "category": "capitals",
+    "question": "Tbilisi is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Georgia",
+    "wrongAnswers": [
+      "Armenia",
+      "Azerbaijan",
+      "Turkey"
+    ],
+    "explanation": "Tbilisi is the capital city of Georgia."
+  },
+  {
+    "id": "cap-to-country-armenia",
+    "category": "capitals",
+    "question": "Yerevan is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Armenia",
+    "wrongAnswers": [
+      "Georgia",
+      "Azerbaijan",
+      "Iran"
+    ],
+    "explanation": "Yerevan is the capital city of Armenia."
+  },
+  {
+    "id": "cap-to-country-azerbaijan",
+    "category": "capitals",
+    "question": "Baku is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Azerbaijan",
+    "wrongAnswers": [
+      "Georgia",
+      "Armenia",
+      "Iran"
+    ],
+    "explanation": "Baku is the capital city of Azerbaijan."
+  },
+  {
+    "id": "cap-to-country-cyprus",
+    "category": "capitals",
+    "question": "Nicosia is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Cyprus",
+    "wrongAnswers": [
+      "Greece",
+      "Turkey",
+      "Lebanon"
+    ],
+    "explanation": "Nicosia is the capital city of Cyprus."
+  },
+  {
+    "id": "cap-to-country-turkey",
+    "category": "capitals",
+    "question": "Ankara is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Turkey",
+    "wrongAnswers": [
+      "Istanbul",
+      "Greece",
+      "Georgia"
+    ],
+    "explanation": "Ankara is the capital city of Turkey."
+  },
+  {
+    "id": "cap-to-country-japan",
+    "category": "capitals",
+    "question": "Tokyo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Japan",
+    "wrongAnswers": [
+      "South Korea",
+      "China",
+      "Osaka"
+    ],
+    "explanation": "Tokyo is the capital city of Japan."
+  },
+  {
+    "id": "cap-to-country-south-korea",
+    "category": "capitals",
+    "question": "Seoul is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "South Korea",
+    "wrongAnswers": [
+      "Japan",
+      "Pyongyang",
+      "China"
+    ],
+    "explanation": "Seoul is the capital city of South Korea."
+  },
+  {
+    "id": "cap-to-country-china",
+    "category": "capitals",
+    "question": "Beijing is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "China",
+    "wrongAnswers": [
+      "Shanghai",
+      "Japan",
+      "South Korea"
+    ],
+    "explanation": "Beijing is the capital city of China."
+  },
+  {
+    "id": "cap-to-country-india",
+    "category": "capitals",
+    "question": "New Delhi is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "India",
+    "wrongAnswers": [
+      "Mumbai",
+      "Kolkata",
+      "Pakistan"
+    ],
+    "explanation": "New Delhi is the capital city of India."
+  },
+  {
+    "id": "cap-to-country-pakistan",
+    "category": "capitals",
+    "question": "Islamabad is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Pakistan",
+    "wrongAnswers": [
+      "Karachi",
+      "India",
+      "Afghanistan"
+    ],
+    "explanation": "Islamabad is the capital city of Pakistan."
+  },
+  {
+    "id": "cap-to-country-bangladesh",
+    "category": "capitals",
+    "question": "Dhaka is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Bangladesh",
+    "wrongAnswers": [
+      "Kolkata",
+      "Yangon",
+      "Nepal"
+    ],
+    "explanation": "Dhaka is the capital city of Bangladesh."
+  },
+  {
+    "id": "cap-to-country-nepal",
+    "category": "capitals",
+    "question": "Kathmandu is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Nepal",
+    "wrongAnswers": [
+      "Bangladesh",
+      "India",
+      "Bhutan"
+    ],
+    "explanation": "Kathmandu is the capital city of Nepal."
+  },
+  {
+    "id": "cap-to-country-bhutan",
+    "category": "capitals",
+    "question": "Thimphu is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Bhutan",
+    "wrongAnswers": [
+      "Nepal",
+      "India",
+      "Bangladesh"
+    ],
+    "explanation": "Thimphu is the capital city of Bhutan."
+  },
+  {
+    "id": "cap-to-country-sri-lanka",
+    "category": "capitals",
+    "question": "Colombo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Sri Lanka",
+    "wrongAnswers": [
+      "India",
+      "Chennai",
+      "Bangladesh"
+    ],
+    "explanation": "Colombo is the capital city of Sri Lanka."
+  },
+  {
+    "id": "cap-to-country-myanmar",
+    "category": "capitals",
+    "question": "Naypyidaw is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Myanmar",
+    "wrongAnswers": [
+      "Yangon",
+      "Thailand",
+      "Bangladesh"
+    ],
+    "explanation": "Naypyidaw is the capital city of Myanmar."
+  },
+  {
+    "id": "cap-to-country-thailand",
+    "category": "capitals",
+    "question": "Bangkok is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Thailand",
+    "wrongAnswers": [
+      "Vietnam",
+      "Cambodia",
+      "Laos"
+    ],
+    "explanation": "Bangkok is the capital city of Thailand."
+  },
+  {
+    "id": "cap-to-country-vietnam",
+    "category": "capitals",
+    "question": "Hanoi is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Vietnam",
+    "wrongAnswers": [
+      "Thailand",
+      "Cambodia",
+      "Ho Chi Minh City"
+    ],
+    "explanation": "Hanoi is the capital city of Vietnam."
+  },
+  {
+    "id": "cap-to-country-cambodia",
+    "category": "capitals",
+    "question": "Phnom Penh is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Cambodia",
+    "wrongAnswers": [
+      "Thailand",
+      "Vietnam",
+      "Laos"
+    ],
+    "explanation": "Phnom Penh is the capital city of Cambodia."
+  },
+  {
+    "id": "cap-to-country-laos",
+    "category": "capitals",
+    "question": "Vientiane is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Laos",
+    "wrongAnswers": [
+      "Cambodia",
+      "Thailand",
+      "Vietnam"
+    ],
+    "explanation": "Vientiane is the capital city of Laos."
+  },
+  {
+    "id": "cap-to-country-malaysia",
+    "category": "capitals",
+    "question": "Kuala Lumpur is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Malaysia",
+    "wrongAnswers": [
+      "Singapore",
+      "Indonesia",
+      "Thailand"
+    ],
+    "explanation": "Kuala Lumpur is the capital city of Malaysia."
+  },
+  {
+    "id": "cap-to-country-singapore",
+    "category": "capitals",
+    "question": "Singapore is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Singapore",
+    "wrongAnswers": [
+      "Malaysia",
+      "Indonesia",
+      "Thailand"
+    ],
+    "explanation": "Singapore is the capital city of Singapore."
+  },
+  {
+    "id": "cap-to-country-indonesia",
+    "category": "capitals",
+    "question": "Jakarta is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Indonesia",
+    "wrongAnswers": [
+      "Malaysia",
+      "Philippines",
+      "Thailand"
+    ],
+    "explanation": "Jakarta is the capital city of Indonesia."
+  },
+  {
+    "id": "cap-to-country-philippines",
+    "category": "capitals",
+    "question": "Manila is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Philippines",
+    "wrongAnswers": [
+      "Indonesia",
+      "Thailand",
+      "Vietnam"
+    ],
+    "explanation": "Manila is the capital city of Philippines."
+  },
+  {
+    "id": "cap-to-country-mongolia",
+    "category": "capitals",
+    "question": "Ulaanbaatar is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Mongolia",
+    "wrongAnswers": [
+      "China",
+      "Kazakhstan",
+      "Russia"
+    ],
+    "explanation": "Ulaanbaatar is the capital city of Mongolia."
+  },
+  {
+    "id": "cap-to-country-kazakhstan",
+    "category": "capitals",
+    "question": "Astana is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Kazakhstan",
+    "wrongAnswers": [
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Russia"
+    ],
+    "explanation": "Astana is the capital city of Kazakhstan."
+  },
+  {
+    "id": "cap-to-country-uzbekistan",
+    "category": "capitals",
+    "question": "Tashkent is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Uzbekistan",
+    "wrongAnswers": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Tajikistan"
+    ],
+    "explanation": "Tashkent is the capital city of Uzbekistan."
+  },
+  {
+    "id": "cap-to-country-kyrgyzstan",
+    "category": "capitals",
+    "question": "Bishkek is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Kyrgyzstan",
+    "wrongAnswers": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Tajikistan"
+    ],
+    "explanation": "Bishkek is the capital city of Kyrgyzstan."
+  },
+  {
+    "id": "cap-to-country-tajikistan",
+    "category": "capitals",
+    "question": "Dushanbe is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Tajikistan",
+    "wrongAnswers": [
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Afghanistan"
+    ],
+    "explanation": "Dushanbe is the capital city of Tajikistan."
+  },
+  {
+    "id": "cap-to-country-turkmenistan",
+    "category": "capitals",
+    "question": "Ashgabat is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Turkmenistan",
+    "wrongAnswers": [
+      "Uzbekistan",
+      "Iran",
+      "Azerbaijan"
+    ],
+    "explanation": "Ashgabat is the capital city of Turkmenistan."
+  },
+  {
+    "id": "cap-to-country-afghanistan",
+    "category": "capitals",
+    "question": "Kabul is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Afghanistan",
+    "wrongAnswers": [
+      "Pakistan",
+      "Iran",
+      "Tajikistan"
+    ],
+    "explanation": "Kabul is the capital city of Afghanistan."
+  },
+  {
+    "id": "cap-to-country-iran",
+    "category": "capitals",
+    "question": "Tehran is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Iran",
+    "wrongAnswers": [
+      "Iraq",
+      "Afghanistan",
+      "Turkey"
+    ],
+    "explanation": "Tehran is the capital city of Iran."
+  },
+  {
+    "id": "cap-to-country-iraq",
+    "category": "capitals",
+    "question": "Baghdad is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Iraq",
+    "wrongAnswers": [
+      "Iran",
+      "Syria",
+      "Jordan"
+    ],
+    "explanation": "Baghdad is the capital city of Iraq."
+  },
+  {
+    "id": "cap-to-country-syria",
+    "category": "capitals",
+    "question": "Damascus is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Syria",
+    "wrongAnswers": [
+      "Lebanon",
+      "Iraq",
+      "Jordan"
+    ],
+    "explanation": "Damascus is the capital city of Syria."
+  },
+  {
+    "id": "cap-to-country-lebanon",
+    "category": "capitals",
+    "question": "Beirut is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Lebanon",
+    "wrongAnswers": [
+      "Syria",
+      "Jordan",
+      "Cyprus"
+    ],
+    "explanation": "Beirut is the capital city of Lebanon."
+  },
+  {
+    "id": "cap-to-country-jordan",
+    "category": "capitals",
+    "question": "Amman is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Jordan",
+    "wrongAnswers": [
+      "Syria",
+      "Iraq",
+      "Lebanon"
+    ],
+    "explanation": "Amman is the capital city of Jordan."
+  },
+  {
+    "id": "cap-to-country-israel",
+    "category": "capitals",
+    "question": "Jerusalem is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Israel",
+    "wrongAnswers": [
+      "Tel Aviv",
+      "Jordan",
+      "Lebanon"
+    ],
+    "explanation": "Jerusalem is the capital city of Israel."
+  },
+  {
+    "id": "cap-to-country-saudi-arabia",
+    "category": "capitals",
+    "question": "Riyadh is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Saudi Arabia",
+    "wrongAnswers": [
+      "Qatar",
+      "Abu Dhabi",
+      "Oman"
+    ],
+    "explanation": "Riyadh is the capital city of Saudi Arabia."
+  },
+  {
+    "id": "cap-to-country-kuwait",
+    "category": "capitals",
+    "question": "Kuwait City is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Kuwait",
+    "wrongAnswers": [
+      "Saudi Arabia",
+      "Qatar",
+      "Manama"
+    ],
+    "explanation": "Kuwait City is the capital city of Kuwait."
+  },
+  {
+    "id": "cap-to-country-qatar",
+    "category": "capitals",
+    "question": "Doha is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Qatar",
+    "wrongAnswers": [
+      "Abu Dhabi",
+      "Saudi Arabia",
+      "Manama"
+    ],
+    "explanation": "Doha is the capital city of Qatar."
+  },
+  {
+    "id": "cap-to-country-oman",
+    "category": "capitals",
+    "question": "Muscat is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Oman",
+    "wrongAnswers": [
+      "Abu Dhabi",
+      "Saudi Arabia",
+      "Qatar"
+    ],
+    "explanation": "Muscat is the capital city of Oman."
+  },
+  {
+    "id": "cap-to-country-yemen",
+    "category": "capitals",
+    "question": "Sanaa is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Yemen",
+    "wrongAnswers": [
+      "Oman",
+      "Saudi Arabia",
+      "Djibouti"
+    ],
+    "explanation": "Sanaa is the capital city of Yemen."
+  },
+  {
+    "id": "cap-to-country-egypt",
+    "category": "capitals",
+    "question": "Cairo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Egypt",
+    "wrongAnswers": [
+      "Libya",
+      "Sudan",
+      "Tunisia"
+    ],
+    "explanation": "Cairo is the capital city of Egypt."
+  },
+  {
+    "id": "cap-to-country-libya",
+    "category": "capitals",
+    "question": "Tripoli is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Libya",
+    "wrongAnswers": [
+      "Egypt",
+      "Tunisia",
+      "Algeria"
+    ],
+    "explanation": "Tripoli is the capital city of Libya."
+  },
+  {
+    "id": "cap-to-country-tunisia",
+    "category": "capitals",
+    "question": "Tunis is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Tunisia",
+    "wrongAnswers": [
+      "Algeria",
+      "Libya",
+      "Morocco"
+    ],
+    "explanation": "Tunis is the capital city of Tunisia."
+  },
+  {
+    "id": "cap-to-country-algeria",
+    "category": "capitals",
+    "question": "Algiers is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Algeria",
+    "wrongAnswers": [
+      "Tunisia",
+      "Morocco",
+      "Libya"
+    ],
+    "explanation": "Algiers is the capital city of Algeria."
+  },
+  {
+    "id": "cap-to-country-morocco",
+    "category": "capitals",
+    "question": "Rabat is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Morocco",
+    "wrongAnswers": [
+      "Algeria",
+      "Casablanca",
+      "Tunisia"
+    ],
+    "explanation": "Rabat is the capital city of Morocco."
+  },
+  {
+    "id": "cap-to-country-nigeria",
+    "category": "capitals",
+    "question": "Abuja is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Nigeria",
+    "wrongAnswers": [
+      "Lagos",
+      "Ghana",
+      "Kenya"
+    ],
+    "explanation": "Abuja is the capital city of Nigeria."
+  },
+  {
+    "id": "cap-to-country-ghana",
+    "category": "capitals",
+    "question": "Accra is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Ghana",
+    "wrongAnswers": [
+      "Nigeria",
+      "Lome",
+      "Senegal"
+    ],
+    "explanation": "Accra is the capital city of Ghana."
+  },
+  {
+    "id": "cap-to-country-senegal",
+    "category": "capitals",
+    "question": "Dakar is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Senegal",
+    "wrongAnswers": [
+      "Mali",
+      "Ghana",
+      "Nouakchott"
+    ],
+    "explanation": "Dakar is the capital city of Senegal."
+  },
+  {
+    "id": "cap-to-country-kenya",
+    "category": "capitals",
+    "question": "Nairobi is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Kenya",
+    "wrongAnswers": [
+      "Dar es Salaam",
+      "Uganda",
+      "Ethiopia"
+    ],
+    "explanation": "Nairobi is the capital city of Kenya."
+  },
+  {
+    "id": "cap-to-country-ethiopia",
+    "category": "capitals",
+    "question": "Addis Ababa is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Ethiopia",
+    "wrongAnswers": [
+      "Kenya",
+      "Sudan",
+      "Somalia"
+    ],
+    "explanation": "Addis Ababa is the capital city of Ethiopia."
+  },
+  {
+    "id": "cap-to-country-tanzania",
+    "category": "capitals",
+    "question": "Dodoma is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Tanzania",
+    "wrongAnswers": [
+      "Kenya",
+      "Uganda",
+      "Dar es Salaam"
+    ],
+    "explanation": "Dodoma is the capital city of Tanzania."
+  },
+  {
+    "id": "cap-to-country-uganda",
+    "category": "capitals",
+    "question": "Kampala is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Uganda",
+    "wrongAnswers": [
+      "Kenya",
+      "Rwanda",
+      "Tanzania"
+    ],
+    "explanation": "Kampala is the capital city of Uganda."
+  },
+  {
+    "id": "cap-to-country-rwanda",
+    "category": "capitals",
+    "question": "Kigali is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Rwanda",
+    "wrongAnswers": [
+      "Uganda",
+      "Bujumbura",
+      "Kenya"
+    ],
+    "explanation": "Kigali is the capital city of Rwanda."
+  },
+  {
+    "id": "cap-to-country-south-africa",
+    "category": "capitals",
+    "question": "Pretoria is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "South Africa",
+    "wrongAnswers": [
+      "Cape Town",
+      "Kenya",
+      "Namibia"
+    ],
+    "explanation": "Pretoria is the capital city of South Africa."
+  },
+  {
+    "id": "cap-to-country-namibia",
+    "category": "capitals",
+    "question": "Windhoek is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Namibia",
+    "wrongAnswers": [
+      "South Africa",
+      "Botswana",
+      "Luanda"
+    ],
+    "explanation": "Windhoek is the capital city of Namibia."
+  },
+  {
+    "id": "cap-to-country-botswana",
+    "category": "capitals",
+    "question": "Gaborone is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Botswana",
+    "wrongAnswers": [
+      "Namibia",
+      "South Africa",
+      "Zambia"
+    ],
+    "explanation": "Gaborone is the capital city of Botswana."
+  },
+  {
+    "id": "cap-to-country-zimbabwe",
+    "category": "capitals",
+    "question": "Harare is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Zimbabwe",
+    "wrongAnswers": [
+      "Zambia",
+      "Mozambique",
+      "South Africa"
+    ],
+    "explanation": "Harare is the capital city of Zimbabwe."
+  },
+  {
+    "id": "cap-to-country-zambia",
+    "category": "capitals",
+    "question": "Lusaka is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Zambia",
+    "wrongAnswers": [
+      "Zimbabwe",
+      "Lilongwe",
+      "Dar es Salaam"
+    ],
+    "explanation": "Lusaka is the capital city of Zambia."
+  },
+  {
+    "id": "cap-to-country-mozambique",
+    "category": "capitals",
+    "question": "Maputo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Mozambique",
+    "wrongAnswers": [
+      "Zimbabwe",
+      "South Africa",
+      "Dar es Salaam"
+    ],
+    "explanation": "Maputo is the capital city of Mozambique."
+  },
+  {
+    "id": "cap-to-country-madagascar",
+    "category": "capitals",
+    "question": "Antananarivo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Madagascar",
+    "wrongAnswers": [
+      "Mozambique",
+      "Kenya",
+      "Dar es Salaam"
+    ],
+    "explanation": "Antananarivo is the capital city of Madagascar."
+  },
+  {
+    "id": "cap-to-country-sudan",
+    "category": "capitals",
+    "question": "Khartoum is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Sudan",
+    "wrongAnswers": [
+      "Egypt",
+      "Ethiopia",
+      "South Sudan"
+    ],
+    "explanation": "Khartoum is the capital city of Sudan."
+  },
+  {
+    "id": "cap-to-country-south-sudan",
+    "category": "capitals",
+    "question": "Juba is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "South Sudan",
+    "wrongAnswers": [
+      "Sudan",
+      "Uganda",
+      "Kenya"
+    ],
+    "explanation": "Juba is the capital city of South Sudan."
+  },
+  {
+    "id": "cap-to-country-somalia",
+    "category": "capitals",
+    "question": "Mogadishu is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Somalia",
+    "wrongAnswers": [
+      "Kenya",
+      "Ethiopia",
+      "Djibouti"
+    ],
+    "explanation": "Mogadishu is the capital city of Somalia."
+  },
+  {
+    "id": "cap-to-country-democratic-republic-of-the-congo",
+    "category": "capitals",
+    "question": "Kinshasa is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Democratic Republic of the Congo",
+    "wrongAnswers": [
+      "Republic of the Congo",
+      "Luanda",
+      "Uganda"
+    ],
+    "explanation": "Kinshasa is the capital city of Democratic Republic of the Congo."
+  },
+  {
+    "id": "cap-to-country-republic-of-the-congo",
+    "category": "capitals",
+    "question": "Brazzaville is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Republic of the Congo",
+    "wrongAnswers": [
+      "Democratic Republic of the Congo",
+      "Luanda",
+      "Gabon"
+    ],
+    "explanation": "Brazzaville is the capital city of Republic of the Congo."
+  },
+  {
+    "id": "cap-to-country-cameroon",
+    "category": "capitals",
+    "question": "Yaounde is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Cameroon",
+    "wrongAnswers": [
+      "Nigeria",
+      "Gabon",
+      "Douala"
+    ],
+    "explanation": "Yaounde is the capital city of Cameroon."
+  },
+  {
+    "id": "cap-to-country-ivory-coast",
+    "category": "capitals",
+    "question": "Yamoussoukro is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Ivory Coast",
+    "wrongAnswers": [
+      "Abidjan",
+      "Ghana",
+      "Senegal"
+    ],
+    "explanation": "Yamoussoukro is the capital city of Ivory Coast."
+  },
+  {
+    "id": "cap-to-country-mali",
+    "category": "capitals",
+    "question": "Bamako is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Mali",
+    "wrongAnswers": [
+      "Senegal",
+      "Ouagadougou",
+      "Niger"
+    ],
+    "explanation": "Bamako is the capital city of Mali."
+  },
+  {
+    "id": "cap-to-country-niger",
+    "category": "capitals",
+    "question": "Niamey is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Niger",
+    "wrongAnswers": [
+      "Mali",
+      "Ouagadougou",
+      "Nigeria"
+    ],
+    "explanation": "Niamey is the capital city of Niger."
+  },
+  {
+    "id": "cap-to-country-chad",
+    "category": "capitals",
+    "question": "N'Djamena is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Chad",
+    "wrongAnswers": [
+      "Niger",
+      "Nigeria",
+      "Cameroon"
+    ],
+    "explanation": "N'Djamena is the capital city of Chad."
+  },
+  {
+    "id": "cap-to-country-gabon",
+    "category": "capitals",
+    "question": "Libreville is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Gabon",
+    "wrongAnswers": [
+      "Republic of the Congo",
+      "Cameroon",
+      "Malabo"
+    ],
+    "explanation": "Libreville is the capital city of Gabon."
+  },
+  {
+    "id": "cap-to-country-united-states",
+    "category": "capitals",
+    "question": "Washington, D.C. is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "United States",
+    "wrongAnswers": [
+      "New York City",
+      "Los Angeles",
+      "Canada"
+    ],
+    "explanation": "Washington, D.C. is the capital city of United States."
+  },
+  {
+    "id": "cap-to-country-canada",
+    "category": "capitals",
+    "question": "Ottawa is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Canada",
+    "wrongAnswers": [
+      "Toronto",
+      "Vancouver",
+      "United States"
+    ],
+    "explanation": "Ottawa is the capital city of Canada."
+  },
+  {
+    "id": "cap-to-country-mexico",
+    "category": "capitals",
+    "question": "Mexico City is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Mexico",
+    "wrongAnswers": [
+      "Guadalajara",
+      "Cancun",
+      "Guatemala"
+    ],
+    "explanation": "Mexico City is the capital city of Mexico."
+  },
+  {
+    "id": "cap-to-country-guatemala",
+    "category": "capitals",
+    "question": "Guatemala City is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Guatemala",
+    "wrongAnswers": [
+      "El Salvador",
+      "Mexico",
+      "Honduras"
+    ],
+    "explanation": "Guatemala City is the capital city of Guatemala."
+  },
+  {
+    "id": "cap-to-country-honduras",
+    "category": "capitals",
+    "question": "Tegucigalpa is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Honduras",
+    "wrongAnswers": [
+      "Guatemala",
+      "El Salvador",
+      "Nicaragua"
+    ],
+    "explanation": "Tegucigalpa is the capital city of Honduras."
+  },
+  {
+    "id": "cap-to-country-el-salvador",
+    "category": "capitals",
+    "question": "San Salvador is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "El Salvador",
+    "wrongAnswers": [
+      "Honduras",
+      "Guatemala",
+      "Nicaragua"
+    ],
+    "explanation": "San Salvador is the capital city of El Salvador."
+  },
+  {
+    "id": "cap-to-country-nicaragua",
+    "category": "capitals",
+    "question": "Managua is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Nicaragua",
+    "wrongAnswers": [
+      "El Salvador",
+      "Honduras",
+      "Costa Rica"
+    ],
+    "explanation": "Managua is the capital city of Nicaragua."
+  },
+  {
+    "id": "cap-to-country-costa-rica",
+    "category": "capitals",
+    "question": "San Jose is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Costa Rica",
+    "wrongAnswers": [
+      "Nicaragua",
+      "Panama",
+      "El Salvador"
+    ],
+    "explanation": "San Jose is the capital city of Costa Rica."
+  },
+  {
+    "id": "cap-to-country-panama",
+    "category": "capitals",
+    "question": "Panama City is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Panama",
+    "wrongAnswers": [
+      "Costa Rica",
+      "Colombia",
+      "Nicaragua"
+    ],
+    "explanation": "Panama City is the capital city of Panama."
+  },
+  {
+    "id": "cap-to-country-colombia",
+    "category": "capitals",
+    "question": "Bogota is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Colombia",
+    "wrongAnswers": [
+      "Ecuador",
+      "Venezuela",
+      "Peru"
+    ],
+    "explanation": "Bogota is the capital city of Colombia."
+  },
+  {
+    "id": "cap-to-country-venezuela",
+    "category": "capitals",
+    "question": "Caracas is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Venezuela",
+    "wrongAnswers": [
+      "Colombia",
+      "Ecuador",
+      "Georgetown"
+    ],
+    "explanation": "Caracas is the capital city of Venezuela."
+  },
+  {
+    "id": "cap-to-country-ecuador",
+    "category": "capitals",
+    "question": "Quito is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Ecuador",
+    "wrongAnswers": [
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "explanation": "Quito is the capital city of Ecuador."
+  },
+  {
+    "id": "cap-to-country-peru",
+    "category": "capitals",
+    "question": "Lima is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Peru",
+    "wrongAnswers": [
+      "Ecuador",
+      "Bolivia",
+      "Colombia"
+    ],
+    "explanation": "Lima is the capital city of Peru."
+  },
+  {
+    "id": "cap-to-country-bolivia",
+    "category": "capitals",
+    "question": "La Paz is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Bolivia",
+    "wrongAnswers": [
+      "Peru",
+      "Ecuador",
+      "Paraguay"
+    ],
+    "explanation": "La Paz is the capital city of Bolivia."
+  },
+  {
+    "id": "cap-to-country-brazil",
+    "category": "capitals",
+    "question": "Brasilia is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Brazil",
+    "wrongAnswers": [
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Argentina"
+    ],
+    "explanation": "Brasilia is the capital city of Brazil."
+  },
+  {
+    "id": "cap-to-country-argentina",
+    "category": "capitals",
+    "question": "Buenos Aires is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Argentina",
+    "wrongAnswers": [
+      "Uruguay",
+      "Chile",
+      "Brazil"
+    ],
+    "explanation": "Buenos Aires is the capital city of Argentina."
+  },
+  {
+    "id": "cap-to-country-chile",
+    "category": "capitals",
+    "question": "Santiago is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Chile",
+    "wrongAnswers": [
+      "Argentina",
+      "Peru",
+      "Uruguay"
+    ],
+    "explanation": "Santiago is the capital city of Chile."
+  },
+  {
+    "id": "cap-to-country-uruguay",
+    "category": "capitals",
+    "question": "Montevideo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Uruguay",
+    "wrongAnswers": [
+      "Argentina",
+      "Paraguay",
+      "Brazil"
+    ],
+    "explanation": "Montevideo is the capital city of Uruguay."
+  },
+  {
+    "id": "cap-to-country-paraguay",
+    "category": "capitals",
+    "question": "Asuncion is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Paraguay",
+    "wrongAnswers": [
+      "Uruguay",
+      "Bolivia",
+      "Argentina"
+    ],
+    "explanation": "Asuncion is the capital city of Paraguay."
+  },
+  {
+    "id": "cap-to-country-cuba",
+    "category": "capitals",
+    "question": "Havana is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Cuba",
+    "wrongAnswers": [
+      "Jamaica",
+      "Dominican Republic",
+      "Nassau"
+    ],
+    "explanation": "Havana is the capital city of Cuba."
+  },
+  {
+    "id": "cap-to-country-dominican-republic",
+    "category": "capitals",
+    "question": "Santo Domingo is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Dominican Republic",
+    "wrongAnswers": [
+      "Cuba",
+      "San Juan",
+      "Jamaica"
+    ],
+    "explanation": "Santo Domingo is the capital city of Dominican Republic."
+  },
+  {
+    "id": "cap-to-country-haiti",
+    "category": "capitals",
+    "question": "Port-au-Prince is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Haiti",
+    "wrongAnswers": [
+      "Dominican Republic",
+      "Jamaica",
+      "Cuba"
+    ],
+    "explanation": "Port-au-Prince is the capital city of Haiti."
+  },
+  {
+    "id": "cap-to-country-jamaica",
+    "category": "capitals",
+    "question": "Kingston is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Jamaica",
+    "wrongAnswers": [
+      "Cuba",
+      "Nassau",
+      "Haiti"
+    ],
+    "explanation": "Kingston is the capital city of Jamaica."
+  },
+  {
+    "id": "cap-to-country-australia",
+    "category": "capitals",
+    "question": "Canberra is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Australia",
+    "wrongAnswers": [
+      "Sydney",
+      "Melbourne",
+      "New Zealand"
+    ],
+    "explanation": "Canberra is the capital city of Australia."
+  },
+  {
+    "id": "cap-to-country-new-zealand",
+    "category": "capitals",
+    "question": "Wellington is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "New Zealand",
+    "wrongAnswers": [
+      "Auckland",
+      "Australia",
+      "Sydney"
+    ],
+    "explanation": "Wellington is the capital city of New Zealand."
+  },
+  {
+    "id": "cap-to-country-fiji",
+    "category": "capitals",
+    "question": "Suva is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Fiji",
+    "wrongAnswers": [
+      "New Zealand",
+      "Apia",
+      "Papua New Guinea"
+    ],
+    "explanation": "Suva is the capital city of Fiji."
+  },
+  {
+    "id": "cap-to-country-papua-new-guinea",
+    "category": "capitals",
+    "question": "Port Moresby is the capital of which country?",
+    "hint": "",
+    "image": "",
+    "correctAnswer": "Papua New Guinea",
+    "wrongAnswers": [
+      "Fiji",
+      "Australia",
+      "Indonesia"
+    ],
+    "explanation": "Port Moresby is the capital city of Papua New Guinea."
+  }
+]

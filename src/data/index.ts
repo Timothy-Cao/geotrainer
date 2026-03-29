@@ -7,6 +7,8 @@ import shapesReverseData from "./shapes-reverse.json";
 import flagsData from "./flags.json";
 import flagsReverseData from "./flags-reverse.json";
 import factsData from "./facts.json";
+import capitalsData from "./capitals.json";
+import capitalsReverseData from "./capitals-reverse.json";
 
 export const allCards: Card[] = [
   ...languageToTextData,
@@ -15,6 +17,8 @@ export const allCards: Card[] = [
   ...shapesReverseData,
   ...flagsData,
   ...flagsReverseData,
+  ...capitalsData,
+  ...capitalsReverseData,
   ...factsData,
 ];
 
@@ -56,9 +60,21 @@ export const categories: Category[] = [
     description: "Given a country name, pick the correct flag",
   },
   {
+    id: "capitals",
+    name: "Capital \u2192 Country",
+    icon: "\uD83C\uDFDB\uFE0F",
+    description: "Name the country given its capital city",
+  },
+  {
+    id: "capitals-reverse",
+    name: "Country \u2192 Capital",
+    icon: "\uD83D\uDCCD",
+    description: "Name the capital city of a given country",
+  },
+  {
     id: "facts",
     name: "Country Facts",
     icon: "\uD83D\uDCA1",
-    description: "Guess the country from an interesting fact",
+    description: "Guess the country from currencies, landmarks, and fun facts",
   },
 ];

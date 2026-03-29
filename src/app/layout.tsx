@@ -3,7 +3,10 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "GeoTrainer",
-  description: "Learn world geography and languages with spaced repetition",
+  description: "Train your world knowledge — languages, flags, shapes, capitals, and more",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
@@ -36,6 +39,9 @@ export default function RootLayout({
           </div>
         </nav>
         <main className="max-w-4xl mx-auto px-4 py-8">{children}</main>
+        <footer className="border-t border-[#1e1e2e] mt-16 py-6 text-center text-xs text-[#555]">
+          Built by Tim Cao
+        </footer>
       </body>
     </html>
   );
