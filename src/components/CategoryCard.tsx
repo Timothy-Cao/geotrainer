@@ -5,7 +5,6 @@ import { Category } from "@/lib/types";
 interface CategoryCardProps {
   category: Category;
   selected: boolean;
-  dueCount: number;
   totalCount: number;
   onToggle: () => void;
 }
@@ -13,7 +12,6 @@ interface CategoryCardProps {
 export default function CategoryCard({
   category,
   selected,
-  dueCount,
   totalCount,
   onToggle,
 }: CategoryCardProps) {
@@ -60,17 +58,8 @@ export default function CategoryCard({
           )}
         </div>
       </div>
-      <div className="flex items-center gap-3 mt-3 pt-3 border-t border-[#1e1e2e]">
-        <span
-          className={`text-xs font-medium px-2 py-0.5 rounded-full ${
-            dueCount > 0
-              ? "bg-[#00e5ff]/10 text-[#00e5ff]"
-              : "bg-[#1e1e2e] text-[#888]"
-          }`}
-        >
-          {dueCount} due
-        </span>
-        <span className="text-xs text-[#888]">{totalCount} total</span>
+      <div className="mt-3 pt-3 border-t border-[#1e1e2e]">
+        <span className="text-xs text-[#888]">{totalCount} cards</span>
       </div>
     </button>
   );

@@ -1,27 +1,17 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
-import { CardProgress, UserStats } from "@/lib/types";
-import { processAnswer, createNewProgress } from "@/lib/sm2";
+import { CardResult, UserStats } from "@/lib/types";
 import {
-  getAllProgress,
-  saveProgress,
+  getAllResults,
+  recordResult,
   getStats,
   updateStats,
-  incrementNewCardsShown,
-  getNewCardsShownToday,
 } from "@/lib/storage";
-import { buildQueue } from "@/lib/scheduler";
 import { allCards } from "@/data";
 
-const NEW_CARDS_PER_DAY = 5;
-
-function getToday(): string {
-  return new Date().toISOString().split("T")[0];
-}
-
 export function useProgress() {
-  const [progress, setProgress] = useState<Record<string, CardProgress>>({});
+  const [results, setResults] = useState<Record<string, CardResult>>({});
   const [stats, setStats] = useState<UserStats>({
     totalReviewed: 0,
     totalCorrect: 0,
@@ -31,66 +21,26 @@ export function useProgress() {
   const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
-    const savedProgress = getAllProgress();
-    const savedStats = getStats();
-    setProgress(savedProgress);
-    setStats(savedStats);
+    setResults(getAllResults());
+    setStats(getStats());
     setLoaded(true);
   }, []);
 
   const answerCard = useCallback(
     (cardId: string, correct: boolean) => {
-      const current = progress[cardId] || createNewProgress();
-      const isNew = !progress[cardId];
-
-      const updated = processAnswer(current, correct);
-      saveProgress(cardId, updated);
-
-      if (isNew) {
-        const card = allCards.find((c) => c.id === cardId);
-        if (card) {
-          incrementNewCardsShown(card.category);
-        }
-      }
-
+      recordResult(cardId, correct);
       const updatedStats = updateStats(correct);
 
-      setProgress((prev) => ({ ...prev, [cardId]: updated }));
+      const current = results[cardId] || { correct: 0, wrong: 0 };
+      const updated = {
+        correct: current.correct + (correct ? 1 : 0),
+        wrong: current.wrong + (correct ? 0 : 1),
+      };
+
+      setResults((prev) => ({ ...prev, [cardId]: updated }));
       setStats(updatedStats);
     },
-    [progress]
-  );
-
-  const getDueCount = useCallback(
-    (categoryId: string): number => {
-      const today = getToday();
-      const categoryCards = allCards.filter((c) => c.category === categoryId);
-
-      let dueCount = 0;
-      let newCount = 0;
-      const newCardsShown = getNewCardsShownToday(categoryId);
-
-      for (const card of categoryCards) {
-        const p = progress[card.id];
-        if (!p) {
-          if (newCardsShown + newCount < NEW_CARDS_PER_DAY) {
-            newCount++;
-          }
-        } else if (p.nextReview <= today) {
-          dueCount++;
-        }
-      }
-
-      return dueCount + newCount;
-    },
-    [progress]
-  );
-
-  const getQueue = useCallback(
-    (selectedCategories: string[]) => {
-      return buildQueue(allCards, progress, selectedCategories);
-    },
-    [progress]
+    [results]
   );
 
   const getAccuracy = useCallback((): number => {
@@ -98,29 +48,31 @@ export function useProgress() {
     return Math.round((stats.totalCorrect / stats.totalReviewed) * 100);
   }, [stats]);
 
-  const getCategoryMastery = useCallback(
-    (categoryId: string): number => {
+  const getCategoryStats = useCallback(
+    (categoryId: string) => {
       const categoryCards = allCards.filter((c) => c.category === categoryId);
-      if (categoryCards.length === 0) return 0;
+      let seen = 0;
+      let correctCount = 0;
 
-      const mastered = categoryCards.filter((card) => {
-        const p = progress[card.id];
-        return p && p.interval > 21;
-      }).length;
+      for (const card of categoryCards) {
+        const r = results[card.id];
+        if (r) {
+          seen++;
+          if (r.correct > 0) correctCount++;
+        }
+      }
 
-      return Math.round((mastered / categoryCards.length) * 100);
+      return { total: categoryCards.length, seen, correct: correctCount };
     },
-    [progress]
+    [results]
   );
 
   return {
-    progress,
+    results,
     stats,
     loaded,
     answerCard,
-    getDueCount,
-    getQueue,
     getAccuracy,
-    getCategoryMastery,
+    getCategoryStats,
   };
 }

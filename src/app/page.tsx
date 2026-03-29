@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { categories, allCards } from "@/data";
 import CategoryCard from "@/components/CategoryCard";
-import { useProgress } from "@/hooks/useProgress";
 import {
   getSelectedCategories,
   saveSelectedCategories,
@@ -12,7 +11,6 @@ import {
 
 export default function HomePage() {
   const router = useRouter();
-  const { getDueCount, loaded } = useProgress();
   const [selected, setSelected] = useState<string[]>([]);
 
   useEffect(() => {
@@ -35,15 +33,10 @@ export default function HomePage() {
     }
   };
 
-  const getCardCount = (catId: string) => {
-    const cat = categories.find((c) => c.id === catId);
-    if (cat?.mode === "random") {
-      return allCards.filter((c) => c.category === catId).length;
-    }
-    return getDueCount(catId);
-  };
-
-  const totalCards = selected.reduce((sum, catId) => sum + getCardCount(catId), 0);
+  const totalCards = selected.reduce(
+    (sum, catId) => sum + allCards.filter((c) => c.category === catId).length,
+    0
+  );
 
   return (
     <div>
@@ -62,7 +55,6 @@ export default function HomePage() {
             key={cat.id}
             category={cat}
             selected={selected.includes(cat.id)}
-            dueCount={loaded ? getCardCount(cat.id) : 0}
             totalCount={allCards.filter((c) => c.category === cat.id).length}
             onToggle={() => toggleCategory(cat.id)}
           />

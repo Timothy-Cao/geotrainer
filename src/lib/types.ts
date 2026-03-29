@@ -10,12 +10,9 @@ export interface Card {
   wrongAnswerSamples?: Record<string, string>;
 }
 
-export interface CardProgress {
-  easeFactor: number;
-  interval: number;
-  repetitions: number;
-  nextReview: string; // ISO date string YYYY-MM-DD
-  lastResult: boolean | null;
+export interface CardResult {
+  correct: number;
+  wrong: number;
 }
 
 export interface Category {
@@ -23,7 +20,6 @@ export interface Category {
   name: string;
   icon: string;
   description: string;
-  mode: "srs" | "random";
 }
 
 export interface UserStats {

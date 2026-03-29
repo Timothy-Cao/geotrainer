@@ -19,7 +19,16 @@
       "Bash(node fix-cards.mjs)",
       "Bash(python3 -c \"import json; data=json.load\\(open\\(''C:/Users/tctct/Downloads/claude/geotrainer/src/data/text-to-language.json''\\)\\); print\\(len\\(data\\)\\)\")",
       "Bash(node -e \"const data=require\\(''C:/Users/tctct/Downloads/claude/geotrainer/src/data/text-to-language.json''\\); console.log\\(data.length\\)\")",
-      "Bash(node -e \"const d = require\\(''./src/data/text-to-language.json''\\); console.log\\(''text-to-language cards:'', d.length\\); const d2 = require\\(''./src/data/language-to-text.json''\\); console.log\\(''language-to-text cards:'', d2.length\\);\")"
+      "Bash(node -e \"const d = require\\(''./src/data/text-to-language.json''\\); console.log\\(''text-to-language cards:'', d.length\\); const d2 = require\\(''./src/data/language-to-text.json''\\); console.log\\(''language-to-text cards:'', d2.length\\);\")",
+      "Bash(node update-json.mjs)",
+      "Bash(node -e \"JSON.parse\\(require\\(''fs''\\).readFileSync\\(''src/data/language-to-text.json'',''utf8''\\)\\); JSON.parse\\(require\\(''fs''\\).readFileSync\\(''src/data/text-to-language.json'',''utf8''\\)\\); console.log\\(''Both files are valid JSON''\\)\")",
+      "Bash(node -e \"const d = require\\(''./src/data/country-shapes.json''\\); console.log\\(''Entries:'', d.length\\); const countries = d.map\\(c => c.correctAnswer\\); console.log\\(''Countries:'', countries.join\\('', ''\\)\\)\")",
+      "Bash(node -e \"const d1 = require\\(''./src/data/country-shapes.json''\\); const d2 = require\\(''./src/data/shapes-reverse.json''\\); console.log\\(''shapes:'', d1.length\\); console.log\\(''reverse:'', d2.length\\);\")",
+      "Bash(node scripts/generate-flags-data.js)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(node scripts/generate-more-facts.js)"
     ]
   }
 }

@@ -5,7 +5,7 @@ import { useProgress } from "@/hooks/useProgress";
 import ProgressBar from "@/components/ProgressBar";
 
 export default function StatsPage() {
-  const { stats, getAccuracy, getCategoryMastery, loaded } = useProgress();
+  const { stats, getAccuracy, getCategoryStats, loaded } = useProgress();
 
   if (!loaded) {
     return (
@@ -31,37 +31,40 @@ export default function StatsPage() {
         </div>
         <div className="bg-[#151520] border border-[#1e1e2e] rounded-xl p-5 text-center">
           <div className="text-3xl font-bold text-[#00e5ff]">
-            {stats.totalReviewed > 0 ? `${Math.round(getAccuracy())}%` : "—"}
+            {stats.totalReviewed > 0 ? `${getAccuracy()}%` : "\u2014"}
           </div>
           <div className="text-xs text-[#888] mt-1">Accuracy</div>
         </div>
         <div className="bg-[#151520] border border-[#1e1e2e] rounded-xl p-5 text-center">
           <div className="text-3xl font-bold text-[#00e5ff]">
-            {stats.currentStreak > 0 ? stats.currentStreak : "—"}
+            {stats.currentStreak > 0 ? stats.currentStreak : "\u2014"}
           </div>
           <div className="text-xs text-[#888] mt-1">Day Streak</div>
         </div>
       </div>
 
-      {/* Category mastery */}
-      <h2 className="text-lg font-semibold mb-4">Category Mastery</h2>
+      {/* Category progress */}
+      <h2 className="text-lg font-semibold mb-4">Category Progress</h2>
       <div className="space-y-4">
         {categories.map((cat) => {
-          const mastery = getCategoryMastery(cat.id);
-          const total = allCards.filter((c) => c.category === cat.id).length;
+          const { total, seen, correct } = getCategoryStats(cat.id);
+          const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
           return (
             <div
               key={cat.id}
               className="bg-[#151520] border border-[#1e1e2e] rounded-xl p-4"
             >
-              <div className="flex items-center gap-2 mb-3">
+              <div className="flex items-center gap-2 mb-1">
                 <span>{cat.icon}</span>
                 <span className="font-medium">{cat.name}</span>
                 <span className="text-xs text-[#888] ml-auto">
-                  {total} cards
+                  {correct}/{total} correct
                 </span>
               </div>
-              <ProgressBar value={mastery} label="Mastered" />
+              <div className="text-xs text-[#555] mb-3">
+                {seen} of {total} attempted
+              </div>
+              <ProgressBar value={pct} label="Correct" />
             </div>
           );
         })}

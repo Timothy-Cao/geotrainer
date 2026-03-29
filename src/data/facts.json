@@ -6,7 +6,11 @@
     "hint": "It's a Scandinavian country.",
     "image": "",
     "correctAnswer": "Sweden",
-    "wrongAnswers": ["Finland", "Indonesia", "Philippines"],
+    "wrongAnswers": [
+      "Finland",
+      "Indonesia",
+      "Philippines"
+    ],
     "explanation": "Sweden has 267,570 islands, more than any other country. Most are tiny and uninhabited rocky outcrops along its extensive Baltic coastline."
   },
   {
@@ -16,7 +20,11 @@
     "hint": "It's a small country in the Himalayas.",
     "image": "",
     "correctAnswer": "Nepal",
-    "wrongAnswers": ["Bhutan", "Switzerland", "Vatican City"],
+    "wrongAnswers": [
+      "Bhutan",
+      "Switzerland",
+      "Vatican City"
+    ],
     "explanation": "Nepal's flag consists of two stacked triangular pennants, making it the only national flag that isn't quadrilateral. Switzerland and Vatican City have square flags, but those are still quadrilateral."
   },
   {
@@ -26,7 +34,11 @@
     "hint": "It's the world's most sparsely populated sovereign state.",
     "image": "",
     "correctAnswer": "Mongolia",
-    "wrongAnswers": ["Kazakhstan", "Argentina", "Iceland"],
+    "wrongAnswers": [
+      "Kazakhstan",
+      "Argentina",
+      "Iceland"
+    ],
     "explanation": "Mongolia has about 4 million horses for a population of roughly 3.3 million people. The horse remains central to Mongolian nomadic culture and daily life."
   },
   {
@@ -36,7 +48,11 @@
     "hint": "It's the largest country by land area.",
     "image": "",
     "correctAnswer": "Russia",
-    "wrongAnswers": ["China", "United States", "Canada"],
+    "wrongAnswers": [
+      "China",
+      "United States",
+      "Canada"
+    ],
     "explanation": "Russia stretches across 11 time zones from Kaliningrad (UTC+2) to Kamchatka (UTC+12). China, despite being the third-largest country, uses only one time zone."
   },
   {
@@ -46,7 +62,11 @@
     "hint": "It's in South America, bordering both the Pacific and Caribbean.",
     "image": "",
     "correctAnswer": "Colombia",
-    "wrongAnswers": ["Brazil", "Peru", "Ecuador"],
+    "wrongAnswers": [
+      "Brazil",
+      "Peru",
+      "Ecuador"
+    ],
     "explanation": "Colombia hosts nearly 2,000 bird species — about 20% of all bird species worldwide. Its diverse geography includes Andes mountains, Amazon rainforest, and both ocean coasts."
   },
   {
@@ -56,7 +76,11 @@
     "hint": "It's a volcanic island nation in the North Atlantic.",
     "image": "",
     "correctAnswer": "Iceland",
-    "wrongAnswers": ["Norway", "Denmark", "Greenland"],
+    "wrongAnswers": [
+      "Norway",
+      "Denmark",
+      "Greenland"
+    ],
     "explanation": "Icelanders use patronymic naming: a person's last name is their father's first name plus '-son' or '-dóttir'. Phone directories are sorted by first name since last names aren't shared family names."
   },
   {
@@ -66,7 +90,11 @@
     "hint": "It's in northern Europe, known for its thousands of lakes.",
     "image": "",
     "correctAnswer": "Finland",
-    "wrongAnswers": ["Sweden", "Norway", "Estonia"],
+    "wrongAnswers": [
+      "Sweden",
+      "Norway",
+      "Estonia"
+    ],
     "explanation": "Finland has approximately 3.3 million saunas — roughly one for every household. Sauna culture is so integral that even the Finnish parliament building has a sauna."
   },
   {
@@ -76,7 +104,11 @@
     "hint": "It's in the Horn of Africa and was never colonized by a European power.",
     "image": "",
     "correctAnswer": "Ethiopia",
-    "wrongAnswers": ["Eritrea", "Somalia", "Sudan"],
+    "wrongAnswers": [
+      "Eritrea",
+      "Somalia",
+      "Sudan"
+    ],
     "explanation": "The Ethiopian calendar has 12 months of 30 days each, plus a 13th month of 5-6 days. It runs roughly 7-8 years behind the Gregorian calendar due to a different calculation of the Annunciation."
   },
   {
@@ -86,7 +118,11 @@
     "hint": "It's a small country entirely surrounded by another country in southern Africa.",
     "image": "",
     "correctAnswer": "Lesotho",
-    "wrongAnswers": ["Swaziland", "Bhutan", "Nepal"],
+    "wrongAnswers": [
+      "Swaziland",
+      "Bhutan",
+      "Nepal"
+    ],
     "explanation": "Lesotho is often called 'The Kingdom in the Sky.' Its lowest point (1,400m) is the highest lowest point of any country. It's also one of only three countries entirely surrounded by a single other country."
   },
   {
@@ -96,7 +132,11 @@
     "hint": "It's a major European country with territories in the Pacific, Caribbean, Indian Ocean, and South America.",
     "image": "",
     "correctAnswer": "France",
-    "wrongAnswers": ["United Kingdom", "United States", "Russia"],
+    "wrongAnswers": [
+      "United Kingdom",
+      "United States",
+      "Russia"
+    ],
     "explanation": "France spans 12 time zones due to overseas territories like French Polynesia, New Caledonia, Réunion, Guadeloupe, Martinique, and French Guiana."
   },
   {
@@ -106,7 +146,11 @@
     "hint": "It's the second-largest country by area, in North America.",
     "image": "",
     "correctAnswer": "Canada",
-    "wrongAnswers": ["Russia", "Australia", "Indonesia"],
+    "wrongAnswers": [
+      "Russia",
+      "Australia",
+      "Indonesia"
+    ],
     "explanation": "Canada's coastline stretches over 243,000 km along three oceans (Atlantic, Pacific, Arctic) and includes thousands of islands in the Arctic Archipelago."
   },
   {
@@ -116,7 +160,11 @@
     "hint": "It's the world's smallest independent state, located within a European capital city.",
     "image": "",
     "correctAnswer": "Vatican City",
-    "wrongAnswers": ["Monaco", "San Marino", "Liechtenstein"],
+    "wrongAnswers": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
     "explanation": "Vatican City has no hospitals or maternity wards. Its roughly 800 residents are clergy and Swiss Guards. New citizens are appointed rather than born."
   },
   {
@@ -126,7 +174,11 @@
     "hint": "It's an island nation in East Asia known for its technology and convenience culture.",
     "image": "",
     "correctAnswer": "Japan",
-    "wrongAnswers": ["South Korea", "Singapore", "United States"],
+    "wrongAnswers": [
+      "South Korea",
+      "Singapore",
+      "United States"
+    ],
     "explanation": "Japan has over 5 million vending machines selling everything from hot coffee and ramen to umbrellas and fresh eggs. The low crime rate makes outdoor machines viable everywhere."
   },
   {
@@ -136,7 +188,11 @@
     "hint": "It's the largest country in South America.",
     "image": "",
     "correctAnswer": "Brazil",
-    "wrongAnswers": ["Colombia", "Peru", "Venezuela"],
+    "wrongAnswers": [
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
     "explanation": "Brazil is the world's most biodiverse country, hosting roughly 60% of the Amazon and containing more known species of plants, freshwater fish, and mammals than any other nation."
   },
   {
@@ -146,7 +202,11 @@
     "hint": "It's a small Himalayan kingdom that measures Gross National Happiness instead of GDP.",
     "image": "",
     "correctAnswer": "Bhutan",
-    "wrongAnswers": ["Nepal", "Sri Lanka", "Costa Rica"],
+    "wrongAnswers": [
+      "Nepal",
+      "Sri Lanka",
+      "Costa Rica"
+    ],
     "explanation": "Bhutan's constitution mandates that at least 60% of the country remain forested. Its forests absorb over 6 million tonnes of CO2 annually, while it produces only about 1.5 million tonnes."
   },
   {
@@ -156,7 +216,11 @@
     "hint": "It's a Scandinavian country famous for its fjords.",
     "image": "",
     "correctAnswer": "Norway",
-    "wrongAnswers": ["Switzerland", "Austria", "Sweden"],
+    "wrongAnswers": [
+      "Switzerland",
+      "Austria",
+      "Sweden"
+    ],
     "explanation": "Norway's Lærdal Tunnel (24.5 km) is the world's longest road tunnel, and the Ryfast Tunnel descends 287m below sea level. Norway's mountainous fjord terrain necessitates extensive tunneling."
   },
   {
@@ -166,7 +230,11 @@
     "hint": "It's the world's largest archipelago nation in Southeast Asia.",
     "image": "",
     "correctAnswer": "Indonesia",
-    "wrongAnswers": ["Philippines", "India", "Malaysia"],
+    "wrongAnswers": [
+      "Philippines",
+      "India",
+      "Malaysia"
+    ],
     "explanation": "Indonesia has over 700 living languages across its 17,000+ islands. Bahasa Indonesia serves as the unifying national language, but Javanese alone has over 80 million native speakers."
   },
   {
@@ -176,7 +244,11 @@
     "hint": "It's a transcontinental country in northeast Africa.",
     "image": "",
     "correctAnswer": "Egypt",
-    "wrongAnswers": ["Panama", "Turkey", "Iran"],
+    "wrongAnswers": [
+      "Panama",
+      "Turkey",
+      "Iran"
+    ],
     "explanation": "The Suez Canal in Egypt connects the Mediterranean and Red Seas. About 12% of global trade traverses this canal, making it one of the world's most critical shipping chokepoints."
   },
   {
@@ -186,7 +258,11 @@
     "hint": "It's an East Asian country on a peninsula.",
     "image": "",
     "correctAnswer": "South Korea",
-    "wrongAnswers": ["Japan", "China", "North Korea"],
+    "wrongAnswers": [
+      "Japan",
+      "China",
+      "North Korea"
+    ],
     "explanation": "South Korea used 'Korean age' (만 나이 vs 세는 나이) where newborns started at age 1 and gained a year every January 1st. In June 2023, the country officially switched to the international age system."
   },
   {
@@ -196,7 +272,11 @@
     "hint": "This transcontinental country bridges Europe and Asia.",
     "image": "",
     "correctAnswer": "Turkey",
-    "wrongAnswers": ["Netherlands", "Iran", "Afghanistan"],
+    "wrongAnswers": [
+      "Netherlands",
+      "Iran",
+      "Afghanistan"
+    ],
     "explanation": "Tulips were first cultivated in the Ottoman Empire (modern Turkey). The 'Tulip Era' (1718-1730) was a period of Ottoman cultural flourishing. They were exported to the Netherlands in the 16th century."
   },
   {
@@ -206,7 +286,11 @@
     "hint": "It's a southern European country known as the birthplace of democracy and the Olympics.",
     "image": "",
     "correctAnswer": "Greece",
-    "wrongAnswers": ["Italy", "Iran", "India"],
+    "wrongAnswers": [
+      "Italy",
+      "Iran",
+      "India"
+    ],
     "explanation": "Greek has been continuously documented since the Mycenaean period (Linear B, ~1450 BC). It's the longest-attested living Indo-European language, with literature spanning over three millennia."
   },
   {
@@ -216,7 +300,11 @@
     "hint": "It's a landlocked South American country in the Andes.",
     "image": "",
     "correctAnswer": "Bolivia",
-    "wrongAnswers": ["Chile", "Peru", "Argentina"],
+    "wrongAnswers": [
+      "Chile",
+      "Peru",
+      "Argentina"
+    ],
     "explanation": "The Salar de Uyuni in Bolivia is the world's largest salt flat at over 10,000 km². During the rainy season, a thin layer of water creates a mirror effect reflecting the sky perfectly."
   },
   {
@@ -226,7 +314,11 @@
     "hint": "It's a continent-country in the Southern Hemisphere.",
     "image": "",
     "correctAnswer": "Australia",
-    "wrongAnswers": ["China", "India", "United States"],
+    "wrongAnswers": [
+      "China",
+      "India",
+      "United States"
+    ],
     "explanation": "Australia's Dingo Fence stretches 5,614 km across the southeast, longer than the Great Wall of China. It was built to keep dingoes away from sheep-grazing lands."
   },
   {
@@ -236,7 +328,11 @@
     "hint": "It's an island nation in the Indian Ocean, popular for luxury tourism.",
     "image": "",
     "correctAnswer": "Maldives",
-    "wrongAnswers": ["Tuvalu", "Marshall Islands", "Kiribati"],
+    "wrongAnswers": [
+      "Tuvalu",
+      "Marshall Islands",
+      "Kiribati"
+    ],
     "explanation": "The Maldives' highest natural point is only 5.1 meters above sea level, making it the world's flattest and lowest country. Rising sea levels pose an existential threat to its 1,200 islands."
   },
   {
@@ -246,7 +342,361 @@
     "hint": "It's a landlocked Central African country.",
     "image": "",
     "correctAnswer": "Chad",
-    "wrongAnswers": ["Niger", "Nigeria", "Cameroon"],
+    "wrongAnswers": [
+      "Niger",
+      "Nigeria",
+      "Cameroon"
+    ],
     "explanation": "Lake Chad, which gives the country its name, was once one of Africa's largest lakes. Due to climate change and irrigation demands, it has shrunk by approximately 90% since the 1960s."
+  },
+  {
+    "id": "facts-singapore-water-01",
+    "category": "facts",
+    "question": "This city-state imports most of its water from a neighboring country and has built massive reservoirs and desalination plants to reduce dependence.",
+    "hint": "It's one of the smallest but wealthiest countries in Southeast Asia.",
+    "image": "",
+    "correctAnswer": "Singapore",
+    "wrongAnswers": [
+      "Hong Kong",
+      "Bahrain",
+      "Malta"
+    ],
+    "explanation": "Singapore imports water from Malaysia via pipelines across the Johor Strait. The country has invested heavily in desalination, rainwater harvesting (Marina Barrage), and recycled water (NEWater)."
+  },
+  {
+    "id": "facts-chile-length-01",
+    "category": "facts",
+    "question": "This country stretches over 4,300 km from north to south but averages only 177 km wide, making it the longest and narrowest country in the world.",
+    "hint": "It runs along the western edge of South America.",
+    "image": "",
+    "correctAnswer": "Chile",
+    "wrongAnswers": [
+      "Argentina",
+      "Peru",
+      "Norway"
+    ],
+    "explanation": "Chile extends from the Atacama Desert in the north to Patagonian glaciers in the south. Despite its narrow width, it encompasses deserts, Mediterranean valleys, temperate rainforests, and Antarctic territory."
+  },
+  {
+    "id": "facts-mexico-pyramids-01",
+    "category": "facts",
+    "question": "This country has more pyramids than Egypt, with estimates of over 10,000 ancient pyramidal structures across its territory.",
+    "hint": "It's in North America, south of the United States.",
+    "image": "",
+    "correctAnswer": "Mexico",
+    "wrongAnswers": [
+      "Peru",
+      "Guatemala",
+      "Honduras"
+    ],
+    "explanation": "Mexico has thousands of pyramids built by Aztec, Maya, Zapotec, and other civilizations. Many remain unexcavated. The Pyramid of the Sun in Teotihuacan is one of the largest in the Western Hemisphere."
+  },
+  {
+    "id": "facts-panama-sunrise-01",
+    "category": "facts",
+    "question": "Due to the S-shape of its isthmus, this is the only country where you can watch the sun rise over the Pacific Ocean and set over the Atlantic.",
+    "hint": "It's famous for a canal connecting two oceans.",
+    "image": "",
+    "correctAnswer": "Panama",
+    "wrongAnswers": [
+      "Costa Rica",
+      "Colombia",
+      "Nicaragua"
+    ],
+    "explanation": "The Isthmus of Panama runs roughly east-west at certain points, meaning the Pacific is to the east and Atlantic to the west in some areas, reversing the typical ocean-side expectations."
+  },
+  {
+    "id": "facts-bangladesh-rivers-01",
+    "category": "facts",
+    "question": "This country is the world's largest river delta, formed where the Ganges and Brahmaputra rivers meet, with over 700 rivers flowing through it.",
+    "hint": "It's a densely populated South Asian country surrounded mostly by India.",
+    "image": "",
+    "correctAnswer": "Bangladesh",
+    "wrongAnswers": [
+      "India",
+      "Myanmar",
+      "Nepal"
+    ],
+    "explanation": "Bangladesh sits on the Bengal Delta, the largest delta on Earth. The country has over 700 rivers and roughly 80% of the land is floodplain. Seasonal flooding affects about a third of the country annually."
+  },
+  {
+    "id": "facts-switzerland-neutral-01",
+    "category": "facts",
+    "question": "This country has not fought in a foreign war since 1815, maintaining armed neutrality for over 200 years, yet has mandatory military service.",
+    "hint": "It's a landlocked country in Central Europe, famous for chocolate, watches, and banking.",
+    "image": "",
+    "correctAnswer": "Switzerland",
+    "wrongAnswers": [
+      "Austria",
+      "Sweden",
+      "Finland"
+    ],
+    "explanation": "Switzerland's neutrality was formally established at the Congress of Vienna in 1815. Despite this, it maintains a well-trained citizens' militia and requires military service for male citizens."
+  },
+  {
+    "id": "facts-denmark-lego-01",
+    "category": "facts",
+    "question": "This country invented LEGO bricks, and its LEGOLAND theme park was the first of its kind. The name comes from this country's words for 'play well.'",
+    "hint": "It's a Scandinavian kingdom consisting of a peninsula and islands.",
+    "image": "",
+    "correctAnswer": "Denmark",
+    "wrongAnswers": [
+      "Sweden",
+      "Netherlands",
+      "Germany"
+    ],
+    "explanation": "LEGO was founded in Billund, Denmark in 1932 by Ole Kirk Christiansen. The name combines the Danish words 'leg godt' meaning 'play well.' The original LEGOLAND park opened in Billund in 1968."
+  },
+  {
+    "id": "facts-new-zealand-sheep-01",
+    "category": "facts",
+    "question": "This country has roughly 5 sheep for every human — about 26 million sheep for a population of around 5 million people.",
+    "hint": "It's an island nation in the southwestern Pacific Ocean.",
+    "image": "",
+    "correctAnswer": "New Zealand",
+    "wrongAnswers": [
+      "Australia",
+      "Ireland",
+      "Uruguay"
+    ],
+    "explanation": "New Zealand's sheep population, while still large, has actually declined from a peak of 70 million in 1982. Wool and lamb remain major exports, and the country has more farm animals than people."
+  },
+  {
+    "id": "facts-costa-rica-army-01",
+    "category": "facts",
+    "question": "This country abolished its military in 1948 and redirected the defense budget to education and healthcare, becoming one of the most stable democracies in Latin America.",
+    "hint": "It's a Central American country known for its biodiversity and 'Pura Vida' lifestyle.",
+    "image": "",
+    "correctAnswer": "Costa Rica",
+    "wrongAnswers": [
+      "Panama",
+      "Uruguay",
+      "Iceland"
+    ],
+    "explanation": "After a brief civil war in 1948, President Jose Figueres Ferrer abolished the army. The funds were redirected to education, healthcare, and environmental conservation. The country now has a 97% literacy rate."
+  },
+  {
+    "id": "facts-netherlands-below-sea-01",
+    "category": "facts",
+    "question": "About one-third of this country lies below sea level, protected by an extensive system of dikes, dams, and storm surge barriers.",
+    "hint": "It's a small, flat country in Western Europe known for windmills and tulips.",
+    "image": "",
+    "correctAnswer": "Netherlands",
+    "wrongAnswers": [
+      "Belgium",
+      "Denmark",
+      "Germany"
+    ],
+    "explanation": "The Netherlands' lowest point is 6.76 meters below sea level. The Dutch have been reclaiming land from the sea for centuries. The Delta Works flood protection system is considered one of the Seven Wonders of the Modern World."
+  },
+  {
+    "id": "facts-peru-potato-01",
+    "category": "facts",
+    "question": "This country is home to over 3,000 varieties of potatoes — the tuber was first domesticated here around 8,000 years ago.",
+    "hint": "It's on the western coast of South America, home to Machu Picchu.",
+    "image": "",
+    "correctAnswer": "Peru",
+    "wrongAnswers": [
+      "Bolivia",
+      "Ireland",
+      "Colombia"
+    ],
+    "explanation": "Peru's Andean communities cultivate over 3,000 potato varieties in colors ranging from purple to yellow to red. The potato was domesticated near Lake Titicaca and spread worldwide after Spanish contact."
+  },
+  {
+    "id": "facts-india-postal-01",
+    "category": "facts",
+    "question": "This country has the largest postal network in the world — over 155,000 post offices, including one that floats on a lake.",
+    "hint": "It's the most populous country in the world as of 2023.",
+    "image": "",
+    "correctAnswer": "India",
+    "wrongAnswers": [
+      "China",
+      "Indonesia",
+      "United States"
+    ],
+    "explanation": "India Post operates over 155,000 post offices, roughly 90% in rural areas. The floating post office sits on Dal Lake in Srinagar, Kashmir. India also has one of the world's highest post offices in Hikkim, Himachal Pradesh."
+  },
+  {
+    "id": "facts-madagascar-unique-01",
+    "category": "facts",
+    "question": "About 90% of this island country's wildlife is found nowhere else on Earth, including lemurs, chameleons, and baobab trees.",
+    "hint": "It's the world's fourth-largest island, off the southeast coast of Africa.",
+    "image": "",
+    "correctAnswer": "Madagascar",
+    "wrongAnswers": [
+      "Sri Lanka",
+      "Indonesia",
+      "Papua New Guinea"
+    ],
+    "explanation": "Madagascar separated from India about 88 million years ago, allowing its species to evolve in isolation. It has over 100 species of lemurs, nearly half the world's chameleon species, and 6 of the world's 8 baobab species."
+  },
+  {
+    "id": "facts-south-africa-capitals-01",
+    "category": "facts",
+    "question": "This country has three capital cities — one for each branch of government: executive, legislative, and judicial.",
+    "hint": "It's at the southern tip of Africa, known for its diverse landscapes and history.",
+    "image": "",
+    "correctAnswer": "South Africa",
+    "wrongAnswers": [
+      "Malaysia",
+      "Tanzania",
+      "Nigeria"
+    ],
+    "explanation": "South Africa's three capitals are Pretoria (executive/administrative), Cape Town (legislative/parliament), and Bloemfontein (judicial/supreme court). This arrangement was a compromise when the Union of South Africa was formed in 1910."
+  },
+  {
+    "id": "facts-kenya-marathon-01",
+    "category": "facts",
+    "question": "Athletes from this country have won about 75% of all major marathon titles in the last two decades, particularly runners from the Kalenjin ethnic group.",
+    "hint": "It's in East Africa, on the equator.",
+    "image": "",
+    "correctAnswer": "Kenya",
+    "wrongAnswers": [
+      "Ethiopia",
+      "Tanzania",
+      "Uganda"
+    ],
+    "explanation": "Kenyan runners, especially from the Kalenjin community in the Rift Valley highlands, dominate distance running. Training at high altitude (around 2,400m) and a culture of running from childhood contribute to their success."
+  },
+  {
+    "id": "facts-germany-bread-01",
+    "category": "facts",
+    "question": "This country has over 3,200 officially recognized varieties of bread — more than any other country — and bread culture here is on the UNESCO intangible heritage list.",
+    "hint": "It's the most populous country in the European Union.",
+    "image": "",
+    "correctAnswer": "Germany",
+    "wrongAnswers": [
+      "France",
+      "Italy",
+      "Austria"
+    ],
+    "explanation": "Germany's bread culture (Brotkultur) was added to the UNESCO Intangible Cultural Heritage list in 2014. The German Bread Institute has registered over 3,200 varieties, from dense rye pumpernickel to soft pretzels."
+  },
+  {
+    "id": "facts-philippines-text-01",
+    "category": "facts",
+    "question": "This country sends more text messages per day than the United States and Europe combined, earning it the nickname 'the texting capital of the world.'",
+    "hint": "It's an archipelago of over 7,600 islands in Southeast Asia.",
+    "image": "",
+    "correctAnswer": "Philippines",
+    "wrongAnswers": [
+      "Indonesia",
+      "India",
+      "Vietnam"
+    ],
+    "explanation": "Filipinos send billions of text messages annually. The texting culture took off in the early 2000s due to affordable prepaid plans and the social nature of Filipino culture. SMS was even used to organize political protests."
+  },
+  {
+    "id": "facts-spain-olive-01",
+    "category": "facts",
+    "question": "This country produces nearly half of the world's olive oil — about 1.5 million tonnes per year — with olive groves covering over 2.5 million hectares.",
+    "hint": "It's on the Iberian Peninsula in southern Europe.",
+    "image": "",
+    "correctAnswer": "Spain",
+    "wrongAnswers": [
+      "Italy",
+      "Greece",
+      "Portugal"
+    ],
+    "explanation": "Spain produces about 44% of the world's olive oil, with the region of Andalusia alone accounting for roughly 75% of Spanish production. The country has over 300 million olive trees."
+  },
+  {
+    "id": "facts-italy-heritage-01",
+    "category": "facts",
+    "question": "This country has the most UNESCO World Heritage Sites of any nation — over 55 cultural and natural sites recognized for their outstanding universal value.",
+    "hint": "It's a boot-shaped peninsula in Southern Europe.",
+    "image": "",
+    "correctAnswer": "Italy",
+    "wrongAnswers": [
+      "Spain",
+      "China",
+      "France"
+    ],
+    "explanation": "Italy leads the world with over 55 UNESCO World Heritage Sites, including the Colosseum, Venice, the Amalfi Coast, Pompeii, and the historic centers of Florence and Rome. China is the close second."
+  },
+  {
+    "id": "facts-morocco-university-01",
+    "category": "facts",
+    "question": "This country is home to the oldest continuously operating university in the world, founded in 859 AD.",
+    "hint": "It's in North Africa, across the Strait of Gibraltar from Europe.",
+    "image": "",
+    "correctAnswer": "Morocco",
+    "wrongAnswers": [
+      "Egypt",
+      "Iraq",
+      "Tunisia"
+    ],
+    "explanation": "The University of al-Qarawiyyin in Fez, Morocco was founded in 859 AD by Fatima al-Fihri. It has been in continuous operation since, making it the oldest existing and continually operating educational institution in the world."
+  },
+  {
+    "id": "facts-ireland-halloween-01",
+    "category": "facts",
+    "question": "Halloween originated in this country as the ancient Celtic festival of Samhain, which marked the end of the harvest season and the beginning of winter.",
+    "hint": "It's an island nation in the North Atlantic, west of Great Britain.",
+    "image": "",
+    "correctAnswer": "Ireland",
+    "wrongAnswers": [
+      "Scotland",
+      "United Kingdom",
+      "Wales"
+    ],
+    "explanation": "The Celtic festival of Samhain, celebrated on October 31st, originated in Ireland over 2,000 years ago. Celts believed the boundary between the living and dead became thin. Irish immigrants brought Halloween traditions to America."
+  },
+  {
+    "id": "facts-ethiopia-coffee-01",
+    "category": "facts",
+    "question": "This country is considered the birthplace of coffee — legend says a goat herder named Kaldi discovered the beans when his goats became energetic after eating them.",
+    "hint": "It's in the Horn of Africa with one of the oldest civilizations in the world.",
+    "image": "",
+    "correctAnswer": "Ethiopia",
+    "wrongAnswers": [
+      "Colombia",
+      "Brazil",
+      "Kenya"
+    ],
+    "explanation": "Coffee originated in the Kaffa region of Ethiopia. The country has an elaborate coffee ceremony culture, and coffee (called 'buna') is central to social life. Ethiopia remains Africa's top coffee producer."
+  },
+  {
+    "id": "facts-japan-trains-01",
+    "category": "facts",
+    "question": "This country's bullet trains have an average delay of less than 1 minute per year, and conductors bow to passengers when entering and leaving each car.",
+    "hint": "It's an island nation in East Asia.",
+    "image": "",
+    "correctAnswer": "Japan",
+    "wrongAnswers": [
+      "South Korea",
+      "Germany",
+      "Switzerland"
+    ],
+    "explanation": "Japan's Shinkansen (bullet train) network has operated since 1964 with an extraordinary safety and punctuality record. The average delay across the entire system is typically under 60 seconds per year."
+  },
+  {
+    "id": "facts-canada-maple-01",
+    "category": "facts",
+    "question": "This country produces about 75% of the world's maple syrup, mostly from one province that has a strategic reserve of the sweetener.",
+    "hint": "It's the second-largest country by area, in North America.",
+    "image": "",
+    "correctAnswer": "Canada",
+    "wrongAnswers": [
+      "United States",
+      "Russia",
+      "Finland"
+    ],
+    "explanation": "Quebec produces roughly 75% of the world's maple syrup. The Federation of Quebec Maple Syrup Producers maintains a Global Strategic Maple Syrup Reserve — warehouses holding millions of pounds of syrup to stabilize supply."
+  },
+  {
+    "id": "facts-egypt-calendar-01",
+    "category": "facts",
+    "question": "This country created the first 365-day calendar, dividing the year into 12 months of 30 days each, plus 5 extra days — over 4,000 years ago.",
+    "hint": "It's home to the only surviving ancient wonder of the world.",
+    "image": "",
+    "correctAnswer": "Egypt",
+    "wrongAnswers": [
+      "Greece",
+      "Iraq",
+      "China"
+    ],
+    "explanation": "Ancient Egyptians developed the 365-day solar calendar around 3000 BC, based on the annual flooding of the Nile and the star Sirius. This calendar became the basis for the Julian and eventually Gregorian calendars."
   }
 ]
