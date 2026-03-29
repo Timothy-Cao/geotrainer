@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="66.72 46.63 5.84 5.14" width="300" height="300" preserveAspectRatio="xMidYMid meet">
-  <path d="M68.94,48.63L69.58,48.94L70.53,49.06L70.56,49.26L70.28,49.71L68.75,49.77L68.72,49.24L68.87,48.83L68.94,48.63Z" fill="#00e5ff" stroke="#00e5ff" stroke-width="0.5" fill-opacity="0.8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="53.7 40.8 31.8 31.8" width="400" height="300" preserveAspectRatio="xMidYMid meet">
+  <rect x="53.7" y="40.8" width="31.8" height="31.8" fill="#0e0e18"/>
+
+  <path d="M68.9,55.8L69.6,56.3L70.5,56.5L70.6,56.8L70.3,57.5L68.7,57.6L68.7,56.7L68.9,56.1L68.9,55.8Z" fill="#00e5ff" stroke="#00c4dd" stroke-width="0.4" fill-opacity="0.9"/>
 </svg>

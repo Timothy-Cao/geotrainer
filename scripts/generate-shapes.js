@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const https = require("https");
 
-// Natural Earth 110m countries GeoJSON (small file, simple outlines)
+// Natural Earth 110m countries GeoJSON
 const GEOJSON_URL =
   "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson";
 
@@ -20,10 +20,12 @@ function fetch(url) {
   });
 }
 
-// Project lon/lat to simple x/y (Mercator-like, clamped)
+// Simple Mercator projection
 function project(lon, lat) {
+  // Clamp latitude to avoid infinity at poles
+  const clampedLat = Math.max(-85, Math.min(85, lat));
   const x = lon;
-  const y = -lat; // flip y so north is up
+  const y = -(180 / Math.PI) * Math.log(Math.tan(Math.PI / 4 + (clampedLat * Math.PI) / 360));
   return [x, y];
 }
 
@@ -33,7 +35,7 @@ function coordsToPath(coords) {
       const points = ring.map(([lon, lat]) => project(lon, lat));
       return (
         points
-          .map((p, i) => `${i === 0 ? "M" : "L"}${p[0].toFixed(2)},${p[1].toFixed(2)}`)
+          .map((p, i) => `${i === 0 ? "M" : "L"}${p[0].toFixed(1)},${p[1].toFixed(1)}`)
           .join("") + "Z"
       );
     })
@@ -50,65 +52,60 @@ function geometryToPath(geometry) {
   return "";
 }
 
-function makeSVG(pathData, bbox) {
-  const [minX, minY, maxX, maxY] = bbox;
-  const padding = 2;
-  const vx = minX - padding;
-  const vy = minY - padding;
-  const vw = maxX - minX + padding * 2;
-  const vh = maxY - minY + padding * 2;
+function getBBox(geometry) {
+  let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${vx.toFixed(2)} ${vy.toFixed(2)} ${vw.toFixed(2)} ${vh.toFixed(2)}" width="300" height="300" preserveAspectRatio="xMidYMid meet">
-  <path d="${pathData}" fill="#00e5ff" stroke="#00e5ff" stroke-width="0.5" fill-opacity="0.8"/>
-</svg>`;
-}
-
-function getBBox(pathData) {
-  const nums = pathData.match(/[-\d.]+/g).map(Number);
-  let minX = Infinity,
-    minY = Infinity,
-    maxX = -Infinity,
-    maxY = -Infinity;
-  for (let i = 0; i < nums.length; i += 2) {
-    if (isNaN(nums[i]) || isNaN(nums[i + 1])) continue;
-    minX = Math.min(minX, nums[i]);
-    minY = Math.min(minY, nums[i + 1]);
-    maxX = Math.max(maxX, nums[i]);
-    maxY = Math.max(maxY, nums[i + 1]);
+  function processCoords(coords) {
+    for (const ring of coords) {
+      for (const [lon, lat] of ring) {
+        const [x, y] = project(lon, lat);
+        minX = Math.min(minX, x);
+        minY = Math.min(minY, y);
+        maxX = Math.max(maxX, x);
+        maxY = Math.max(maxY, y);
+      }
+    }
   }
+
+  if (geometry.type === "Polygon") {
+    processCoords(geometry.coordinates);
+  } else if (geometry.type === "MultiPolygon") {
+    geometry.coordinates.forEach((poly) => processCoords(poly));
+  }
+
   return [minX, minY, maxX, maxY];
 }
 
 // Name mappings: our card names -> Natural Earth NAME property
 const NAME_MAP = {
   "United States": "United States of America",
-  "United Kingdom": "United Kingdom",
+  "Czech Republic": "Czechia",
+  "Eswatini": "eSwatini",
+  "East Timor": "Timor-Leste",
+  "Ivory Coast": "Côte d'Ivoire",
+  "Republic of the Congo": "Republic of the Congo",
+  "Democratic Republic of the Congo": "Dem. Rep. Congo",
+  "North Macedonia": "North Macedonia",
   "South Korea": "South Korea",
   "North Korea": "North Korea",
-  "Czech Republic": "Czechia",
-  "Ivory Coast": "Ivory Coast",
-  "Republic of the Congo": "Republic of the Congo",
-  "Democratic Republic of the Congo": "Democratic Republic of the Congo",
-  "East Timor": "East Timor",
-  "Eswatini": "eSwatini",
-  "Cabo Verde": "Cabo Verde",
-  "Bosnia and Herzegovina": "Bosnia and Herzegovina",
-  "North Macedonia": "North Macedonia",
-  "Dominican Republic": "Dominican Republic",
-  "Central African Republic": "Central African Republic",
-  "South Sudan": "South Sudan",
+  "Bosnia and Herzegovina": "Bosnia and Herz.",
+  "Central African Republic": "Central African Rep.",
+  "Dominican Republic": "Dominican Rep.",
+  "Equatorial Guinea": "Eq. Guinea",
+  "South Sudan": "S. Sudan",
+  "Solomon Islands": "Solomon Is.",
   "Papua New Guinea": "Papua New Guinea",
-  "Solomon Islands": "Solomon Islands",
-  "Equatorial Guinea": "Equatorial Guinea",
-  "Trinidad and Tobago": "Trinidad and Tobago",
-  "Antigua and Barbuda": "Antigua and Barbuda",
-  "Saint Kitts and Nevis": "Saint Kitts and Nevis",
-  "Saint Lucia": "Saint Lucia",
-  "Saint Vincent and the Grenadines": "Saint Vincent and the Grenadines",
-  "Sao Tome and Principe": "Sao Tome and Principe",
   "Guinea-Bissau": "Guinea-Bissau",
-  "Marshall Islands": "Marshall Islands",
-  "Sierra Leone": "Sierra Leone",
+  "Marshall Islands": "Marshall Is.",
+  "Trinidad and Tobago": "Trinidad and Tobago",
+  "Antigua and Barbuda": "Antigua and Barb.",
+  "Saint Kitts and Nevis": "St. Kitts and Nevis",
+  "Saint Lucia": "Saint Lucia",
+  "Saint Vincent and the Grenadines": "St. Vin. and Gren.",
+  "Sao Tome and Principe": "São Tomé and Principe",
+  "Vatican City": "Vatican",
+  "Cabo Verde": "Cabo Verde",
+  "Brunei": "Brunei",
   "Sri Lanka": "Sri Lanka",
   "Saudi Arabia": "Saudi Arabia",
   "New Zealand": "New Zealand",
@@ -116,8 +113,40 @@ const NAME_MAP = {
   "El Salvador": "El Salvador",
   "Burkina Faso": "Burkina Faso",
   "United Arab Emirates": "United Arab Emirates",
-  "Vatican City": "Vatican",
+  "United Kingdom": "United Kingdom",
 };
+
+function findFeature(featureLookup, country) {
+  const lookupName = NAME_MAP[country] || country;
+  let feature = featureLookup.get(lookupName);
+  if (feature) return feature;
+
+  // Try partial match
+  for (const [name, feat] of featureLookup) {
+    if (
+      name.toLowerCase() === country.toLowerCase() ||
+      name.toLowerCase().includes(country.toLowerCase()) ||
+      country.toLowerCase().includes(name.toLowerCase())
+    ) {
+      return feat;
+    }
+  }
+  return null;
+}
+
+function makeSVG(targetPath, neighborPaths, viewBox) {
+  const [vx, vy, vw, vh] = viewBox;
+
+  const neighborPathsStr = neighborPaths
+    .map((p) => `  <path d="${p}" fill="#1e1e2e" stroke="#2a2a3a" stroke-width="0.3"/>`)
+    .join("\n");
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${vx.toFixed(1)} ${vy.toFixed(1)} ${vw.toFixed(1)} ${vh.toFixed(1)}" width="400" height="300" preserveAspectRatio="xMidYMid meet">
+  <rect x="${vx.toFixed(1)}" y="${vy.toFixed(1)}" width="${vw.toFixed(1)}" height="${vh.toFixed(1)}" fill="#0e0e18"/>
+${neighborPathsStr}
+  <path d="${targetPath}" fill="#00e5ff" stroke="#00c4dd" stroke-width="0.4" fill-opacity="0.9"/>
+</svg>`;
+}
 
 async function main() {
   console.log("Downloading Natural Earth GeoJSON...");
@@ -125,26 +154,22 @@ async function main() {
   const geo = JSON.parse(raw);
   console.log(`Got ${geo.features.length} features`);
 
-  // Read our country shapes data
+  // Read our country data
   const shapesPath = path.join(__dirname, "..", "src", "data", "country-shapes.json");
   const shapes = JSON.parse(fs.readFileSync(shapesPath, "utf-8"));
   const countries = new Set(shapes.map((s) => s.correctAnswer));
 
-  // Also get countries from shapes-reverse
   const revPath = path.join(__dirname, "..", "src", "data", "shapes-reverse.json");
   if (fs.existsSync(revPath)) {
     const rev = JSON.parse(fs.readFileSync(revPath, "utf-8"));
     rev.forEach((r) => countries.add(r.correctAnswer));
-    // Also add wrong answers since they need shapes too for reverse mode
     rev.forEach((r) => r.wrongAnswers.forEach((w) => countries.add(w)));
   }
-
-  // Also add wrong answers from shapes
   shapes.forEach((s) => s.wrongAnswers.forEach((w) => countries.add(w)));
 
   const outDir = path.join(__dirname, "..", "public", "shapes");
 
-  // Build lookup of Natural Earth features by various name fields
+  // Build lookup
   const featureLookup = new Map();
   for (const feature of geo.features) {
     const props = feature.properties;
@@ -164,53 +189,79 @@ async function main() {
     }
   }
 
+  // Precompute all paths for neighbor rendering
+  const allPaths = new Map();
+  for (const feature of geo.features) {
+    if (feature.geometry) {
+      const p = geometryToPath(feature.geometry);
+      if (p) allPaths.set(feature, p);
+    }
+  }
+
   let generated = 0;
   let missing = [];
 
   for (const country of countries) {
-    // Try direct match, then our name map
-    const lookupName = NAME_MAP[country] || country;
-    let feature = featureLookup.get(lookupName);
-
-    // Fuzzy fallback: try partial match
-    if (!feature) {
-      for (const [name, feat] of featureLookup) {
-        if (name.toLowerCase().includes(country.toLowerCase()) ||
-            country.toLowerCase().includes(name.toLowerCase())) {
-          feature = feat;
-          break;
-        }
-      }
-    }
+    const feature = findFeature(featureLookup, country);
 
     if (!feature || !feature.geometry) {
       missing.push(country);
       continue;
     }
 
-    const pathData = geometryToPath(feature.geometry);
-    if (!pathData) {
+    const targetPath = geometryToPath(feature.geometry);
+    if (!targetPath) {
       missing.push(country);
       continue;
     }
 
-    const bbox = getBBox(pathData);
-    const svg = makeSVG(pathData, bbox);
+    // Get bounding box of target country
+    const [minX, minY, maxX, maxY] = getBBox(feature.geometry);
+    const cw = maxX - minX;
+    const ch = maxY - minY;
 
-    // Filename: lowercase, spaces to hyphens
-    const filename = country.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "") + ".svg";
+    // Add padding to show surrounding context (at least 50% extra on each side)
+    const padX = Math.max(cw * 0.7, 15);
+    const padY = Math.max(ch * 0.7, 15);
+    const vx = minX - padX;
+    const vy = minY - padY;
+    const vw = cw + padX * 2;
+    const vh = ch + padY * 2;
+
+    // Find all features that overlap with our view
+    const neighborPaths = [];
+    for (const [feat, p] of allPaths) {
+      if (feat === feature) continue; // skip target
+      const [fMinX, fMinY, fMaxX, fMaxY] = getBBox(feat.geometry);
+      // Check if this feature's bbox overlaps with our view
+      if (fMaxX >= vx && fMinX <= vx + vw && fMaxY >= vy && fMinY <= vy + vh) {
+        neighborPaths.push(p);
+      }
+    }
+
+    const svg = makeSVG(targetPath, neighborPaths, [vx, vy, vw, vh]);
+
+    const filename =
+      country
+        .toLowerCase()
+        .replace(/\s+/g, "-")
+        .replace(/[^a-z0-9-]/g, "") + ".svg";
     fs.writeFileSync(path.join(outDir, filename), svg);
     generated++;
   }
 
-  console.log(`Generated ${generated} SVG silhouettes`);
+  console.log(`Generated ${generated} contextual map SVGs`);
   if (missing.length > 0) {
     console.log(`Missing (${missing.length}): ${missing.join(", ")}`);
   }
 
-  // Update country-shapes.json to add image paths
+  // Update country-shapes.json with image paths
   const updatedShapes = shapes.map((card) => {
-    const filename = card.correctAnswer.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "") + ".svg";
+    const filename =
+      card.correctAnswer
+        .toLowerCase()
+        .replace(/\s+/g, "-")
+        .replace(/[^a-z0-9-]/g, "") + ".svg";
     const filepath = path.join(outDir, filename);
     if (fs.existsSync(filepath)) {
       return { ...card, image: `/shapes/${filename}` };
@@ -220,11 +271,14 @@ async function main() {
   fs.writeFileSync(shapesPath, JSON.stringify(updatedShapes, null, 2));
   console.log("Updated country-shapes.json with image paths");
 
-  // Update shapes-reverse.json too
   if (fs.existsSync(revPath)) {
     const rev = JSON.parse(fs.readFileSync(revPath, "utf-8"));
     const updatedRev = rev.map((card) => {
-      const filename = card.correctAnswer.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "") + ".svg";
+      const filename =
+        card.correctAnswer
+          .toLowerCase()
+          .replace(/\s+/g, "-")
+          .replace(/[^a-z0-9-]/g, "") + ".svg";
       const filepath = path.join(outDir, filename);
       if (fs.existsSync(filepath)) {
         return { ...card, image: `/shapes/${filename}` };
