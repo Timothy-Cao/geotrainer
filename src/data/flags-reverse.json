@@ -266,20 +266,6 @@
     "explanation": "Benin's flag has a green vertical stripe at the hoist with yellow and red horizontal stripes on the fly side. The design uses Pan-African colors."
   },
   {
-    "id": "flags-rev-bhutan-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Bhutan?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Bhutan",
-    "wrongAnswers": [
-      "Sri Lanka",
-      "Wales",
-      "China"
-    ],
-    "explanation": "Bhutan's flag is divided diagonally with a white dragon (Druk) in the center. The yellow represents the king's authority and the orange represents Buddhism."
-  },
-  {
     "id": "flags-rev-bolivia-01",
     "category": "flags-reverse",
     "question": "Which flag belongs to Bolivia?",
@@ -292,20 +278,6 @@
       "Lithuania"
     ],
     "explanation": "Bolivia's flag has red, yellow, and green horizontal stripes. The state flag includes a coat of arms. Ghana uses the same colors but in a different order with a black star."
-  },
-  {
-    "id": "flags-rev-bosnia-and-herzegovina-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Bosnia and Herzegovina?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Bosnia and Herzegovina",
-    "wrongAnswers": [
-      "Kosovo",
-      "European Union",
-      "Somalia"
-    ],
-    "explanation": "Bosnia and Herzegovina's flag has a blue background with a yellow triangle and white stars along the hypotenuse, designed to represent the country's multi-ethnic character."
   },
   {
     "id": "flags-rev-botswana-01",
@@ -392,20 +364,6 @@
     "explanation": "Burundi's flag has a white saltire creating red (top and bottom) and green (sides) sections, with three red stars in a central white disc representing the three ethnic groups."
   },
   {
-    "id": "flags-rev-cabo-verde-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Cabo Verde?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Cabo Verde",
-    "wrongAnswers": [
-      "European Union",
-      "Brazil",
-      "Nauru"
-    ],
-    "explanation": "Cabo Verde's flag is blue with stripes near the bottom and ten yellow stars in a circle representing the ten main islands of the archipelago."
-  },
-  {
     "id": "flags-rev-cambodia-01",
     "category": "flags-reverse",
     "question": "Which flag belongs to Cambodia?",
@@ -474,34 +432,6 @@
       "Moldova"
     ],
     "explanation": "Chad's flag has blue, yellow, and red vertical stripes. It is nearly identical to Romania's flag, which uses a slightly lighter blue. Chad's blue is a darker indigo."
-  },
-  {
-    "id": "flags-rev-chile-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Chile?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Chile",
-    "wrongAnswers": [
-      "Texas",
-      "Cuba",
-      "Panama"
-    ],
-    "explanation": "Chile's flag has white and red horizontal stripes with a blue canton containing a white star. It resembles the flag of Texas but has different proportions."
-  },
-  {
-    "id": "flags-rev-china-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to China?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "China",
-    "wrongAnswers": [
-      "Vietnam",
-      "Soviet Union",
-      "Turkey"
-    ],
-    "explanation": "China's flag has five yellow stars on a red field — one large star representing the Communist Party and four smaller stars representing the people. Vietnam has one large yellow star on red."
   },
   {
     "id": "flags-rev-colombia-01",
@@ -588,20 +518,6 @@
     "explanation": "Croatia's flag has red, white, and blue stripes with the distinctive red-and-white checkerboard (šahovnica) coat of arms in the center."
   },
   {
-    "id": "flags-rev-cuba-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Cuba?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Cuba",
-    "wrongAnswers": [
-      "Puerto Rico",
-      "Chile",
-      "Liberia"
-    ],
-    "explanation": "Cuba's flag has five blue and white stripes with a red triangle bearing a white star. Puerto Rico has the same design but with colors reversed (red stripes, blue triangle)."
-  },
-  {
     "id": "flags-rev-cyprus-01",
     "category": "flags-reverse",
     "question": "Which flag belongs to Cyprus?",
@@ -628,20 +544,6 @@
       "Slovakia"
     ],
     "explanation": "The Czech Republic's flag has white and red horizontal stripes with a blue triangle at the hoist. Poland's flag is just white over red without the triangle."
-  },
-  {
-    "id": "flags-rev-denmark-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Denmark?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Denmark",
-    "wrongAnswers": [
-      "Switzerland",
-      "Norway",
-      "England"
-    ],
-    "explanation": "Denmark's Dannebrog is the world's oldest continuously used national flag, dating to 1219. It features a white Nordic cross on a red background."
   },
   {
     "id": "flags-rev-djibouti-01",
@@ -880,20 +782,6 @@
       "Russia"
     ],
     "explanation": "Gambia's flag has red, blue, and green stripes separated by narrow white stripes. The blue represents the Gambia River flowing through the country."
-  },
-  {
-    "id": "flags-rev-georgia-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Georgia?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Georgia",
-    "wrongAnswers": [
-      "Switzerland",
-      "England",
-      "Denmark"
-    ],
-    "explanation": "Georgia's flag (Five Cross Flag) has a large red St. George's cross with four smaller Bolnisi crosses in each white quadrant. It was adopted in 2004."
   },
   {
     "id": "flags-rev-germany-01",
@@ -1288,20 +1176,6 @@
     "explanation": "South Korea's Taegukgi features a red-and-blue taeguk symbol on white, with four black trigrams representing heaven, earth, water, and fire."
   },
   {
-    "id": "flags-rev-kosovo-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Kosovo?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Kosovo",
-    "wrongAnswers": [
-      "Bosnia and Herzegovina",
-      "European Union",
-      "Cyprus"
-    ],
-    "explanation": "Kosovo's flag has a blue background with a gold outline of the territory and six white stars representing its six major ethnic groups."
-  },
-  {
     "id": "flags-rev-kuwait-01",
     "category": "flags-reverse",
     "question": "Which flag belongs to Kuwait?",
@@ -1594,20 +1468,6 @@
       "Iran"
     ],
     "explanation": "Mexico's flag has green-white-red vertical stripes with the coat of arms — an eagle on a prickly pear cactus devouring a serpent."
-  },
-  {
-    "id": "flags-rev-micronesia-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Micronesia?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Micronesia",
-    "wrongAnswers": [
-      "Palau",
-      "Somalia",
-      "European Union"
-    ],
-    "explanation": "Micronesia's flag is UN blue with four white stars representing its four states: Yap, Chuuk, Pohnpei, and Kosrae."
   },
   {
     "id": "flags-rev-moldova-01",
@@ -1960,20 +1820,6 @@
     "explanation": "Peru's civil flag has red-white-red vertical stripes. The state flag adds a coat of arms. Austria has similar colors but in horizontal red-white-red stripes."
   },
   {
-    "id": "flags-rev-philippines-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Philippines?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Philippines",
-    "wrongAnswers": [
-      "Czech Republic",
-      "Cuba",
-      "Puerto Rico"
-    ],
-    "explanation": "The Philippines' flag has blue and red stripes with a white triangle bearing a gold sun and three stars. When flown with red on top, it signals a state of war."
-  },
-  {
     "id": "flags-rev-poland-01",
     "category": "flags-reverse",
     "question": "Which flag belongs to Poland?",
@@ -2268,20 +2114,6 @@
     "explanation": "The Solomon Islands' flag has blue and green triangles divided by a yellow stripe, with five white stars representing the country's five main island groups."
   },
   {
-    "id": "flags-rev-somalia-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Somalia?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Somalia",
-    "wrongAnswers": [
-      "Micronesia",
-      "European Union",
-      "Palau"
-    ],
-    "explanation": "Somalia's flag is light blue with a single white five-pointed star. The five points represent the five regions where Somalis traditionally live."
-  },
-  {
     "id": "flags-rev-south-africa-01",
     "category": "flags-reverse",
     "question": "Which flag belongs to South Africa?",
@@ -2308,20 +2140,6 @@
       "Palestine"
     ],
     "explanation": "South Sudan's flag has black, red, and green stripes with white fimbriations and a blue triangle with a gold star. Adopted upon independence in 2011, the world's newest country."
-  },
-  {
-    "id": "flags-rev-spain-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Spain?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Spain",
-    "wrongAnswers": [
-      "Catalonia",
-      "Macedonia",
-      "Vietnam"
-    ],
-    "explanation": "Spain's flag has red-yellow-red horizontal stripes with the yellow band twice as wide. The coat of arms features the royal seal with the Pillars of Hercules."
   },
   {
     "id": "flags-rev-sri-lanka-01",
@@ -2476,20 +2294,6 @@
       "Guinea-Bissau"
     ],
     "explanation": "Togo's flag has five green and yellow stripes with a red canton bearing a white star. The five stripes represent the country's five regions."
-  },
-  {
-    "id": "flags-rev-tonga-01",
-    "category": "flags-reverse",
-    "question": "Which flag belongs to Tonga?",
-    "hint": "",
-    "image": "",
-    "correctAnswer": "Tonga",
-    "wrongAnswers": [
-      "Switzerland",
-      "Georgia",
-      "England"
-    ],
-    "explanation": "Tonga's flag is red with a white canton bearing a red cross, reflecting the nation's strong Christian heritage."
   },
   {
     "id": "flags-rev-trinidad-and-tobago-01",

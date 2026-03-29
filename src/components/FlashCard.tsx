@@ -128,16 +128,24 @@ export default function FlashCard({ card, onAnswer, onNext }: FlashCardProps) {
       );
     }
 
-    // Country shapes: show the hint as the prominent visual clue
+    // Country shapes: show the silhouette image
     if (isShapes) {
       return (
-        <div className="w-full py-10 px-6 bg-[#0e0e18] flex items-center justify-center">
-          <div className="text-center">
-            <span className="text-6xl mb-4 block opacity-40">🗺️</span>
-            <p className="text-lg md:text-xl text-[#e0e0e0] leading-relaxed max-w-md">
-              {card.hint}
-            </p>
-          </div>
+        <div className="w-full py-8 bg-[#0e0e18] flex items-center justify-center">
+          {card.image ? (
+            <img
+              src={card.image}
+              alt="Country shape"
+              className="h-48 md:h-56 object-contain"
+            />
+          ) : (
+            <div className="text-center">
+              <span className="text-6xl mb-4 block opacity-40">🗺️</span>
+              <p className="text-lg md:text-xl text-[#e0e0e0] leading-relaxed max-w-md">
+                {card.hint}
+              </p>
+            </div>
+          )}
         </div>
       );
     }
@@ -175,7 +183,7 @@ export default function FlashCard({ card, onAnswer, onNext }: FlashCardProps) {
           )}
 
           {/* Choices */}
-          <div className={`grid gap-2.5 mt-5 ${isFlagsReverse ? "grid-cols-2" : ""}`}>
+          <div className={`grid gap-2.5 mt-5 ${isFlagsReverse || isShapesReverse ? "grid-cols-2" : ""}`}>
             {choices.map((choice, i) => (
               <button
                 key={i}
@@ -189,6 +197,17 @@ export default function FlashCard({ card, onAnswer, onNext }: FlashCardProps) {
                       src={countryToFlagUrl(choice)}
                       alt={selectedAnswer ? choice : `Option ${String.fromCharCode(65 + i)}`}
                       className="h-16 md:h-20 object-contain rounded shadow mb-2"
+                    />
+                    {selectedAnswer && (
+                      <span className="text-xs">{choice}</span>
+                    )}
+                  </div>
+                ) : isShapesReverse ? (
+                  <div className="flex flex-col items-center py-2">
+                    <img
+                      src={`/shapes/${choice.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "")}.svg`}
+                      alt={selectedAnswer ? choice : `Option ${String.fromCharCode(65 + i)}`}
+                      className="h-20 md:h-24 object-contain mb-2"
                     />
                     {selectedAnswer && (
                       <span className="text-xs">{choice}</span>

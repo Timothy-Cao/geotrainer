@@ -4,9 +4,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Italy?",
     "hint": "A Southern European country extending into the Mediterranean Sea.",
-    "image": "",
+    "image": "/shapes/italy.svg",
     "correctAnswer": "Italy",
-    "wrongAnswers": ["Greece", "Croatia", "Portugal"],
+    "wrongAnswers": [
+      "Greece",
+      "Croatia",
+      "Portugal"
+    ],
     "explanation": "Italy's boot shape is unmistakable — it kicks Sicily like a ball and has Sardinia to the west. Greece has a more fragmented coastline with many islands."
   },
   {
@@ -14,9 +18,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Japan?",
     "hint": "An island nation in East Asia, east of the Korean Peninsula.",
-    "image": "",
+    "image": "/shapes/japan.svg",
     "correctAnswer": "Japan",
-    "wrongAnswers": ["Philippines", "Indonesia", "New Zealand"],
+    "wrongAnswers": [
+      "Philippines",
+      "Indonesia",
+      "New Zealand"
+    ],
     "explanation": "Japan's four main islands form a tighter, more curved arc than the Philippines' scattered archipelago or New Zealand's two-island layout."
   },
   {
@@ -24,9 +32,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Chile?",
     "hint": "On the western coast of South America, between the Andes and the Pacific.",
-    "image": "",
+    "image": "/shapes/chile.svg",
     "correctAnswer": "Chile",
-    "wrongAnswers": ["Argentina", "Peru", "Norway"],
+    "wrongAnswers": [
+      "Argentina",
+      "Peru",
+      "Norway"
+    ],
     "explanation": "Chile is the world's narrowest country relative to its length — over 4,300 km long but averaging only 177 km wide. Argentina is much wider."
   },
   {
@@ -34,9 +46,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Australia?",
     "hint": "An island continent in the Southern Hemisphere, between the Indian and Pacific Oceans.",
-    "image": "",
+    "image": "/shapes/australia.svg",
     "correctAnswer": "Australia",
-    "wrongAnswers": ["Brazil", "India", "Greenland"],
+    "wrongAnswers": [
+      "Brazil",
+      "India",
+      "Greenland"
+    ],
     "explanation": "Australia's compact continent shape features the Great Australian Bight on the south coast. Greenland is more elongated and jagged."
   },
   {
@@ -44,9 +60,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to India?",
     "hint": "A large South Asian country bordered by the Arabian Sea and Bay of Bengal.",
-    "image": "",
+    "image": "/shapes/india.svg",
     "correctAnswer": "India",
-    "wrongAnswers": ["Pakistan", "Saudi Arabia", "Myanmar"],
+    "wrongAnswers": [
+      "Pakistan",
+      "Saudi Arabia",
+      "Myanmar"
+    ],
     "explanation": "India forms a clear inverted triangle (the Deccan Peninsula). Pakistan is more angular and irregular; Saudi Arabia is broader and more rectangular."
   },
   {
@@ -54,9 +74,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to France?",
     "hint": "The largest country in Western Europe, bordering the Atlantic and Mediterranean.",
-    "image": "",
+    "image": "/shapes/france.svg",
     "correctAnswer": "France",
-    "wrongAnswers": ["Spain", "Germany", "Poland"],
+    "wrongAnswers": [
+      "Spain",
+      "Germany",
+      "Poland"
+    ],
     "explanation": "France's hexagonal shape is distinctive — Spain is more square on the Iberian Peninsula, and Germany is broader in the south tapering north."
   },
   {
@@ -64,9 +88,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Brazil?",
     "hint": "The largest country in South America, bordering the Atlantic Ocean.",
-    "image": "",
+    "image": "/shapes/brazil.svg",
     "correctAnswer": "Brazil",
-    "wrongAnswers": ["Argentina", "Colombia", "Peru"],
+    "wrongAnswers": [
+      "Argentina",
+      "Colombia",
+      "Peru"
+    ],
     "explanation": "Brazil's distinctive eastward bulge makes it unique. Argentina is elongated north-south, and Colombia is more compact in the northwest."
   },
   {
@@ -74,9 +102,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to United Kingdom?",
     "hint": "An island nation in Northwestern Europe, across the English Channel from France.",
-    "image": "",
+    "image": "/shapes/united-kingdom.svg",
     "correctAnswer": "United Kingdom",
-    "wrongAnswers": ["Ireland", "Iceland", "Denmark"],
+    "wrongAnswers": [
+      "Ireland",
+      "Iceland",
+      "Denmark"
+    ],
     "explanation": "Great Britain is taller and more angular than Ireland's rounded shape. Iceland is more compact and volcanic-looking."
   },
   {
@@ -84,9 +116,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Germany?",
     "hint": "Central Europe's largest economy, bordered by nine countries.",
-    "image": "",
+    "image": "/shapes/germany.svg",
     "correctAnswer": "Germany",
-    "wrongAnswers": ["Poland", "France", "Czech Republic"],
+    "wrongAnswers": [
+      "Poland",
+      "France",
+      "Czech Republic"
+    ],
     "explanation": "Germany widens toward Bavaria in the south and narrows toward its northern coast. Poland is more uniformly square-shaped."
   },
   {
@@ -94,9 +130,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Russia?",
     "hint": "Spans from Eastern Europe to the Pacific Ocean across northern Asia.",
-    "image": "",
+    "image": "/shapes/russia.svg",
     "correctAnswer": "Russia",
-    "wrongAnswers": ["Canada", "China", "Kazakhstan"],
+    "wrongAnswers": [
+      "Canada",
+      "China",
+      "Kazakhstan"
+    ],
     "explanation": "Russia's vast east-west extent with Kamchatka Peninsula is unique. Canada has a more fragmented Arctic coastline with Hudson Bay."
   },
   {
@@ -104,9 +144,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Canada?",
     "hint": "North America's northern country, stretching from the Atlantic to the Pacific and Arctic.",
-    "image": "",
+    "image": "/shapes/canada.svg",
     "correctAnswer": "Canada",
-    "wrongAnswers": ["Russia", "United States", "Greenland"],
+    "wrongAnswers": [
+      "Russia",
+      "United States",
+      "Greenland"
+    ],
     "explanation": "Canada's Arctic archipelago and Hudson Bay are distinctive. Russia lacks the large inland sea feature that Hudson Bay provides."
   },
   {
@@ -114,9 +158,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to United States?",
     "hint": "Spans from the Atlantic to the Pacific, between Canada and Mexico.",
-    "image": "",
+    "image": "/shapes/united-states.svg",
     "correctAnswer": "United States",
-    "wrongAnswers": ["Canada", "Mexico", "Brazil"],
+    "wrongAnswers": [
+      "Canada",
+      "Mexico",
+      "Brazil"
+    ],
     "explanation": "The contiguous US has Florida's peninsula and the irregular northeastern coast. Mexico narrows toward the south; Canada has Arctic islands."
   },
   {
@@ -124,9 +172,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Mexico?",
     "hint": "Between the US to the north and Central America to the south.",
-    "image": "",
+    "image": "/shapes/mexico.svg",
     "correctAnswer": "Mexico",
-    "wrongAnswers": ["Colombia", "Venezuela", "Guatemala"],
+    "wrongAnswers": [
+      "Colombia",
+      "Venezuela",
+      "Guatemala"
+    ],
     "explanation": "Mexico's horn shape narrows from the wide US border toward the Yucatan Peninsula. Colombia is more compact and further south."
   },
   {
@@ -134,9 +186,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to China?",
     "hint": "The most populous country in East Asia, bordering 14 nations.",
-    "image": "",
+    "image": "/shapes/china.svg",
     "correctAnswer": "China",
-    "wrongAnswers": ["India", "Mongolia", "Kazakhstan"],
+    "wrongAnswers": [
+      "India",
+      "Mongolia",
+      "Kazakhstan"
+    ],
     "explanation": "China's rooster-like shape is distinctive. Mongolia is more oval; Kazakhstan is more rectangular; India points sharply south."
   },
   {
@@ -144,9 +200,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Spain?",
     "hint": "Occupies most of the Iberian Peninsula in southwestern Europe.",
-    "image": "",
+    "image": "/shapes/spain.svg",
     "correctAnswer": "Spain",
-    "wrongAnswers": ["Portugal", "France", "Italy"],
+    "wrongAnswers": [
+      "Portugal",
+      "France",
+      "Italy"
+    ],
     "explanation": "Spain's broad rectangular shape dominates the Iberian Peninsula. Portugal is a narrow western strip; France is hexagonal."
   },
   {
@@ -154,9 +214,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Portugal?",
     "hint": "On the western coast of the Iberian Peninsula, facing the Atlantic.",
-    "image": "",
+    "image": "/shapes/portugal.svg",
     "correctAnswer": "Portugal",
-    "wrongAnswers": ["Spain", "Ireland", "Belgium"],
+    "wrongAnswers": [
+      "Spain",
+      "Ireland",
+      "Belgium"
+    ],
     "explanation": "Portugal is a narrow north-south strip on the Atlantic coast. Ireland is more rounded; Belgium is smaller and triangular."
   },
   {
@@ -164,9 +228,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Greece?",
     "hint": "Southern Europe, on the eastern Mediterranean, known for ancient civilization.",
-    "image": "",
+    "image": "/shapes/greece.svg",
     "correctAnswer": "Greece",
-    "wrongAnswers": ["Italy", "Turkey", "Croatia"],
+    "wrongAnswers": [
+      "Italy",
+      "Turkey",
+      "Croatia"
+    ],
     "explanation": "Greece has the Peloponnese dangling south and many scattered islands. Italy is a smooth boot; Turkey is a solid rectangle."
   },
   {
@@ -174,9 +242,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Turkey?",
     "hint": "Bridges Europe and Asia, bordered by the Black Sea, Mediterranean, and Aegean.",
-    "image": "",
+    "image": "/shapes/turkey.svg",
     "correctAnswer": "Turkey",
-    "wrongAnswers": ["Iran", "Greece", "Syria"],
+    "wrongAnswers": [
+      "Iran",
+      "Greece",
+      "Syria"
+    ],
     "explanation": "Turkey's Anatolian peninsula is a broad east-west rectangle. Iran is more diamond-shaped; Syria is much smaller."
   },
   {
@@ -184,9 +256,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Egypt?",
     "hint": "Northeast Africa, home to the Nile River and ancient pyramids.",
-    "image": "",
+    "image": "/shapes/egypt.svg",
     "correctAnswer": "Egypt",
-    "wrongAnswers": ["Libya", "Sudan", "Saudi Arabia"],
+    "wrongAnswers": [
+      "Libya",
+      "Sudan",
+      "Saudi Arabia"
+    ],
     "explanation": "Egypt's Sinai Peninsula creates a distinctive eastern appendage. Libya is more uniformly rectangular; Sudan is broader."
   },
   {
@@ -194,9 +270,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to South Africa?",
     "hint": "At the southern tip of Africa, where the Atlantic and Indian Oceans meet.",
-    "image": "",
+    "image": "/shapes/south-africa.svg",
     "correctAnswer": "South Africa",
-    "wrongAnswers": ["Namibia", "Mozambique", "Tanzania"],
+    "wrongAnswers": [
+      "Namibia",
+      "Mozambique",
+      "Tanzania"
+    ],
     "explanation": "South Africa has a distinctive tapering southern coast and completely encloses Lesotho. Namibia has the Caprivi Strip panhandle."
   },
   {
@@ -204,9 +284,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Nigeria?",
     "hint": "West Africa's most populous country, on the Gulf of Guinea.",
-    "image": "",
+    "image": "/shapes/nigeria.svg",
     "correctAnswer": "Nigeria",
-    "wrongAnswers": ["Ghana", "Cameroon", "Niger"],
+    "wrongAnswers": [
+      "Ghana",
+      "Cameroon",
+      "Niger"
+    ],
     "explanation": "Nigeria is larger and more square than Ghana. Cameroon is triangular; Niger is much larger but landlocked and Saharan."
   },
   {
@@ -214,9 +298,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Kenya?",
     "hint": "East Africa, on the Indian Ocean, home to major wildlife reserves.",
-    "image": "",
+    "image": "/shapes/kenya.svg",
     "correctAnswer": "Kenya",
-    "wrongAnswers": ["Tanzania", "Ethiopia", "Uganda"],
+    "wrongAnswers": [
+      "Tanzania",
+      "Ethiopia",
+      "Uganda"
+    ],
     "explanation": "Kenya has distinctive straight colonial borders meeting the Indian Ocean coast. Tanzania is more rectangular; Uganda is more compact."
   },
   {
@@ -224,9 +312,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Ethiopia?",
     "hint": "A large landlocked country in the Horn of Africa.",
-    "image": "",
+    "image": "/shapes/ethiopia.svg",
     "correctAnswer": "Ethiopia",
-    "wrongAnswers": ["Kenya", "Sudan", "Somalia"],
+    "wrongAnswers": [
+      "Kenya",
+      "Sudan",
+      "Somalia"
+    ],
     "explanation": "Ethiopia's roughly triangular shape tapers eastward. Somalia is the distinctive 7-shape; Sudan is broader and more angular."
   },
   {
@@ -234,9 +326,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Somalia?",
     "hint": "Forms the Horn of Africa, on the Indian Ocean and Gulf of Aden.",
-    "image": "",
+    "image": "/shapes/somalia.svg",
     "correctAnswer": "Somalia",
-    "wrongAnswers": ["Ethiopia", "Kenya", "Djibouti"],
+    "wrongAnswers": [
+      "Ethiopia",
+      "Kenya",
+      "Djibouti"
+    ],
     "explanation": "Somalia's distinctive 7 or backward-L shape is the actual 'horn.' Ethiopia is more triangular and inland."
   },
   {
@@ -244,9 +340,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Madagascar?",
     "hint": "A large island in the Indian Ocean, off Africa's southeast coast.",
-    "image": "",
+    "image": "/shapes/madagascar.svg",
     "correctAnswer": "Madagascar",
-    "wrongAnswers": ["Sri Lanka", "New Zealand", "Cuba"],
+    "wrongAnswers": [
+      "Sri Lanka",
+      "New Zealand",
+      "Cuba"
+    ],
     "explanation": "Madagascar is much larger and more elongated than Sri Lanka's teardrop. New Zealand has two distinct islands; Cuba is long and narrow."
   },
   {
@@ -254,9 +354,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Democratic Republic of the Congo?",
     "hint": "A massive Central African country, Africa's second-largest by area.",
-    "image": "",
+    "image": "/shapes/democratic-republic-of-the-congo.svg",
     "correctAnswer": "Democratic Republic of the Congo",
-    "wrongAnswers": ["Republic of the Congo", "Angola", "Central African Republic"],
+    "wrongAnswers": [
+      "Republic of the Congo",
+      "Angola",
+      "Central African Republic"
+    ],
     "explanation": "The DRC's narrow western corridor to the Atlantic is distinctive. Angola is more square; Republic of the Congo is much smaller."
   },
   {
@@ -264,9 +368,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Tanzania?",
     "hint": "East Africa, home to Kilimanjaro and Zanzibar, south of Kenya.",
-    "image": "",
+    "image": "/shapes/tanzania.svg",
     "correctAnswer": "Tanzania",
-    "wrongAnswers": ["Kenya", "Mozambique", "Uganda"],
+    "wrongAnswers": [
+      "Kenya",
+      "Mozambique",
+      "Uganda"
+    ],
     "explanation": "Tanzania's broadly rectangular shape contrasts with Kenya's more angular outline. Mozambique is much longer and narrower."
   },
   {
@@ -274,9 +382,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Morocco?",
     "hint": "Northwest Africa, just across the Strait of Gibraltar from Spain.",
-    "image": "",
+    "image": "/shapes/morocco.svg",
     "correctAnswer": "Morocco",
-    "wrongAnswers": ["Algeria", "Tunisia", "Libya"],
+    "wrongAnswers": [
+      "Algeria",
+      "Tunisia",
+      "Libya"
+    ],
     "explanation": "Morocco's compact shape at Africa's northwest tip contrasts with Algeria's massive Saharan extent and Libya's rectangular shape."
   },
   {
@@ -284,9 +396,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Argentina?",
     "hint": "South America's second-largest country, stretching from the tropics to near Antarctica.",
-    "image": "",
+    "image": "/shapes/argentina.svg",
     "correctAnswer": "Argentina",
-    "wrongAnswers": ["Chile", "Brazil", "Uruguay"],
+    "wrongAnswers": [
+      "Chile",
+      "Brazil",
+      "Uruguay"
+    ],
     "explanation": "Argentina is wide in the north and tapers to Tierra del Fuego. Chile is a narrow strip alongside it; Brazil bulges east."
   },
   {
@@ -294,9 +410,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Colombia?",
     "hint": "Northwest South America, the only country there with both Pacific and Caribbean coasts.",
-    "image": "",
+    "image": "/shapes/colombia.svg",
     "correctAnswer": "Colombia",
-    "wrongAnswers": ["Venezuela", "Ecuador", "Peru"],
+    "wrongAnswers": [
+      "Venezuela",
+      "Ecuador",
+      "Peru"
+    ],
     "explanation": "Colombia has a distinctive compact shape at South America's northwest corner. Venezuela extends further east; Peru is more triangular."
   },
   {
@@ -304,9 +424,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Peru?",
     "hint": "Western South America, on the Pacific coast, home to Machu Picchu.",
-    "image": "",
+    "image": "/shapes/peru.svg",
     "correctAnswer": "Peru",
-    "wrongAnswers": ["Colombia", "Bolivia", "Ecuador"],
+    "wrongAnswers": [
+      "Colombia",
+      "Bolivia",
+      "Ecuador"
+    ],
     "explanation": "Peru's roughly triangular shape is larger than Ecuador and has a long Pacific coast. Bolivia is landlocked; Colombia is further north."
   },
   {
@@ -314,9 +438,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Venezuela?",
     "hint": "Northern South America, on the Caribbean coast, home to Angel Falls.",
-    "image": "",
+    "image": "/shapes/venezuela.svg",
     "correctAnswer": "Venezuela",
-    "wrongAnswers": ["Colombia", "Guyana", "Brazil"],
+    "wrongAnswers": [
+      "Colombia",
+      "Guyana",
+      "Brazil"
+    ],
     "explanation": "Venezuela has a long Caribbean coastline and an eastern extension. Colombia is more compact; Guyana is much smaller."
   },
   {
@@ -324,9 +452,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Sweden?",
     "hint": "Eastern Scandinavian Peninsula, between Norway and the Baltic Sea.",
-    "image": "",
+    "image": "/shapes/sweden.svg",
     "correctAnswer": "Sweden",
-    "wrongAnswers": ["Norway", "Finland", "Denmark"],
+    "wrongAnswers": [
+      "Norway",
+      "Finland",
+      "Denmark"
+    ],
     "explanation": "Sweden is wider in the south and tapers north. Norway wraps around the coast and is much narrower; Finland has a distinctive arm shape."
   },
   {
@@ -334,9 +466,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Norway?",
     "hint": "Western Scandinavian Peninsula, known for fjords and the midnight sun.",
-    "image": "",
+    "image": "/shapes/norway.svg",
     "correctAnswer": "Norway",
-    "wrongAnswers": ["Sweden", "Finland", "Chile"],
+    "wrongAnswers": [
+      "Sweden",
+      "Finland",
+      "Chile"
+    ],
     "explanation": "Norway's deeply indented fjord coastline and narrow shape hugging the peninsula's edge are distinctive. Sweden is broader and smoother."
   },
   {
@@ -344,9 +480,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Finland?",
     "hint": "A Nordic country between Sweden and Russia, land of thousands of lakes.",
-    "image": "",
+    "image": "/shapes/finland.svg",
     "correctAnswer": "Finland",
-    "wrongAnswers": ["Sweden", "Norway", "Estonia"],
+    "wrongAnswers": [
+      "Sweden",
+      "Norway",
+      "Estonia"
+    ],
     "explanation": "Finland's outstretched arm in the northwest is distinctive. Sweden is more uniformly elongated; Estonia is much smaller."
   },
   {
@@ -354,9 +494,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Iceland?",
     "hint": "A volcanic island nation in the North Atlantic, between Europe and North America.",
-    "image": "",
+    "image": "/shapes/iceland.svg",
     "correctAnswer": "Iceland",
-    "wrongAnswers": ["Ireland", "Greenland", "United Kingdom"],
+    "wrongAnswers": [
+      "Ireland",
+      "Greenland",
+      "United Kingdom"
+    ],
     "explanation": "Iceland is more compact and jagged than Ireland's smooth rounded shape. Greenland is much larger."
   },
   {
@@ -364,9 +508,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Ireland?",
     "hint": "An island in the North Atlantic, just west of Great Britain.",
-    "image": "",
+    "image": "/shapes/ireland.svg",
     "correctAnswer": "Ireland",
-    "wrongAnswers": ["Iceland", "United Kingdom", "Denmark"],
+    "wrongAnswers": [
+      "Iceland",
+      "United Kingdom",
+      "Denmark"
+    ],
     "explanation": "Ireland has a smooth, rounded shape. Great Britain is more angular and elongated; Iceland has a more jagged coastline."
   },
   {
@@ -374,9 +522,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Poland?",
     "hint": "Central Europe, between Germany and Ukraine, with a Baltic coastline.",
-    "image": "",
+    "image": "/shapes/poland.svg",
     "correctAnswer": "Poland",
-    "wrongAnswers": ["Germany", "Ukraine", "Czech Republic"],
+    "wrongAnswers": [
+      "Germany",
+      "Ukraine",
+      "Czech Republic"
+    ],
     "explanation": "Poland's roughly square shape contrasts with Germany's southern-wider profile and Ukraine's much broader east-west extent."
   },
   {
@@ -384,9 +536,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Ukraine?",
     "hint": "Europe's largest country entirely within the continent, on the Black Sea.",
-    "image": "",
+    "image": "/shapes/ukraine.svg",
     "correctAnswer": "Ukraine",
-    "wrongAnswers": ["Poland", "Romania", "Kazakhstan"],
+    "wrongAnswers": [
+      "Poland",
+      "Romania",
+      "Kazakhstan"
+    ],
     "explanation": "Ukraine's broad east-west shape with the Black Sea coast and Crimea is distinctive. Poland is more square; Romania is more circular."
   },
   {
@@ -394,9 +550,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Romania?",
     "hint": "Southeastern Europe, with the Carpathian Mountains and a Black Sea coast.",
-    "image": "",
+    "image": "/shapes/romania.svg",
     "correctAnswer": "Romania",
-    "wrongAnswers": ["Hungary", "Bulgaria", "Ukraine"],
+    "wrongAnswers": [
+      "Hungary",
+      "Bulgaria",
+      "Ukraine"
+    ],
     "explanation": "Romania's roughly circular shape differs from Hungary's smaller oval and Bulgaria's more rectangular profile."
   },
   {
@@ -404,9 +564,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Hungary?",
     "hint": "A landlocked Central European country in the Pannonian Basin.",
-    "image": "",
+    "image": "/shapes/hungary.svg",
     "correctAnswer": "Hungary",
-    "wrongAnswers": ["Romania", "Austria", "Czech Republic"],
+    "wrongAnswers": [
+      "Romania",
+      "Austria",
+      "Czech Republic"
+    ],
     "explanation": "Hungary's compact oval sits in a flat basin. Austria is elongated east-west; Czech Republic has a more angular diamond shape."
   },
   {
@@ -414,9 +578,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Austria?",
     "hint": "A landlocked Alpine country in Central Europe, south of Germany.",
-    "image": "",
+    "image": "/shapes/austria.svg",
     "correctAnswer": "Austria",
-    "wrongAnswers": ["Switzerland", "Hungary", "Czech Republic"],
+    "wrongAnswers": [
+      "Switzerland",
+      "Hungary",
+      "Czech Republic"
+    ],
     "explanation": "Austria's elongated east-west shape is wider in the east. Switzerland is more compact and trapezoidal."
   },
   {
@@ -424,9 +592,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Switzerland?",
     "hint": "A small, mountainous landlocked country in the heart of the Alps.",
-    "image": "",
+    "image": "/shapes/switzerland.svg",
     "correctAnswer": "Switzerland",
-    "wrongAnswers": ["Austria", "Belgium", "Czech Republic"],
+    "wrongAnswers": [
+      "Austria",
+      "Belgium",
+      "Czech Republic"
+    ],
     "explanation": "Switzerland's compact trapezoidal shape is distinct from Austria's east-west elongation and Belgium's triangular outline."
   },
   {
@@ -434,9 +606,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Netherlands?",
     "hint": "A low-lying Northwestern European country on the North Sea.",
-    "image": "",
+    "image": "/shapes/netherlands.svg",
     "correctAnswer": "Netherlands",
-    "wrongAnswers": ["Belgium", "Denmark", "Luxembourg"],
+    "wrongAnswers": [
+      "Belgium",
+      "Denmark",
+      "Luxembourg"
+    ],
     "explanation": "The Netherlands has a compact shape along the North Sea with distinctive reclaimed land areas. Belgium is more triangular."
   },
   {
@@ -444,9 +620,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Belgium?",
     "hint": "A small Western European country between France, Germany, and the Netherlands.",
-    "image": "",
+    "image": "/shapes/belgium.svg",
     "correctAnswer": "Belgium",
-    "wrongAnswers": ["Netherlands", "Luxembourg", "Switzerland"],
+    "wrongAnswers": [
+      "Netherlands",
+      "Luxembourg",
+      "Switzerland"
+    ],
     "explanation": "Belgium's triangular shape with a short North Sea coast is distinctive. The Netherlands extends further north; Luxembourg is tiny."
   },
   {
@@ -454,9 +634,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Czech Republic?",
     "hint": "A landlocked Central European country, formerly part of Czechoslovakia.",
-    "image": "",
+    "image": "/shapes/czech-republic.svg",
     "correctAnswer": "Czech Republic",
-    "wrongAnswers": ["Austria", "Poland", "Slovakia"],
+    "wrongAnswers": [
+      "Austria",
+      "Poland",
+      "Slovakia"
+    ],
     "explanation": "Czechia's irregular diamond shape with the Bohemian basin is distinctive. Slovakia is more elongated east-west."
   },
   {
@@ -464,9 +648,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Croatia?",
     "hint": "A Balkan country with a long Adriatic Sea coastline.",
-    "image": "",
+    "image": "/shapes/croatia.svg",
     "correctAnswer": "Croatia",
-    "wrongAnswers": ["Slovenia", "Bosnia and Herzegovina", "Serbia"],
+    "wrongAnswers": [
+      "Slovenia",
+      "Bosnia and Herzegovina",
+      "Serbia"
+    ],
     "explanation": "Croatia's boomerang or crescent shape wrapping around Bosnia is one of Europe's most distinctive outlines."
   },
   {
@@ -474,9 +662,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Serbia?",
     "hint": "A landlocked Balkan country bordered by eight nations.",
-    "image": "",
+    "image": "/shapes/serbia.svg",
     "correctAnswer": "Serbia",
-    "wrongAnswers": ["Romania", "Bulgaria", "Hungary"],
+    "wrongAnswers": [
+      "Romania",
+      "Bulgaria",
+      "Hungary"
+    ],
     "explanation": "Serbia's compact oval is in the heart of the Balkans. Romania is larger and more circular; Bulgaria has a Black Sea coast."
   },
   {
@@ -484,9 +676,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Bulgaria?",
     "hint": "Southeastern Europe, between Romania and Greece/Turkey, on the Black Sea.",
-    "image": "",
+    "image": "/shapes/bulgaria.svg",
     "correctAnswer": "Bulgaria",
-    "wrongAnswers": ["Romania", "Serbia", "Greece"],
+    "wrongAnswers": [
+      "Romania",
+      "Serbia",
+      "Greece"
+    ],
     "explanation": "Bulgaria's rectangular shape with a Black Sea coast differs from Romania's circular shape and Greece's fragmented coastline."
   },
   {
@@ -494,9 +690,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Denmark?",
     "hint": "Scandinavia's southernmost country, a peninsula plus many islands.",
-    "image": "",
+    "image": "/shapes/denmark.svg",
     "correctAnswer": "Denmark",
-    "wrongAnswers": ["Netherlands", "Belgium", "Sweden"],
+    "wrongAnswers": [
+      "Netherlands",
+      "Belgium",
+      "Sweden"
+    ],
     "explanation": "Denmark's Jutland Peninsula and surrounding islands are distinctive. The Netherlands lacks a major peninsula; Sweden is much larger."
   },
   {
@@ -504,9 +704,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Saudi Arabia?",
     "hint": "Dominates the Arabian Peninsula, between the Red Sea and Persian Gulf.",
-    "image": "",
+    "image": "/shapes/saudi-arabia.svg",
     "correctAnswer": "Saudi Arabia",
-    "wrongAnswers": ["Iran", "Iraq", "Yemen"],
+    "wrongAnswers": [
+      "Iran",
+      "Iraq",
+      "Yemen"
+    ],
     "explanation": "Saudi Arabia's vast peninsula shape is much larger than Iraq or Yemen. Iran is across the Persian Gulf with a different profile."
   },
   {
@@ -514,9 +718,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Iran?",
     "hint": "Between the Persian Gulf and the Caspian Sea, east of Iraq.",
-    "image": "",
+    "image": "/shapes/iran.svg",
     "correctAnswer": "Iran",
-    "wrongAnswers": ["Turkey", "Iraq", "Afghanistan"],
+    "wrongAnswers": [
+      "Turkey",
+      "Iraq",
+      "Afghanistan"
+    ],
     "explanation": "Iran's diamond shape between two bodies of water is distinctive. Turkey is more rectangular; Afghanistan has the Wakhan Corridor."
   },
   {
@@ -524,9 +732,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Iraq?",
     "hint": "A Middle Eastern country between Iran, Syria, and Kuwait, home to ancient Mesopotamia.",
-    "image": "",
+    "image": "/shapes/iraq.svg",
     "correctAnswer": "Iraq",
-    "wrongAnswers": ["Syria", "Iran", "Saudi Arabia"],
+    "wrongAnswers": [
+      "Syria",
+      "Iran",
+      "Saudi Arabia"
+    ],
     "explanation": "Iraq's trapezoidal shape narrows toward its small Persian Gulf coast. Syria is more rectangular; Iran is much larger."
   },
   {
@@ -534,9 +746,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Pakistan?",
     "hint": "South Asia, between India, Afghanistan, and Iran, with an Arabian Sea coast.",
-    "image": "",
+    "image": "/shapes/pakistan.svg",
     "correctAnswer": "Pakistan",
-    "wrongAnswers": ["Iran", "Afghanistan", "India"],
+    "wrongAnswers": [
+      "Iran",
+      "Afghanistan",
+      "India"
+    ],
     "explanation": "Pakistan's irregular diamond shape contrasts with India's clean inverted triangle and Iran's broader diamond."
   },
   {
@@ -544,9 +760,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Afghanistan?",
     "hint": "A landlocked country at the crossroads of Central and South Asia.",
-    "image": "",
+    "image": "/shapes/afghanistan.svg",
     "correctAnswer": "Afghanistan",
-    "wrongAnswers": ["Pakistan", "Iran", "Tajikistan"],
+    "wrongAnswers": [
+      "Pakistan",
+      "Iran",
+      "Tajikistan"
+    ],
     "explanation": "Afghanistan's Wakhan Corridor — a narrow finger extending northeast to China — makes it instantly identifiable."
   },
   {
@@ -554,9 +774,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Thailand?",
     "hint": "Southeast Asia, between Myanmar and Cambodia, with a long southern peninsula.",
-    "image": "",
+    "image": "/shapes/thailand.svg",
     "correctAnswer": "Thailand",
-    "wrongAnswers": ["Myanmar", "Vietnam", "Cambodia"],
+    "wrongAnswers": [
+      "Myanmar",
+      "Vietnam",
+      "Cambodia"
+    ],
     "explanation": "Thailand's elephant-head shape with the long southern trunk is unique. Myanmar has a similar tail but a diamond-shaped body."
   },
   {
@@ -564,9 +788,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Vietnam?",
     "hint": "Eastern coast of Southeast Asia, along the South China Sea.",
-    "image": "",
+    "image": "/shapes/vietnam.svg",
     "correctAnswer": "Vietnam",
-    "wrongAnswers": ["Thailand", "Laos", "Philippines"],
+    "wrongAnswers": [
+      "Thailand",
+      "Laos",
+      "Philippines"
+    ],
     "explanation": "Vietnam's distinctive S-shape is narrow in the center. Laos is landlocked without the coastal curve; Thailand has the elephant shape."
   },
   {
@@ -574,9 +802,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Indonesia?",
     "hint": "The world's largest archipelago, straddling the equator between Asia and Australia.",
-    "image": "",
+    "image": "/shapes/indonesia.svg",
     "correctAnswer": "Indonesia",
-    "wrongAnswers": ["Philippines", "Malaysia", "Japan"],
+    "wrongAnswers": [
+      "Philippines",
+      "Malaysia",
+      "Japan"
+    ],
     "explanation": "Indonesia's vast east-west archipelago with massive islands like Sumatra and Borneo dwarfs the Philippines' more compact cluster."
   },
   {
@@ -584,9 +816,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Philippines?",
     "hint": "An archipelago in Southeast Asia, between the South China Sea and the Pacific.",
-    "image": "",
+    "image": "/shapes/philippines.svg",
     "correctAnswer": "Philippines",
-    "wrongAnswers": ["Indonesia", "Japan", "Taiwan"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Japan",
+      "Taiwan"
+    ],
     "explanation": "The Philippines' north-south cluster with Luzon and Mindanao is more compact than Indonesia's vast spread. Japan curves in an arc."
   },
   {
@@ -594,9 +830,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to South Korea?",
     "hint": "The southern half of the Korean Peninsula in East Asia.",
-    "image": "",
+    "image": "/shapes/south-korea.svg",
     "correctAnswer": "South Korea",
-    "wrongAnswers": ["North Korea", "Japan", "Taiwan"],
+    "wrongAnswers": [
+      "North Korea",
+      "Japan",
+      "Taiwan"
+    ],
     "explanation": "South Korea is the lower portion of the peninsula with a jagged southern coast. North Korea is the wider northern half."
   },
   {
@@ -604,9 +844,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to North Korea?",
     "hint": "The northern half of the Korean Peninsula, bordering China.",
-    "image": "",
+    "image": "/shapes/north-korea.svg",
     "correctAnswer": "North Korea",
-    "wrongAnswers": ["South Korea", "Mongolia", "Laos"],
+    "wrongAnswers": [
+      "South Korea",
+      "Mongolia",
+      "Laos"
+    ],
     "explanation": "North Korea is wider in the north along the Chinese border. South Korea tapers to a jagged southern coast."
   },
   {
@@ -614,9 +858,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Mongolia?",
     "hint": "A vast landlocked country of steppes between Russia and China.",
-    "image": "",
+    "image": "/shapes/mongolia.svg",
     "correctAnswer": "Mongolia",
-    "wrongAnswers": ["Kazakhstan", "Turkmenistan", "Afghanistan"],
+    "wrongAnswers": [
+      "Kazakhstan",
+      "Turkmenistan",
+      "Afghanistan"
+    ],
     "explanation": "Mongolia's elongated oval is sandwiched between Russia and China. Kazakhstan is much larger and more irregular."
   },
   {
@@ -624,9 +872,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Kazakhstan?",
     "hint": "The world's largest landlocked country, in Central Asia, bordering the Caspian Sea.",
-    "image": "",
+    "image": "/shapes/kazakhstan.svg",
     "correctAnswer": "Kazakhstan",
-    "wrongAnswers": ["Mongolia", "Uzbekistan", "Turkmenistan"],
+    "wrongAnswers": [
+      "Mongolia",
+      "Uzbekistan",
+      "Turkmenistan"
+    ],
     "explanation": "Kazakhstan is vast with an irregular western border along the Caspian Sea. Mongolia is more oval and compact."
   },
   {
@@ -634,9 +886,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to New Zealand?",
     "hint": "Two main islands in the South Pacific, southeast of Australia.",
-    "image": "",
+    "image": "/shapes/new-zealand.svg",
     "correctAnswer": "New Zealand",
-    "wrongAnswers": ["Japan", "Philippines", "Madagascar"],
+    "wrongAnswers": [
+      "Japan",
+      "Philippines",
+      "Madagascar"
+    ],
     "explanation": "New Zealand's two long, narrow islands run northeast-southwest. Japan curves in an arc; Madagascar is a single large island."
   },
   {
@@ -644,9 +900,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Papua New Guinea?",
     "hint": "Eastern half of a large island north of Australia, plus surrounding islands.",
-    "image": "",
+    "image": "/shapes/papua-new-guinea.svg",
     "correctAnswer": "Papua New Guinea",
-    "wrongAnswers": ["Indonesia", "Solomon Islands", "Fiji"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Solomon Islands",
+      "Fiji"
+    ],
     "explanation": "PNG occupies the eastern half of New Guinea island with its distinctive bird-like shape. Indonesia has the western half."
   },
   {
@@ -654,9 +914,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Cuba?",
     "hint": "The largest island in the Caribbean Sea, south of Florida.",
-    "image": "",
+    "image": "/shapes/cuba.svg",
     "correctAnswer": "Cuba",
-    "wrongAnswers": ["Jamaica", "Haiti", "Puerto Rico"],
+    "wrongAnswers": [
+      "Jamaica",
+      "Haiti",
+      "Puerto Rico"
+    ],
     "explanation": "Cuba's long, narrow crocodile-like shape is the Caribbean's largest island. Jamaica is a small oval; Haiti has a two-pronged south."
   },
   {
@@ -664,9 +928,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Sri Lanka?",
     "hint": "An island off the southern tip of India in the Indian Ocean.",
-    "image": "",
+    "image": "/shapes/sri-lanka.svg",
     "correctAnswer": "Sri Lanka",
-    "wrongAnswers": ["Madagascar", "Taiwan", "Cyprus"],
+    "wrongAnswers": [
+      "Madagascar",
+      "Taiwan",
+      "Cyprus"
+    ],
     "explanation": "Sri Lanka's compact teardrop shape is smaller than Madagascar and rounder than Taiwan's leaf shape."
   },
   {
@@ -674,9 +942,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Taiwan?",
     "hint": "An island off the southeast coast of China, in the western Pacific.",
-    "image": "",
+    "image": "/shapes/taiwan.svg",
     "correctAnswer": "Taiwan",
-    "wrongAnswers": ["Sri Lanka", "Cyprus", "Jamaica"],
+    "wrongAnswers": [
+      "Sri Lanka",
+      "Cyprus",
+      "Jamaica"
+    ],
     "explanation": "Taiwan's leaf or sweet-potato shape is more elongated than Sri Lanka's teardrop. Cyprus has a distinctive northeastern panhandle."
   },
   {
@@ -684,9 +956,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Myanmar?",
     "hint": "Southeast Asia, west of Thailand, bordering the Bay of Bengal and Andaman Sea.",
-    "image": "",
+    "image": "/shapes/myanmar.svg",
     "correctAnswer": "Myanmar",
-    "wrongAnswers": ["Thailand", "Laos", "Bangladesh"],
+    "wrongAnswers": [
+      "Thailand",
+      "Laos",
+      "Bangladesh"
+    ],
     "explanation": "Myanmar's kite-with-tail shape has a diamond body in the north and long southern coastal strip. Thailand's body is more like an elephant head."
   },
   {
@@ -694,9 +970,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Bangladesh?",
     "hint": "A densely populated South Asian country in the Ganges-Brahmaputra delta.",
-    "image": "",
+    "image": "/shapes/bangladesh.svg",
     "correctAnswer": "Bangladesh",
-    "wrongAnswers": ["Myanmar", "Nepal", "Sri Lanka"],
+    "wrongAnswers": [
+      "Myanmar",
+      "Nepal",
+      "Sri Lanka"
+    ],
     "explanation": "Bangladesh is a compact low-lying delta almost entirely surrounded by India. Nepal is a narrow rectangular strip; Sri Lanka is an island."
   },
   {
@@ -704,9 +984,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Nepal?",
     "hint": "A Himalayan country between India and China (Tibet).",
-    "image": "",
+    "image": "/shapes/nepal.svg",
     "correctAnswer": "Nepal",
-    "wrongAnswers": ["Bhutan", "Bangladesh", "Laos"],
+    "wrongAnswers": [
+      "Bhutan",
+      "Bangladesh",
+      "Laos"
+    ],
     "explanation": "Nepal's narrow rectangular strip along the Himalayas is wider than Bhutan, which is much smaller and more compact."
   },
   {
@@ -714,9 +998,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Cambodia?",
     "hint": "Southeast Asia, between Thailand and Vietnam, home to Angkor Wat.",
-    "image": "",
+    "image": "/shapes/cambodia.svg",
     "correctAnswer": "Cambodia",
-    "wrongAnswers": ["Laos", "Thailand", "Vietnam"],
+    "wrongAnswers": [
+      "Laos",
+      "Thailand",
+      "Vietnam"
+    ],
     "explanation": "Cambodia's compact square shape contrasts with Vietnam's S-curve and Laos's narrow elongated form."
   },
   {
@@ -724,9 +1012,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Malaysia?",
     "hint": "Split between a peninsula south of Thailand and northern Borneo.",
-    "image": "",
+    "image": "/shapes/malaysia.svg",
     "correctAnswer": "Malaysia",
-    "wrongAnswers": ["Indonesia", "Thailand", "Philippines"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Thailand",
+      "Philippines"
+    ],
     "explanation": "Malaysia's two-part shape (peninsula plus Borneo territories) is distinctive. Indonesia spans far more islands east and west."
   },
   {
@@ -734,9 +1026,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Algeria?",
     "hint": "Africa's largest country, mostly Saharan, with a Mediterranean coast.",
-    "image": "",
+    "image": "/shapes/algeria.svg",
     "correctAnswer": "Algeria",
-    "wrongAnswers": ["Libya", "Niger", "Mali"],
+    "wrongAnswers": [
+      "Libya",
+      "Niger",
+      "Mali"
+    ],
     "explanation": "Algeria's vast shape narrows slightly in the south. Libya is more rectangular; Mali has an hourglass shape."
   },
   {
@@ -744,9 +1040,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Libya?",
     "hint": "A large North African country between Algeria and Egypt, on the Mediterranean.",
-    "image": "",
+    "image": "/shapes/libya.svg",
     "correctAnswer": "Libya",
-    "wrongAnswers": ["Algeria", "Egypt", "Chad"],
+    "wrongAnswers": [
+      "Algeria",
+      "Egypt",
+      "Chad"
+    ],
     "explanation": "Libya's rectangular shape with the concave Gulf of Sidra coast is distinctive. Egypt has the Sinai appendage."
   },
   {
@@ -754,9 +1054,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Ghana?",
     "hint": "West Africa, on the Gulf of Guinea, east of Ivory Coast.",
-    "image": "",
+    "image": "/shapes/ghana.svg",
     "correctAnswer": "Ghana",
-    "wrongAnswers": ["Ivory Coast", "Togo", "Benin"],
+    "wrongAnswers": [
+      "Ivory Coast",
+      "Togo",
+      "Benin"
+    ],
     "explanation": "Ghana's compact rectangle is wider than the narrow strips of Togo and Benin. Ivory Coast is roughly square and further west."
   },
   {
@@ -764,9 +1068,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Angola?",
     "hint": "Southern Africa, on the Atlantic coast, south of the DRC.",
-    "image": "",
+    "image": "/shapes/angola.svg",
     "correctAnswer": "Angola",
-    "wrongAnswers": ["Zambia", "Democratic Republic of the Congo", "Mozambique"],
+    "wrongAnswers": [
+      "Zambia",
+      "Democratic Republic of the Congo",
+      "Mozambique"
+    ],
     "explanation": "Angola's large square shape with the detached Cabinda exclave in the north is distinctive. Zambia is landlocked; Mozambique is narrow."
   },
   {
@@ -774,9 +1082,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Mozambique?",
     "hint": "Southeastern Africa, on the Indian Ocean, across from Madagascar.",
-    "image": "",
+    "image": "/shapes/mozambique.svg",
     "correctAnswer": "Mozambique",
-    "wrongAnswers": ["Tanzania", "Madagascar", "Malawi"],
+    "wrongAnswers": [
+      "Tanzania",
+      "Madagascar",
+      "Malawi"
+    ],
     "explanation": "Mozambique's long narrow coastal shape contrasts with Tanzania's broader rectangle and Madagascar's island form."
   },
   {
@@ -784,9 +1096,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Namibia?",
     "hint": "Southern Africa, on the Atlantic coast, north of South Africa.",
-    "image": "",
+    "image": "/shapes/namibia.svg",
     "correctAnswer": "Namibia",
-    "wrongAnswers": ["Botswana", "Angola", "Zambia"],
+    "wrongAnswers": [
+      "Botswana",
+      "Angola",
+      "Zambia"
+    ],
     "explanation": "Namibia's Caprivi Strip panhandle extending northeast is one of Africa's most distinctive border features."
   },
   {
@@ -794,9 +1110,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Senegal?",
     "hint": "Westernmost country on mainland Africa, almost surrounding The Gambia.",
-    "image": "",
+    "image": "/shapes/senegal.svg",
     "correctAnswer": "Senegal",
-    "wrongAnswers": ["Gambia", "Guinea-Bissau", "Mali"],
+    "wrongAnswers": [
+      "Gambia",
+      "Guinea-Bissau",
+      "Mali"
+    ],
     "explanation": "Senegal's shape with The Gambia penetrating deep into its interior is unique in Africa."
   },
   {
@@ -804,9 +1124,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Cameroon?",
     "hint": "Central/West Africa, on the Gulf of Guinea, called 'Africa in miniature.'",
-    "image": "",
+    "image": "/shapes/cameroon.svg",
     "correctAnswer": "Cameroon",
-    "wrongAnswers": ["Nigeria", "Gabon", "Central African Republic"],
+    "wrongAnswers": [
+      "Nigeria",
+      "Gabon",
+      "Central African Republic"
+    ],
     "explanation": "Cameroon's triangular shape wider in the north is distinctive. Nigeria is more square; Gabon is smaller and more rectangular."
   },
   {
@@ -814,9 +1138,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Sudan?",
     "hint": "Northeast Africa, south of Egypt, with the Nile flowing through it.",
-    "image": "",
+    "image": "/shapes/sudan.svg",
     "correctAnswer": "Sudan",
-    "wrongAnswers": ["South Sudan", "Chad", "Ethiopia"],
+    "wrongAnswers": [
+      "South Sudan",
+      "Chad",
+      "Ethiopia"
+    ],
     "explanation": "Sudan's broad angular shape below Egypt contrasts with Ethiopia's triangular form and Chad's more rectangular outline."
   },
   {
@@ -824,9 +1152,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Ecuador?",
     "hint": "Northwestern South America, on the Pacific coast, straddling the equator.",
-    "image": "",
+    "image": "/shapes/ecuador.svg",
     "correctAnswer": "Ecuador",
-    "wrongAnswers": ["Colombia", "Peru", "Bolivia"],
+    "wrongAnswers": [
+      "Colombia",
+      "Peru",
+      "Bolivia"
+    ],
     "explanation": "Ecuador is smaller and more compact than Peru. Colombia is much larger to the north; Bolivia is landlocked."
   },
   {
@@ -834,9 +1166,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Bolivia?",
     "hint": "A landlocked South American country in the central part of the continent.",
-    "image": "",
+    "image": "/shapes/bolivia.svg",
     "correctAnswer": "Bolivia",
-    "wrongAnswers": ["Paraguay", "Peru", "Ecuador"],
+    "wrongAnswers": [
+      "Paraguay",
+      "Peru",
+      "Ecuador"
+    ],
     "explanation": "Bolivia is larger than Paraguay with a distinctive western notch. Paraguay is a compact diamond shape."
   },
   {
@@ -844,9 +1180,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Paraguay?",
     "hint": "A small, landlocked country in central South America.",
-    "image": "",
+    "image": "/shapes/paraguay.svg",
     "correctAnswer": "Paraguay",
-    "wrongAnswers": ["Uruguay", "Bolivia", "Ecuador"],
+    "wrongAnswers": [
+      "Uruguay",
+      "Bolivia",
+      "Ecuador"
+    ],
     "explanation": "Paraguay's compact diamond shape is landlocked. Uruguay is on the Atlantic coast; Bolivia is much larger."
   },
   {
@@ -854,9 +1194,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Uruguay?",
     "hint": "A small country on the Atlantic coast, between Argentina and Brazil.",
-    "image": "",
+    "image": "/shapes/uruguay.svg",
     "correctAnswer": "Uruguay",
-    "wrongAnswers": ["Paraguay", "Argentina", "Guyana"],
+    "wrongAnswers": [
+      "Paraguay",
+      "Argentina",
+      "Guyana"
+    ],
     "explanation": "Uruguay's small triangular shape on the Atlantic coast contrasts with landlocked Paraguay and massive Argentina."
   },
   {
@@ -864,9 +1208,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Jamaica?",
     "hint": "A Caribbean island south of Cuba and west of Haiti.",
-    "image": "",
+    "image": "/shapes/jamaica.svg",
     "correctAnswer": "Jamaica",
-    "wrongAnswers": ["Cuba", "Haiti", "Trinidad and Tobago"],
+    "wrongAnswers": [
+      "Cuba",
+      "Haiti",
+      "Trinidad and Tobago"
+    ],
     "explanation": "Jamaica is a compact oval island. Cuba is much longer and narrower; Haiti has distinctive southern peninsulas."
   },
   {
@@ -874,9 +1222,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Dominican Republic?",
     "hint": "Shares the island of Hispaniola with Haiti in the Caribbean.",
-    "image": "",
+    "image": "/shapes/dominican-republic.svg",
     "correctAnswer": "Dominican Republic",
-    "wrongAnswers": ["Haiti", "Cuba", "Jamaica"],
+    "wrongAnswers": [
+      "Haiti",
+      "Cuba",
+      "Jamaica"
+    ],
     "explanation": "The Dominican Republic occupies the eastern two-thirds of Hispaniola. Haiti's western third has a distinctive two-pronged peninsula."
   },
   {
@@ -884,9 +1236,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Haiti?",
     "hint": "Western third of the island of Hispaniola in the Caribbean.",
-    "image": "",
+    "image": "/shapes/haiti.svg",
     "correctAnswer": "Haiti",
-    "wrongAnswers": ["Dominican Republic", "Jamaica", "Cuba"],
+    "wrongAnswers": [
+      "Dominican Republic",
+      "Jamaica",
+      "Cuba"
+    ],
     "explanation": "Haiti's two southern peninsulas creating the Gulf of Gonave make it distinctive. The Dominican Republic's eastern portion is more compact."
   },
   {
@@ -894,9 +1250,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Guatemala?",
     "hint": "Central America's northernmost and most populous country.",
-    "image": "",
+    "image": "/shapes/guatemala.svg",
     "correctAnswer": "Guatemala",
-    "wrongAnswers": ["Honduras", "El Salvador", "Belize"],
+    "wrongAnswers": [
+      "Honduras",
+      "El Salvador",
+      "Belize"
+    ],
     "explanation": "Guatemala is the largest Central American country with a roughly rectangular shape. Honduras is more elongated east-west."
   },
   {
@@ -904,9 +1264,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Panama?",
     "hint": "The narrowest point connecting North and South America, home to a famous canal.",
-    "image": "",
+    "image": "/shapes/panama.svg",
     "correctAnswer": "Panama",
-    "wrongAnswers": ["Costa Rica", "Colombia", "Nicaragua"],
+    "wrongAnswers": [
+      "Costa Rica",
+      "Colombia",
+      "Nicaragua"
+    ],
     "explanation": "Panama's S-shaped isthmus is one of the world's most distinctive country shapes. Costa Rica is wider in proportion."
   },
   {
@@ -914,9 +1278,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Israel?",
     "hint": "A small country on the eastern Mediterranean, with a desert triangle in the south.",
-    "image": "",
+    "image": "/shapes/israel.svg",
     "correctAnswer": "Israel",
-    "wrongAnswers": ["Lebanon", "Jordan", "Cyprus"],
+    "wrongAnswers": [
+      "Lebanon",
+      "Jordan",
+      "Cyprus"
+    ],
     "explanation": "Israel's narrow Mediterranean strip widening into the triangular Negev is distinctive. Lebanon is a simple narrow rectangle."
   },
   {
@@ -924,9 +1292,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Jordan?",
     "hint": "A Middle Eastern country east of Israel, with a tiny Red Sea coast.",
-    "image": "",
+    "image": "/shapes/jordan.svg",
     "correctAnswer": "Jordan",
-    "wrongAnswers": ["Syria", "Iraq", "Israel"],
+    "wrongAnswers": [
+      "Syria",
+      "Iraq",
+      "Israel"
+    ],
     "explanation": "Jordan's mostly straight borders with the narrow Gulf of Aqaba outlet contrast with Syria's more rectangular shape."
   },
   {
@@ -934,29 +1306,27 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Syria?",
     "hint": "A Middle Eastern country on the Mediterranean, north of Jordan.",
-    "image": "",
+    "image": "/shapes/syria.svg",
     "correctAnswer": "Syria",
-    "wrongAnswers": ["Iraq", "Jordan", "Lebanon"],
+    "wrongAnswers": [
+      "Iraq",
+      "Jordan",
+      "Lebanon"
+    ],
     "explanation": "Syria's broad rectangle with a southeastern extension contrasts with Iraq's trapezoidal shape narrowing to the gulf."
-  },
-  {
-    "id": "shapes-rev-cyprus-01",
-    "category": "shapes-reverse",
-    "question": "Which shape belongs to Cyprus?",
-    "hint": "The third-largest Mediterranean island, south of Turkey.",
-    "image": "",
-    "correctAnswer": "Cyprus",
-    "wrongAnswers": ["Crete", "Sicily", "Sardinia"],
-    "explanation": "Cyprus has the distinctive Karpas Peninsula finger pointing northeast. Crete is a long narrow strip; Sicily is triangular."
   },
   {
     "id": "shapes-rev-uzbekistan-01",
     "category": "shapes-reverse",
     "question": "Which shape belongs to Uzbekistan?",
     "hint": "A doubly-landlocked Central Asian country between Kazakhstan and Turkmenistan.",
-    "image": "",
+    "image": "/shapes/uzbekistan.svg",
     "correctAnswer": "Uzbekistan",
-    "wrongAnswers": ["Turkmenistan", "Tajikistan", "Kyrgyzstan"],
+    "wrongAnswers": [
+      "Turkmenistan",
+      "Tajikistan",
+      "Kyrgyzstan"
+    ],
     "explanation": "Uzbekistan has an irregular shape with multiple border protrusions. Turkmenistan is more oval; Kyrgyzstan is more compact."
   },
   {
@@ -964,9 +1334,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Mali?",
     "hint": "A large landlocked West African country, mostly Saharan.",
-    "image": "",
+    "image": "/shapes/mali.svg",
     "correctAnswer": "Mali",
-    "wrongAnswers": ["Niger", "Burkina Faso", "Mauritania"],
+    "wrongAnswers": [
+      "Niger",
+      "Burkina Faso",
+      "Mauritania"
+    ],
     "explanation": "Mali's hourglass shape narrows in the center. Niger is wider in the north; Mauritania is more rectangular."
   },
   {
@@ -974,9 +1348,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Niger?",
     "hint": "A large landlocked Saharan country between Algeria and Nigeria.",
-    "image": "",
+    "image": "/shapes/niger.svg",
     "correctAnswer": "Niger",
-    "wrongAnswers": ["Mali", "Chad", "Nigeria"],
+    "wrongAnswers": [
+      "Mali",
+      "Chad",
+      "Nigeria"
+    ],
     "explanation": "Niger is wider in the north and narrows southward. Mali has an hourglass shape; Nigeria is much smaller and coastal."
   },
   {
@@ -984,9 +1362,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Georgia?",
     "hint": "A Caucasus country on the eastern Black Sea coast, between Russia and Turkey.",
-    "image": "",
+    "image": "/shapes/georgia.svg",
     "correctAnswer": "Georgia",
-    "wrongAnswers": ["Armenia", "Azerbaijan", "Turkey"],
+    "wrongAnswers": [
+      "Armenia",
+      "Azerbaijan",
+      "Turkey"
+    ],
     "explanation": "Georgia's shape along the eastern Black Sea with the Caucasus mountains to the north contrasts with Armenia's smaller landlocked form."
   },
   {
@@ -994,9 +1376,13 @@
     "category": "shapes-reverse",
     "question": "Which shape belongs to Zambia?",
     "hint": "A landlocked Southern African country, home to Victoria Falls.",
-    "image": "",
+    "image": "/shapes/zambia.svg",
     "correctAnswer": "Zambia",
-    "wrongAnswers": ["Zimbabwe", "Malawi", "Botswana"],
+    "wrongAnswers": [
+      "Zimbabwe",
+      "Malawi",
+      "Botswana"
+    ],
     "explanation": "Zambia's butterfly-shaped outline differs from Zimbabwe's compact rectangle and Botswana's more circular shield shape."
   }
 ]

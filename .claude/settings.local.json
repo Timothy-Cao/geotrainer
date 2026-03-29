@@ -28,7 +28,10 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(node scripts/generate-more-facts.js)"
+      "Bash(node scripts/generate-more-facts.js)",
+      "Bash(node scripts/generate-shapes.js)",
+      "Bash(node scripts/prune-missing-shapes.js)",
+      "Bash(node scripts/prune-missing-flags.js)"
     ]
   }
 }

@@ -6,7 +6,11 @@
     "hint": "Three vertical stripes of black, red, and green with a white mosque emblem in the center.",
     "image": "",
     "correctAnswer": "Afghanistan",
-    "wrongAnswers": ["Iran", "Tajikistan", "United Arab Emirates"],
+    "wrongAnswers": [
+      "Iran",
+      "Tajikistan",
+      "United Arab Emirates"
+    ],
     "explanation": "Afghanistan's flag features black, red, and green vertical stripes with a white emblem containing a mosque. The UAE has similar colors but in a different arrangement."
   },
   {
@@ -16,7 +20,11 @@
     "hint": "A red background with a black double-headed eagle in the center.",
     "image": "",
     "correctAnswer": "Albania",
-    "wrongAnswers": ["Montenegro", "Serbia", "North Macedonia"],
+    "wrongAnswers": [
+      "Montenegro",
+      "Serbia",
+      "North Macedonia"
+    ],
     "explanation": "Albania's flag features a distinctive black double-headed eagle on a red field. Montenegro also has a double-headed eagle but on a red field with a gold border."
   },
   {
@@ -26,7 +34,11 @@
     "hint": "Two vertical halves of green and white with a red crescent and star in the center.",
     "image": "",
     "correctAnswer": "Algeria",
-    "wrongAnswers": ["Pakistan", "Turkey", "Tunisia"],
+    "wrongAnswers": [
+      "Pakistan",
+      "Turkey",
+      "Tunisia"
+    ],
     "explanation": "Algeria's flag has green and white vertical halves with a red crescent and star at the center. Pakistan has a similar green and white design but in a different arrangement."
   },
   {
@@ -36,7 +48,11 @@
     "hint": "Three vertical stripes of blue, yellow, and red with a coat of arms in the center yellow stripe.",
     "image": "",
     "correctAnswer": "Andorra",
-    "wrongAnswers": ["Chad", "Romania", "Moldova"],
+    "wrongAnswers": [
+      "Chad",
+      "Romania",
+      "Moldova"
+    ],
     "explanation": "Andorra's flag has blue, yellow, and red vertical stripes with a coat of arms. Chad and Romania have similar tricolors but without the emblem and with slightly different blues."
   },
   {
@@ -46,7 +62,11 @@
     "hint": "Two horizontal stripes of red and black with a yellow half gear wheel, machete, and star in the center.",
     "image": "",
     "correctAnswer": "Angola",
-    "wrongAnswers": ["Mozambique", "Zimbabwe", "Kenya"],
+    "wrongAnswers": [
+      "Mozambique",
+      "Zimbabwe",
+      "Kenya"
+    ],
     "explanation": "Angola's flag features red and black horizontal stripes with a yellow emblem of a machete, gear, and star, inspired by communist symbolism. Mozambique has a similar design with an AK-47."
   },
   {
@@ -56,7 +76,11 @@
     "hint": "A red background with an inverted triangle showing black, blue, and white stripes with a rising yellow sun.",
     "image": "",
     "correctAnswer": "Antigua and Barbuda",
-    "wrongAnswers": ["Trinidad and Tobago", "Jamaica", "Barbados"],
+    "wrongAnswers": [
+      "Trinidad and Tobago",
+      "Jamaica",
+      "Barbados"
+    ],
     "explanation": "Antigua and Barbuda's flag has a red field with a V-shaped design containing a rising sun on a blue and white background. Trinidad and Tobago has a diagonal black stripe on red."
   },
   {
@@ -66,7 +90,11 @@
     "hint": "Three horizontal stripes (light blue, white, light blue) with a golden Sun of May in the center.",
     "image": "",
     "correctAnswer": "Argentina",
-    "wrongAnswers": ["Uruguay", "Honduras", "El Salvador"],
+    "wrongAnswers": [
+      "Uruguay",
+      "Honduras",
+      "El Salvador"
+    ],
     "explanation": "Argentina's flag has light blue and white horizontal stripes with the Sun of May in the center. Uruguay's flag is similar but with more stripes and the sun in the corner."
   },
   {
@@ -76,7 +104,11 @@
     "hint": "Three horizontal stripes: red on top, blue in the middle, orange on the bottom.",
     "image": "",
     "correctAnswer": "Armenia",
-    "wrongAnswers": ["Colombia", "Venezuela", "Netherlands"],
+    "wrongAnswers": [
+      "Colombia",
+      "Venezuela",
+      "Netherlands"
+    ],
     "explanation": "Armenia's flag has red, blue, and orange horizontal stripes. The orange bottom stripe distinguishes it from similar tricolors like the Netherlands (red, white, blue)."
   },
   {
@@ -86,7 +118,11 @@
     "hint": "A blue background with the Union Jack in the upper left, a large seven-pointed star below it, and five stars forming a constellation on the right.",
     "image": "",
     "correctAnswer": "Australia",
-    "wrongAnswers": ["New Zealand", "United Kingdom", "Fiji"],
+    "wrongAnswers": [
+      "New Zealand",
+      "United Kingdom",
+      "Fiji"
+    ],
     "explanation": "Australia's flag has the Union Jack, the Commonwealth Star (seven-pointed), and five stars of the Southern Cross. New Zealand's flag has only four red stars."
   },
   {
@@ -96,7 +132,11 @@
     "hint": "Three horizontal stripes: red, white, red. A simple but ancient design.",
     "image": "",
     "correctAnswer": "Austria",
-    "wrongAnswers": ["Latvia", "Peru", "Canada"],
+    "wrongAnswers": [
+      "Latvia",
+      "Peru",
+      "Canada"
+    ],
     "explanation": "Austria's flag has red-white-red horizontal stripes, one of the oldest flag designs in the world. Latvia has a similar pattern but with a darker maroon-red and a narrower white stripe."
   },
   {
@@ -106,7 +146,11 @@
     "hint": "Three horizontal stripes of blue, red, and green with a white crescent and eight-pointed star on the red stripe.",
     "image": "",
     "correctAnswer": "Azerbaijan",
-    "wrongAnswers": ["Turkey", "Turkmenistan", "Uzbekistan"],
+    "wrongAnswers": [
+      "Turkey",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
     "explanation": "Azerbaijan's flag has blue, red, and green horizontal stripes with a white crescent and eight-pointed star on the red middle stripe."
   },
   {
@@ -116,7 +160,11 @@
     "hint": "Three horizontal stripes of aquamarine, gold, and aquamarine with a black triangle on the left side.",
     "image": "",
     "correctAnswer": "Bahamas",
-    "wrongAnswers": ["Jamaica", "Barbados", "Saint Lucia"],
+    "wrongAnswers": [
+      "Jamaica",
+      "Barbados",
+      "Saint Lucia"
+    ],
     "explanation": "The Bahamas flag has aquamarine and gold stripes with a black equilateral triangle at the hoist. The black represents unity, the aquamarine the sea, and the gold the sand."
   },
   {
@@ -126,7 +174,11 @@
     "hint": "A red field with a white serrated band on the left side with five white triangular points.",
     "image": "",
     "correctAnswer": "Bahrain",
-    "wrongAnswers": ["Qatar", "United Arab Emirates", "Kuwait"],
+    "wrongAnswers": [
+      "Qatar",
+      "United Arab Emirates",
+      "Kuwait"
+    ],
     "explanation": "Bahrain's flag is red with a white serrated band of five points on the left. Qatar's flag is similar but maroon with nine points and a longer shape."
   },
   {
@@ -136,7 +188,11 @@
     "hint": "A dark green background with a large red circle slightly left of center.",
     "image": "",
     "correctAnswer": "Bangladesh",
-    "wrongAnswers": ["Japan", "Palau", "Libya"],
+    "wrongAnswers": [
+      "Japan",
+      "Palau",
+      "Libya"
+    ],
     "explanation": "Bangladesh's flag has a red disc on a green background. Japan has a similar red disc but on a white background. The disc is offset toward the hoist so it appears centered when flying."
   },
   {
@@ -146,7 +202,11 @@
     "hint": "Three vertical stripes of blue, gold, and blue with a black trident head in the center.",
     "image": "",
     "correctAnswer": "Barbados",
-    "wrongAnswers": ["Bahamas", "Saint Vincent and the Grenadines", "Ukraine"],
+    "wrongAnswers": [
+      "Bahamas",
+      "Saint Vincent and the Grenadines",
+      "Ukraine"
+    ],
     "explanation": "Barbados' flag has ultramarine and gold stripes with a broken trident head (the broken shaft symbolizes the break from colonial rule)."
   },
   {
@@ -156,7 +216,11 @@
     "hint": "A red and green horizontal bicolor with a decorative red-and-white ornamental pattern on the left side.",
     "image": "",
     "correctAnswer": "Belarus",
-    "wrongAnswers": ["Oman", "Madagascar", "Bulgaria"],
+    "wrongAnswers": [
+      "Oman",
+      "Madagascar",
+      "Bulgaria"
+    ],
     "explanation": "Belarus' flag has red and green horizontal stripes with a traditional red-on-white ornamental pattern at the hoist, derived from a Belarusian textile design."
   },
   {
@@ -166,7 +230,11 @@
     "hint": "Three equal vertical stripes: black, yellow, and red (left to right).",
     "image": "",
     "correctAnswer": "Belgium",
-    "wrongAnswers": ["Germany", "Chad", "Romania"],
+    "wrongAnswers": [
+      "Germany",
+      "Chad",
+      "Romania"
+    ],
     "explanation": "Belgium's flag has vertical black, yellow, and red stripes. Germany's flag uses the same colors but in horizontal stripes (black, red, gold)."
   },
   {
@@ -176,7 +244,11 @@
     "hint": "A blue field with thin red stripes at top and bottom, and a large white circular coat of arms in the center featuring two men and a mahogany tree.",
     "image": "",
     "correctAnswer": "Belize",
-    "wrongAnswers": ["Guatemala", "Honduras", "El Salvador"],
+    "wrongAnswers": [
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
     "explanation": "Belize's flag is blue with narrow red top and bottom stripes, and a coat of arms showing two woodcutters, a mahogany tree, and a shield."
   },
   {
@@ -186,18 +258,12 @@
     "hint": "A vertical green stripe on the left and two horizontal stripes of yellow and red on the right.",
     "image": "",
     "correctAnswer": "Benin",
-    "wrongAnswers": ["Guinea", "Mali", "Cameroon"],
+    "wrongAnswers": [
+      "Guinea",
+      "Mali",
+      "Cameroon"
+    ],
     "explanation": "Benin's flag has a green vertical stripe at the hoist with yellow and red horizontal stripes on the fly side. The design uses Pan-African colors."
-  },
-  {
-    "id": "flags-bhutan-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "Divided diagonally into yellow-orange and orange-red halves with a white dragon in the center holding jewels.",
-    "image": "",
-    "correctAnswer": "Bhutan",
-    "wrongAnswers": ["Sri Lanka", "Wales", "China"],
-    "explanation": "Bhutan's flag is divided diagonally with a white dragon (Druk) in the center. The yellow represents the king's authority and the orange represents Buddhism."
   },
   {
     "id": "flags-bolivia-01",
@@ -206,18 +272,12 @@
     "hint": "Three horizontal stripes of red, yellow, and green with a coat of arms in the center.",
     "image": "",
     "correctAnswer": "Bolivia",
-    "wrongAnswers": ["Ghana", "Ethiopia", "Lithuania"],
+    "wrongAnswers": [
+      "Ghana",
+      "Ethiopia",
+      "Lithuania"
+    ],
     "explanation": "Bolivia's flag has red, yellow, and green horizontal stripes. The state flag includes a coat of arms. Ghana uses the same colors but in a different order with a black star."
-  },
-  {
-    "id": "flags-bosnia-and-herzegovina-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A blue field with a yellow right triangle and a line of white stars running along the hypotenuse.",
-    "image": "",
-    "correctAnswer": "Bosnia and Herzegovina",
-    "wrongAnswers": ["Kosovo", "European Union", "Somalia"],
-    "explanation": "Bosnia and Herzegovina's flag has a blue background with a yellow triangle and white stars along the hypotenuse, designed to represent the country's multi-ethnic character."
   },
   {
     "id": "flags-botswana-01",
@@ -226,7 +286,11 @@
     "hint": "A light blue background with a horizontal black stripe bordered by thin white stripes in the center.",
     "image": "",
     "correctAnswer": "Botswana",
-    "wrongAnswers": ["Estonia", "Honduras", "Argentina"],
+    "wrongAnswers": [
+      "Estonia",
+      "Honduras",
+      "Argentina"
+    ],
     "explanation": "Botswana's flag is light blue with a black horizontal stripe bordered by white in the middle. The blue represents water (rain) and the black and white stripes represent racial harmony."
   },
   {
@@ -236,7 +300,11 @@
     "hint": "A green background with a large yellow diamond, containing a dark blue globe with white stars and a curved band.",
     "image": "",
     "correctAnswer": "Brazil",
-    "wrongAnswers": ["Argentina", "Colombia", "Bolivia"],
+    "wrongAnswers": [
+      "Argentina",
+      "Colombia",
+      "Bolivia"
+    ],
     "explanation": "Brazil's flag features a green field with a yellow diamond and a blue celestial globe with 27 stars and the motto 'Ordem e Progresso'."
   },
   {
@@ -246,7 +314,11 @@
     "hint": "A yellow field with white and black diagonal stripes and a red crest featuring an umbrella and wings in the center.",
     "image": "",
     "correctAnswer": "Brunei",
-    "wrongAnswers": ["Malaysia", "Indonesia", "Thailand"],
+    "wrongAnswers": [
+      "Malaysia",
+      "Indonesia",
+      "Thailand"
+    ],
     "explanation": "Brunei's flag is yellow with white and black diagonal stripes and the national emblem in red, featuring a parasol, wings, crescent, and hands."
   },
   {
@@ -256,7 +328,11 @@
     "hint": "Three horizontal stripes: white on top, green in the middle, red on the bottom.",
     "image": "",
     "correctAnswer": "Bulgaria",
-    "wrongAnswers": ["Hungary", "Italy", "Iran"],
+    "wrongAnswers": [
+      "Hungary",
+      "Italy",
+      "Iran"
+    ],
     "explanation": "Bulgaria's flag has white, green, and red horizontal stripes. Hungary has a similar tricolor but with red, white, and green in a different order."
   },
   {
@@ -266,7 +342,11 @@
     "hint": "Two horizontal stripes of red and green with a yellow five-pointed star in the center.",
     "image": "",
     "correctAnswer": "Burkina Faso",
-    "wrongAnswers": ["Ghana", "Cameroon", "Guinea-Bissau"],
+    "wrongAnswers": [
+      "Ghana",
+      "Cameroon",
+      "Guinea-Bissau"
+    ],
     "explanation": "Burkina Faso's flag has red and green horizontal stripes with a yellow star. The Pan-African colors represent the revolution (red), hope (green), and mineral wealth (star)."
   },
   {
@@ -276,18 +356,12 @@
     "hint": "A white saltire (X-cross) dividing the field into red and green sections, with a white circle containing three red six-pointed stars in the center.",
     "image": "",
     "correctAnswer": "Burundi",
-    "wrongAnswers": ["Rwanda", "Kenya", "Uganda"],
+    "wrongAnswers": [
+      "Rwanda",
+      "Kenya",
+      "Uganda"
+    ],
     "explanation": "Burundi's flag has a white saltire creating red (top and bottom) and green (sides) sections, with three red stars in a central white disc representing the three ethnic groups."
-  },
-  {
-    "id": "flags-cabo-verde-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A dark blue field with two white and one red horizontal stripe near the bottom, and a circle of ten yellow stars on the left side.",
-    "image": "",
-    "correctAnswer": "Cabo Verde",
-    "wrongAnswers": ["European Union", "Brazil", "Nauru"],
-    "explanation": "Cabo Verde's flag is blue with stripes near the bottom and ten yellow stars in a circle representing the ten main islands of the archipelago."
   },
   {
     "id": "flags-cambodia-01",
@@ -296,7 +370,11 @@
     "hint": "Three horizontal stripes of blue, red (wider), and blue with a white depiction of a temple in the center red stripe.",
     "image": "",
     "correctAnswer": "Cambodia",
-    "wrongAnswers": ["Thailand", "Laos", "Myanmar"],
+    "wrongAnswers": [
+      "Thailand",
+      "Laos",
+      "Myanmar"
+    ],
     "explanation": "Cambodia's flag features a white Angkor Wat temple on a red stripe between two blue stripes. It is one of few flags depicting a building."
   },
   {
@@ -306,7 +384,11 @@
     "hint": "Three vertical stripes of green, red, and yellow with a yellow star in the center of the red stripe.",
     "image": "",
     "correctAnswer": "Cameroon",
-    "wrongAnswers": ["Senegal", "Mali", "Guinea"],
+    "wrongAnswers": [
+      "Senegal",
+      "Mali",
+      "Guinea"
+    ],
     "explanation": "Cameroon's flag has green, red, and yellow vertical stripes with a yellow star on the red center stripe. Senegal has a similar tricolor but with a green star."
   },
   {
@@ -316,7 +398,11 @@
     "hint": "A red maple leaf on a white square, flanked by red vertical bars on each side.",
     "image": "",
     "correctAnswer": "Canada",
-    "wrongAnswers": ["United States", "United Kingdom", "Australia"],
+    "wrongAnswers": [
+      "United States",
+      "United Kingdom",
+      "Australia"
+    ],
     "explanation": "Canada's flag features a red 11-pointed maple leaf on a white square, flanked by red bars. Adopted in 1965."
   },
   {
@@ -326,7 +412,11 @@
     "hint": "Four horizontal stripes of blue, white, green, and yellow divided by a vertical red stripe through the center, with a yellow star in the upper left.",
     "image": "",
     "correctAnswer": "Central African Republic",
-    "wrongAnswers": ["Chad", "Cameroon", "Republic of the Congo"],
+    "wrongAnswers": [
+      "Chad",
+      "Cameroon",
+      "Republic of the Congo"
+    ],
     "explanation": "The Central African Republic's flag uniquely combines Pan-African and French tricolor elements with four horizontal stripes crossed by a red vertical band and a yellow star."
   },
   {
@@ -336,28 +426,12 @@
     "hint": "Three vertical stripes of blue, yellow, and red with no emblem or symbol.",
     "image": "",
     "correctAnswer": "Chad",
-    "wrongAnswers": ["Romania", "Andorra", "Moldova"],
+    "wrongAnswers": [
+      "Romania",
+      "Andorra",
+      "Moldova"
+    ],
     "explanation": "Chad's flag has blue, yellow, and red vertical stripes. It is nearly identical to Romania's flag, which uses a slightly lighter blue. Chad's blue is a darker indigo."
-  },
-  {
-    "id": "flags-chile-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "Two horizontal bands — white on top, red on the bottom — with a blue square in the upper left containing a white star.",
-    "image": "",
-    "correctAnswer": "Chile",
-    "wrongAnswers": ["Texas", "Cuba", "Panama"],
-    "explanation": "Chile's flag has white and red horizontal stripes with a blue canton containing a white star. It resembles the flag of Texas but has different proportions."
-  },
-  {
-    "id": "flags-china-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A red field with one large yellow star and four smaller yellow stars in an arc in the upper left corner.",
-    "image": "",
-    "correctAnswer": "China",
-    "wrongAnswers": ["Vietnam", "Soviet Union", "Turkey"],
-    "explanation": "China's flag has five yellow stars on a red field — one large star representing the Communist Party and four smaller stars representing the people. Vietnam has one large yellow star on red."
   },
   {
     "id": "flags-colombia-01",
@@ -366,7 +440,11 @@
     "hint": "Three horizontal stripes where the top yellow stripe is twice as wide as the blue and red stripes below it.",
     "image": "",
     "correctAnswer": "Colombia",
-    "wrongAnswers": ["Ecuador", "Venezuela", "Romania"],
+    "wrongAnswers": [
+      "Ecuador",
+      "Venezuela",
+      "Romania"
+    ],
     "explanation": "Colombia's flag has a wide yellow stripe (top half), with blue and red stripes each a quarter of the height. Ecuador's is similar but includes a coat of arms."
   },
   {
@@ -376,7 +454,11 @@
     "hint": "Four horizontal stripes of yellow, white, red, and blue with a green triangle on the left bearing a white crescent and four stars.",
     "image": "",
     "correctAnswer": "Comoros",
-    "wrongAnswers": ["Mauritius", "Seychelles", "Djibouti"],
+    "wrongAnswers": [
+      "Mauritius",
+      "Seychelles",
+      "Djibouti"
+    ],
     "explanation": "Comoros' flag has four colored stripes and a green triangle with a crescent and four stars representing the four islands. It is one of the most colorful flags."
   },
   {
@@ -386,7 +468,11 @@
     "hint": "A diagonal design with green at the upper left, yellow diagonal band, and red at the lower right.",
     "image": "",
     "correctAnswer": "Republic of the Congo",
-    "wrongAnswers": ["Democratic Republic of the Congo", "Cameroon", "Guinea"],
+    "wrongAnswers": [
+      "Democratic Republic of the Congo",
+      "Cameroon",
+      "Guinea"
+    ],
     "explanation": "The Republic of the Congo's flag has a green-yellow-red diagonal pattern. The DR Congo has a blue flag with a red diagonal stripe."
   },
   {
@@ -396,7 +482,11 @@
     "hint": "A sky blue field with a diagonal red stripe bordered by thin yellow stripes, and a yellow five-pointed star in the upper left.",
     "image": "",
     "correctAnswer": "Democratic Republic of the Congo",
-    "wrongAnswers": ["Republic of the Congo", "Tanzania", "Namibia"],
+    "wrongAnswers": [
+      "Republic of the Congo",
+      "Tanzania",
+      "Namibia"
+    ],
     "explanation": "The DR Congo's flag is sky blue with a diagonal red stripe edged in yellow and a yellow star in the upper-left corner."
   },
   {
@@ -406,7 +496,11 @@
     "hint": "Five horizontal stripes: blue, white, red (double width), white, blue with a coat of arms on the left side of the red stripe.",
     "image": "",
     "correctAnswer": "Costa Rica",
-    "wrongAnswers": ["Thailand", "North Korea", "Netherlands"],
+    "wrongAnswers": [
+      "Thailand",
+      "North Korea",
+      "Netherlands"
+    ],
     "explanation": "Costa Rica's flag has blue, white, red, white, blue horizontal stripes with the red stripe twice as wide. Thailand has a similar pattern but with the colors in a different order."
   },
   {
@@ -416,18 +510,12 @@
     "hint": "Three horizontal stripes of red, white, and blue with a checkered red-and-white shield coat of arms in the center.",
     "image": "",
     "correctAnswer": "Croatia",
-    "wrongAnswers": ["Serbia", "Slovakia", "Slovenia"],
+    "wrongAnswers": [
+      "Serbia",
+      "Slovakia",
+      "Slovenia"
+    ],
     "explanation": "Croatia's flag has red, white, and blue stripes with the distinctive red-and-white checkerboard (šahovnica) coat of arms in the center."
-  },
-  {
-    "id": "flags-cuba-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "Five alternating blue and white horizontal stripes with a red triangle on the left containing a white star.",
-    "image": "",
-    "correctAnswer": "Cuba",
-    "wrongAnswers": ["Puerto Rico", "Chile", "Liberia"],
-    "explanation": "Cuba's flag has five blue and white stripes with a red triangle bearing a white star. Puerto Rico has the same design but with colors reversed (red stripes, blue triangle)."
   },
   {
     "id": "flags-cyprus-01",
@@ -436,7 +524,11 @@
     "hint": "A white field with a copper-orange map of the island in the center and two olive branches below.",
     "image": "",
     "correctAnswer": "Cyprus",
-    "wrongAnswers": ["Greece", "Turkey", "Malta"],
+    "wrongAnswers": [
+      "Greece",
+      "Turkey",
+      "Malta"
+    ],
     "explanation": "Cyprus' flag features a copper-colored silhouette of the island above two crossed olive branches on a white background. The copper represents the island's mineral wealth."
   },
   {
@@ -446,18 +538,12 @@
     "hint": "Two horizontal stripes of white and red with a blue triangle extending from the left side.",
     "image": "",
     "correctAnswer": "Czech Republic",
-    "wrongAnswers": ["Poland", "Philippines", "Slovakia"],
+    "wrongAnswers": [
+      "Poland",
+      "Philippines",
+      "Slovakia"
+    ],
     "explanation": "The Czech Republic's flag has white and red horizontal stripes with a blue triangle at the hoist. Poland's flag is just white over red without the triangle."
-  },
-  {
-    "id": "flags-denmark-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A red background with a white Scandinavian cross offset to the left. The oldest national flag still in use.",
-    "image": "",
-    "correctAnswer": "Denmark",
-    "wrongAnswers": ["Switzerland", "Norway", "England"],
-    "explanation": "Denmark's Dannebrog is the world's oldest continuously used national flag, dating to 1219. It features a white Nordic cross on a red background."
   },
   {
     "id": "flags-djibouti-01",
@@ -466,7 +552,11 @@
     "hint": "Two horizontal stripes of light blue and green with a white triangle on the left containing a red star.",
     "image": "",
     "correctAnswer": "Djibouti",
-    "wrongAnswers": ["Somalia", "Eritrea", "Ethiopia"],
+    "wrongAnswers": [
+      "Somalia",
+      "Eritrea",
+      "Ethiopia"
+    ],
     "explanation": "Djibouti's flag has light blue and green stripes with a white triangle bearing a red star at the hoist. The colors represent the Issa and Afar peoples."
   },
   {
@@ -476,7 +566,11 @@
     "hint": "A green field with a cross of yellow, black, and white stripes, and a red circle in the center featuring a Sisserou parrot.",
     "image": "",
     "correctAnswer": "Dominica",
-    "wrongAnswers": ["Dominican Republic", "Jamaica", "Brazil"],
+    "wrongAnswers": [
+      "Dominican Republic",
+      "Jamaica",
+      "Brazil"
+    ],
     "explanation": "Dominica's flag is green with a centered cross and a red disc containing a Sisserou parrot surrounded by ten green stars. It is one of two national flags featuring purple."
   },
   {
@@ -486,7 +580,11 @@
     "hint": "A white cross dividing the flag into four rectangles of blue and red, with a coat of arms in the center.",
     "image": "",
     "correctAnswer": "Dominican Republic",
-    "wrongAnswers": ["Panama", "Haiti", "Cuba"],
+    "wrongAnswers": [
+      "Panama",
+      "Haiti",
+      "Cuba"
+    ],
     "explanation": "The Dominican Republic's flag has a white cross creating four blue and red rectangles with a coat of arms at the center. Haiti's flag has blue and red horizontal halves."
   },
   {
@@ -496,7 +594,11 @@
     "hint": "A red field with a black triangle containing a yellow triangle at the hoist, and a white star within the black triangle.",
     "image": "",
     "correctAnswer": "East Timor",
-    "wrongAnswers": ["Mozambique", "Philippines", "Cuba"],
+    "wrongAnswers": [
+      "Mozambique",
+      "Philippines",
+      "Cuba"
+    ],
     "explanation": "East Timor's (Timor-Leste) flag is red with overlapping black and yellow triangles at the hoist and a white star. It represents the struggle for independence."
   },
   {
@@ -506,7 +608,11 @@
     "hint": "Three horizontal stripes — yellow (double width), blue, and red — with a coat of arms featuring a condor and a snow-capped mountain.",
     "image": "",
     "correctAnswer": "Ecuador",
-    "wrongAnswers": ["Colombia", "Venezuela", "Bolivia"],
+    "wrongAnswers": [
+      "Colombia",
+      "Venezuela",
+      "Bolivia"
+    ],
     "explanation": "Ecuador's flag has yellow, blue, and red stripes like Colombia, but includes a detailed coat of arms. Colombia's has no coat of arms; Venezuela adds stars in an arc."
   },
   {
@@ -516,7 +622,11 @@
     "hint": "Three horizontal stripes of red, white, and black with a golden eagle emblem in the center white stripe.",
     "image": "",
     "correctAnswer": "Egypt",
-    "wrongAnswers": ["Iraq", "Syria", "Yemen"],
+    "wrongAnswers": [
+      "Iraq",
+      "Syria",
+      "Yemen"
+    ],
     "explanation": "Egypt's flag has red, white, and black horizontal stripes with the golden Eagle of Saladin in the center. Iraq and Syria have similar tricolors but with different emblems."
   },
   {
@@ -526,7 +636,11 @@
     "hint": "Three horizontal stripes of blue, white, and blue with a coat of arms featuring a triangle with volcanoes in the center.",
     "image": "",
     "correctAnswer": "El Salvador",
-    "wrongAnswers": ["Honduras", "Nicaragua", "Argentina"],
+    "wrongAnswers": [
+      "Honduras",
+      "Nicaragua",
+      "Argentina"
+    ],
     "explanation": "El Salvador's flag has blue-white-blue stripes with a coat of arms showing five volcanoes. Nicaragua and Honduras have similar blue-white-blue patterns."
   },
   {
@@ -536,7 +650,11 @@
     "hint": "Three horizontal stripes of green, white, and red with a blue triangle on the left and a coat of arms featuring a silk-cotton tree in the center.",
     "image": "",
     "correctAnswer": "Equatorial Guinea",
-    "wrongAnswers": ["Madagascar", "Djibouti", "Comoros"],
+    "wrongAnswers": [
+      "Madagascar",
+      "Djibouti",
+      "Comoros"
+    ],
     "explanation": "Equatorial Guinea's flag has green, white, and red stripes with a blue triangle and a coat of arms showing a silk-cotton tree and six stars."
   },
   {
@@ -546,7 +664,11 @@
     "hint": "A red triangle on the left over blue (top) and green (bottom) halves, with a golden olive wreath and branch in the red triangle.",
     "image": "",
     "correctAnswer": "Eritrea",
-    "wrongAnswers": ["Djibouti", "Ethiopia", "Sudan"],
+    "wrongAnswers": [
+      "Djibouti",
+      "Ethiopia",
+      "Sudan"
+    ],
     "explanation": "Eritrea's flag has a red triangle at the hoist with blue and green fields and a golden olive wreath emblem. Djibouti has a similar layout but different colors."
   },
   {
@@ -556,7 +678,11 @@
     "hint": "Three horizontal stripes: blue on top, black in the middle, white on the bottom.",
     "image": "",
     "correctAnswer": "Estonia",
-    "wrongAnswers": ["Botswana", "Finland", "Greece"],
+    "wrongAnswers": [
+      "Botswana",
+      "Finland",
+      "Greece"
+    ],
     "explanation": "Estonia's flag has blue, black, and white horizontal stripes. The blue represents the sky and loyalty, black represents the soil and past suffering, and white represents purity."
   },
   {
@@ -566,7 +692,11 @@
     "hint": "Horizontal stripes of blue, yellow, red (with a black-and-white Nguni shield and spears), yellow, and blue.",
     "image": "",
     "correctAnswer": "Eswatini",
-    "wrongAnswers": ["Kenya", "Uganda", "South Africa"],
+    "wrongAnswers": [
+      "Kenya",
+      "Uganda",
+      "South Africa"
+    ],
     "explanation": "Eswatini's (Swaziland) flag features blue and yellow stripes framing a red center with a large Nguni shield and two spears, representing protection and tradition."
   },
   {
@@ -576,7 +706,11 @@
     "hint": "Three horizontal stripes of green, yellow, and red with a blue circle containing a yellow star in the center.",
     "image": "",
     "correctAnswer": "Ethiopia",
-    "wrongAnswers": ["Bolivia", "Ghana", "Cameroon"],
+    "wrongAnswers": [
+      "Bolivia",
+      "Ghana",
+      "Cameroon"
+    ],
     "explanation": "Ethiopia's flag has green, yellow, and red stripes with a blue disc and yellow pentagram. As one of the oldest African nations, its colors inspired many other African flags."
   },
   {
@@ -586,7 +720,11 @@
     "hint": "A light blue field with the Union Jack in the upper left and a shield featuring a lion and various crops on the right.",
     "image": "",
     "correctAnswer": "Fiji",
-    "wrongAnswers": ["Australia", "New Zealand", "Tuvalu"],
+    "wrongAnswers": [
+      "Australia",
+      "New Zealand",
+      "Tuvalu"
+    ],
     "explanation": "Fiji's flag is light blue with the Union Jack and a shield showing a lion holding a cocoa pod, along with sugarcane, coconuts, and bananas."
   },
   {
@@ -596,7 +734,11 @@
     "hint": "A white background with a blue Scandinavian cross offset to the left.",
     "image": "",
     "correctAnswer": "Finland",
-    "wrongAnswers": ["Sweden", "Estonia", "Greece"],
+    "wrongAnswers": [
+      "Sweden",
+      "Estonia",
+      "Greece"
+    ],
     "explanation": "Finland's flag is a blue Nordic cross on a white background. The blue represents the country's lakes and the white represents snow."
   },
   {
@@ -606,7 +748,11 @@
     "hint": "Three equal vertical stripes: blue, white, and red (left to right).",
     "image": "",
     "correctAnswer": "France",
-    "wrongAnswers": ["Netherlands", "Luxembourg", "Romania"],
+    "wrongAnswers": [
+      "Netherlands",
+      "Luxembourg",
+      "Romania"
+    ],
     "explanation": "France's tricolore has vertical blue, white, and red stripes. The Netherlands has horizontal red, white, and blue stripes. Romania has vertical blue, yellow, and red."
   },
   {
@@ -616,7 +762,11 @@
     "hint": "Three horizontal stripes of green, yellow, and blue of equal width.",
     "image": "",
     "correctAnswer": "Gabon",
-    "wrongAnswers": ["Sierra Leone", "Rwanda", "Bolivia"],
+    "wrongAnswers": [
+      "Sierra Leone",
+      "Rwanda",
+      "Bolivia"
+    ],
     "explanation": "Gabon's flag has green, yellow, and blue horizontal stripes. The green represents forests, yellow the equator and sun, and blue the sea."
   },
   {
@@ -626,18 +776,12 @@
     "hint": "Three horizontal stripes of red, blue, and green separated by thin white lines.",
     "image": "",
     "correctAnswer": "Gambia",
-    "wrongAnswers": ["Armenia", "Azerbaijan", "Russia"],
+    "wrongAnswers": [
+      "Armenia",
+      "Azerbaijan",
+      "Russia"
+    ],
     "explanation": "Gambia's flag has red, blue, and green stripes separated by narrow white stripes. The blue represents the Gambia River flowing through the country."
-  },
-  {
-    "id": "flags-georgia-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A white field with a large red cross and four smaller red crosses in each quadrant.",
-    "image": "",
-    "correctAnswer": "Georgia",
-    "wrongAnswers": ["Switzerland", "England", "Denmark"],
-    "explanation": "Georgia's flag (Five Cross Flag) has a large red St. George's cross with four smaller Bolnisi crosses in each white quadrant. It was adopted in 2004."
   },
   {
     "id": "flags-germany-01",
@@ -646,7 +790,11 @@
     "hint": "Three horizontal stripes: black on top, red in the middle, gold on the bottom.",
     "image": "",
     "correctAnswer": "Germany",
-    "wrongAnswers": ["Belgium", "Austria", "Spain"],
+    "wrongAnswers": [
+      "Belgium",
+      "Austria",
+      "Spain"
+    ],
     "explanation": "Germany's flag has horizontal black, red, and gold stripes. Belgium is similar but with vertical black, yellow, and red stripes."
   },
   {
@@ -656,7 +804,11 @@
     "hint": "Three horizontal stripes of red, gold, and green with a black five-pointed star in the center gold stripe.",
     "image": "",
     "correctAnswer": "Ghana",
-    "wrongAnswers": ["Bolivia", "Ethiopia", "Guinea"],
+    "wrongAnswers": [
+      "Bolivia",
+      "Ethiopia",
+      "Guinea"
+    ],
     "explanation": "Ghana's flag has red, gold, and green stripes with a black star (the 'Black Star of Africa') in the center. It was the first Sub-Saharan African country to gain independence."
   },
   {
@@ -666,7 +818,11 @@
     "hint": "Nine horizontal stripes alternating blue and white, with a white cross on a blue square in the upper left.",
     "image": "",
     "correctAnswer": "Greece",
-    "wrongAnswers": ["Uruguay", "Israel", "Finland"],
+    "wrongAnswers": [
+      "Uruguay",
+      "Israel",
+      "Finland"
+    ],
     "explanation": "Greece's flag has nine blue and white stripes with a blue canton bearing a white cross. Uruguay has a similar striped pattern but with a sun emblem."
   },
   {
@@ -676,7 +832,11 @@
     "hint": "A red border with yellow stars, enclosing diagonal green and yellow triangles, with a nutmeg symbol on the left and a star in the center.",
     "image": "",
     "correctAnswer": "Grenada",
-    "wrongAnswers": ["Dominica", "Saint Kitts and Nevis", "Jamaica"],
+    "wrongAnswers": [
+      "Dominica",
+      "Saint Kitts and Nevis",
+      "Jamaica"
+    ],
     "explanation": "Grenada's flag has a red border with stars, yellow and green triangles, and a nutmeg (the country's main export) on the hoist side. It is nicknamed the 'Isle of Spice'."
   },
   {
@@ -686,7 +846,11 @@
     "hint": "Three vertical stripes of light blue, white, and light blue with a coat of arms featuring a quetzal bird and crossed rifles in the center.",
     "image": "",
     "correctAnswer": "Guatemala",
-    "wrongAnswers": ["El Salvador", "Honduras", "Argentina"],
+    "wrongAnswers": [
+      "El Salvador",
+      "Honduras",
+      "Argentina"
+    ],
     "explanation": "Guatemala's flag has blue-white-blue vertical stripes with a coat of arms showing a quetzal bird, a scroll, and crossed rifles and swords."
   },
   {
@@ -696,7 +860,11 @@
     "hint": "Three vertical stripes of red, yellow, and green with no emblem or symbol.",
     "image": "",
     "correctAnswer": "Guinea",
-    "wrongAnswers": ["Mali", "Senegal", "Cameroon"],
+    "wrongAnswers": [
+      "Mali",
+      "Senegal",
+      "Cameroon"
+    ],
     "explanation": "Guinea's flag has red, yellow, and green vertical stripes. Mali has the same colors but in reverse order (green, gold, red) and with vertical stripes."
   },
   {
@@ -706,7 +874,11 @@
     "hint": "A red vertical stripe on the left with a black star, and yellow and green horizontal stripes on the right.",
     "image": "",
     "correctAnswer": "Guinea-Bissau",
-    "wrongAnswers": ["Ghana", "Senegal", "Benin"],
+    "wrongAnswers": [
+      "Ghana",
+      "Senegal",
+      "Benin"
+    ],
     "explanation": "Guinea-Bissau's flag has a red stripe with a black star at the hoist, and yellow and green horizontal stripes on the fly side, using Pan-African colors."
   },
   {
@@ -716,7 +888,11 @@
     "hint": "A green field with a red triangle bordered by black over a golden triangle bordered by white, creating an arrowhead shape pointing right.",
     "image": "",
     "correctAnswer": "Guyana",
-    "wrongAnswers": ["Jamaica", "Suriname", "Trinidad and Tobago"],
+    "wrongAnswers": [
+      "Jamaica",
+      "Suriname",
+      "Trinidad and Tobago"
+    ],
     "explanation": "Guyana's flag (the 'Golden Arrowhead') has a green background with a golden and red arrowhead design. The gold represents mineral wealth and the green represents agriculture."
   },
   {
@@ -726,7 +902,11 @@
     "hint": "Two horizontal stripes of blue and red with a white rectangle in the center containing a coat of arms with a palm tree and cannons.",
     "image": "",
     "correctAnswer": "Haiti",
-    "wrongAnswers": ["Liechtenstein", "Dominican Republic", "Cuba"],
+    "wrongAnswers": [
+      "Liechtenstein",
+      "Dominican Republic",
+      "Cuba"
+    ],
     "explanation": "Haiti's flag has blue and red horizontal stripes with a white panel bearing the coat of arms. The motto reads 'L'Union Fait La Force' (Unity Makes Strength)."
   },
   {
@@ -736,7 +916,11 @@
     "hint": "Three horizontal stripes of blue, white, and blue with five blue stars arranged in an X pattern on the white stripe.",
     "image": "",
     "correctAnswer": "Honduras",
-    "wrongAnswers": ["El Salvador", "Nicaragua", "Argentina"],
+    "wrongAnswers": [
+      "El Salvador",
+      "Nicaragua",
+      "Argentina"
+    ],
     "explanation": "Honduras' flag has blue-white-blue stripes with five blue stars representing the five nations of the former Federal Republic of Central America."
   },
   {
@@ -746,7 +930,11 @@
     "hint": "Three horizontal stripes: red on top, white in the middle, green on the bottom.",
     "image": "",
     "correctAnswer": "Hungary",
-    "wrongAnswers": ["Italy", "Bulgaria", "Iran"],
+    "wrongAnswers": [
+      "Italy",
+      "Bulgaria",
+      "Iran"
+    ],
     "explanation": "Hungary's flag has red, white, and green horizontal stripes. Italy uses the same colors but in vertical stripes (green, white, red)."
   },
   {
@@ -756,7 +944,11 @@
     "hint": "A blue field with a red Scandinavian cross outlined in white, offset to the left.",
     "image": "",
     "correctAnswer": "Iceland",
-    "wrongAnswers": ["Norway", "Denmark", "Finland"],
+    "wrongAnswers": [
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
     "explanation": "Iceland's flag is blue with a red Nordic cross fimbriated in white. Norway reverses this pattern (red field, blue cross with white edges)."
   },
   {
@@ -766,7 +958,11 @@
     "hint": "Three horizontal stripes (saffron, white, green) with a navy blue 24-spoke wheel in the center white stripe.",
     "image": "",
     "correctAnswer": "India",
-    "wrongAnswers": ["Ireland", "Niger", "Ivory Coast"],
+    "wrongAnswers": [
+      "Ireland",
+      "Niger",
+      "Ivory Coast"
+    ],
     "explanation": "India's flag has saffron, white, and green stripes with the Ashoka Chakra (24-spoke wheel) on the white stripe."
   },
   {
@@ -776,7 +972,11 @@
     "hint": "Simply two horizontal stripes: red on top, white on the bottom. No symbols or emblems.",
     "image": "",
     "correctAnswer": "Indonesia",
-    "wrongAnswers": ["Poland", "Monaco", "Singapore"],
+    "wrongAnswers": [
+      "Poland",
+      "Monaco",
+      "Singapore"
+    ],
     "explanation": "Indonesia's flag is red over white. Monaco's flag is identical in design but with slightly different proportions. Poland reverses it: white over red."
   },
   {
@@ -786,7 +986,11 @@
     "hint": "Three horizontal stripes of green, white, and red with a red emblem in the center and stylized script along the stripe edges.",
     "image": "",
     "correctAnswer": "Iran",
-    "wrongAnswers": ["Italy", "Hungary", "Tajikistan"],
+    "wrongAnswers": [
+      "Italy",
+      "Hungary",
+      "Tajikistan"
+    ],
     "explanation": "Iran's flag has green, white, and red stripes with a stylized Allah emblem in the center and 'Allahu Akbar' written along the edges of the stripes."
   },
   {
@@ -796,7 +1000,11 @@
     "hint": "Three horizontal stripes of red, white, and black with green Arabic script reading 'God is Great' on the white stripe.",
     "image": "",
     "correctAnswer": "Iraq",
-    "wrongAnswers": ["Egypt", "Syria", "Yemen"],
+    "wrongAnswers": [
+      "Egypt",
+      "Syria",
+      "Yemen"
+    ],
     "explanation": "Iraq's flag has red, white, and black stripes with 'Allahu Akbar' in green Kufic script on the white stripe. Egypt has a similar tricolor but with a golden eagle."
   },
   {
@@ -806,7 +1014,11 @@
     "hint": "Three equal vertical stripes: green, white, and orange (left to right).",
     "image": "",
     "correctAnswer": "Ireland",
-    "wrongAnswers": ["Italy", "Ivory Coast", "India"],
+    "wrongAnswers": [
+      "Italy",
+      "Ivory Coast",
+      "India"
+    ],
     "explanation": "Ireland's tricolour has green, white, and orange vertical stripes. Ivory Coast's flag reverses the order: orange, white, green."
   },
   {
@@ -816,7 +1028,11 @@
     "hint": "A white field with two horizontal blue stripes near the top and bottom and a blue Star of David in the center.",
     "image": "",
     "correctAnswer": "Israel",
-    "wrongAnswers": ["Greece", "Honduras", "Finland"],
+    "wrongAnswers": [
+      "Greece",
+      "Honduras",
+      "Finland"
+    ],
     "explanation": "Israel's flag has two blue stripes (inspired by the tallit prayer shawl) and a blue Star of David on a white background."
   },
   {
@@ -826,7 +1042,11 @@
     "hint": "Three equal vertical stripes: green, white, and red (left to right).",
     "image": "",
     "correctAnswer": "Italy",
-    "wrongAnswers": ["Ireland", "Mexico", "Hungary"],
+    "wrongAnswers": [
+      "Ireland",
+      "Mexico",
+      "Hungary"
+    ],
     "explanation": "Italy's flag has vertical green, white, and red stripes. Ireland is similar (green, white, orange) and Hungary has horizontal red, white, green stripes."
   },
   {
@@ -836,7 +1056,11 @@
     "hint": "Three equal vertical stripes: orange, white, and green (left to right). No emblem.",
     "image": "",
     "correctAnswer": "Ivory Coast",
-    "wrongAnswers": ["Ireland", "India", "Niger"],
+    "wrongAnswers": [
+      "Ireland",
+      "India",
+      "Niger"
+    ],
     "explanation": "Ivory Coast's (Cote d'Ivoire) flag has orange, white, and green vertical stripes — the mirror image of Ireland's green, white, and orange."
   },
   {
@@ -846,7 +1070,11 @@
     "hint": "A gold saltire (diagonal cross) dividing the flag into green (top and bottom) and black (left and right) triangles.",
     "image": "",
     "correctAnswer": "Jamaica",
-    "wrongAnswers": ["South Africa", "Guyana", "Tanzania"],
+    "wrongAnswers": [
+      "South Africa",
+      "Guyana",
+      "Tanzania"
+    ],
     "explanation": "Jamaica's flag has a gold X-shaped cross creating green and black triangles. It is the only national flag that does not contain red, white, or blue."
   },
   {
@@ -856,7 +1084,11 @@
     "hint": "A white flag with a single red circle (disc) in the center.",
     "image": "",
     "correctAnswer": "Japan",
-    "wrongAnswers": ["Bangladesh", "Palau", "South Korea"],
+    "wrongAnswers": [
+      "Bangladesh",
+      "Palau",
+      "South Korea"
+    ],
     "explanation": "Japan's flag features a crimson red disc on a white background, representing the rising sun. Bangladesh has a similar design but with a green background."
   },
   {
@@ -866,7 +1098,11 @@
     "hint": "Three horizontal stripes of black, white, and green with a red triangle on the left containing a white seven-pointed star.",
     "image": "",
     "correctAnswer": "Jordan",
-    "wrongAnswers": ["Palestine", "Sudan", "Kuwait"],
+    "wrongAnswers": [
+      "Palestine",
+      "Sudan",
+      "Kuwait"
+    ],
     "explanation": "Jordan's flag has black, white, and green stripes with a red chevron containing a seven-pointed star. Palestine's flag is similar but without the star."
   },
   {
@@ -876,7 +1112,11 @@
     "hint": "A sky blue field with a golden sun with 32 rays and a soaring golden eagle in the center, with a golden ornamental pattern on the left.",
     "image": "",
     "correctAnswer": "Kazakhstan",
-    "wrongAnswers": ["Uzbekistan", "Kyrgyzstan", "Turkmenistan"],
+    "wrongAnswers": [
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Turkmenistan"
+    ],
     "explanation": "Kazakhstan's flag is sky blue with a golden sun, steppe eagle, and national ornamental pattern. The blue represents the Turkic peoples' sky god Tengri."
   },
   {
@@ -886,7 +1126,11 @@
     "hint": "Three horizontal stripes of black, red, and green separated by white lines, with a Maasai shield and two crossed spears in the center.",
     "image": "",
     "correctAnswer": "Kenya",
-    "wrongAnswers": ["South Sudan", "Malawi", "Libya"],
+    "wrongAnswers": [
+      "South Sudan",
+      "Malawi",
+      "Libya"
+    ],
     "explanation": "Kenya's flag has black, red, and green stripes with white fimbriations and a Maasai shield with spears in the center, representing defense of freedom."
   },
   {
@@ -896,7 +1140,11 @@
     "hint": "A red upper half with a golden frigatebird flying over a golden rising sun, and a blue lower half with three white wavy lines.",
     "image": "",
     "correctAnswer": "Kiribati",
-    "wrongAnswers": ["Marshall Islands", "Tuvalu", "Nauru"],
+    "wrongAnswers": [
+      "Marshall Islands",
+      "Tuvalu",
+      "Nauru"
+    ],
     "explanation": "Kiribati's flag has a frigatebird and sun over blue and white waves, derived from the colony's coat of arms. The bird represents freedom and the waves represent the Pacific Ocean."
   },
   {
@@ -906,7 +1154,11 @@
     "hint": "Horizontal stripes of blue, red (wider), and blue separated by thin white lines, with a white circle containing a red star on the left of the red stripe.",
     "image": "",
     "correctAnswer": "North Korea",
-    "wrongAnswers": ["South Korea", "Cuba", "Laos"],
+    "wrongAnswers": [
+      "South Korea",
+      "Cuba",
+      "Laos"
+    ],
     "explanation": "North Korea's flag has blue-white-red-white-blue horizontal bands with a white disc bearing a red star on the wide red center stripe."
   },
   {
@@ -916,18 +1168,12 @@
     "hint": "A white background with a red-and-blue yin-yang symbol in the center, surrounded by four groups of black trigrams in the corners.",
     "image": "",
     "correctAnswer": "South Korea",
-    "wrongAnswers": ["Japan", "North Korea", "Taiwan"],
+    "wrongAnswers": [
+      "Japan",
+      "North Korea",
+      "Taiwan"
+    ],
     "explanation": "South Korea's Taegukgi features a red-and-blue taeguk symbol on white, with four black trigrams representing heaven, earth, water, and fire."
-  },
-  {
-    "id": "flags-kosovo-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A blue field with a gold map of the territory in the center and six white stars in an arc above it.",
-    "image": "",
-    "correctAnswer": "Kosovo",
-    "wrongAnswers": ["Bosnia and Herzegovina", "European Union", "Cyprus"],
-    "explanation": "Kosovo's flag has a blue background with a gold outline of the territory and six white stars representing its six major ethnic groups."
   },
   {
     "id": "flags-kuwait-01",
@@ -936,7 +1182,11 @@
     "hint": "Three horizontal stripes of green, white, and red with a black trapezoid on the left side.",
     "image": "",
     "correctAnswer": "Kuwait",
-    "wrongAnswers": ["Jordan", "Palestine", "United Arab Emirates"],
+    "wrongAnswers": [
+      "Jordan",
+      "Palestine",
+      "United Arab Emirates"
+    ],
     "explanation": "Kuwait's flag has green, white, and red stripes with a black trapezoid at the hoist. The four colors represent pan-Arab unity."
   },
   {
@@ -946,7 +1196,11 @@
     "hint": "A red field with a yellow sun containing a stylized depiction of a yurt's roof (tunduk) in the center, surrounded by 40 rays.",
     "image": "",
     "correctAnswer": "Kyrgyzstan",
-    "wrongAnswers": ["Kazakhstan", "Japan", "Bangladesh"],
+    "wrongAnswers": [
+      "Kazakhstan",
+      "Japan",
+      "Bangladesh"
+    ],
     "explanation": "Kyrgyzstan's flag is red with a yellow sun containing a tunduk (the crown of a yurt). The 40 sun rays represent the 40 tribes united by the hero Manas."
   },
   {
@@ -956,7 +1210,11 @@
     "hint": "Three horizontal stripes — red, blue (wider), and red — with a white circle in the center of the blue stripe.",
     "image": "",
     "correctAnswer": "Laos",
-    "wrongAnswers": ["Cambodia", "Thailand", "Myanmar"],
+    "wrongAnswers": [
+      "Cambodia",
+      "Thailand",
+      "Myanmar"
+    ],
     "explanation": "Laos' flag has red and blue stripes with a white disc representing the moon over the Mekong River. It is one of the few communist flags without a star."
   },
   {
@@ -966,7 +1224,11 @@
     "hint": "A maroon (dark red) field with a narrow white horizontal stripe through the center.",
     "image": "",
     "correctAnswer": "Latvia",
-    "wrongAnswers": ["Austria", "Indonesia", "Peru"],
+    "wrongAnswers": [
+      "Austria",
+      "Indonesia",
+      "Peru"
+    ],
     "explanation": "Latvia's flag is distinctive maroon (carmine) with a thin white horizontal stripe. The dark red is said to come from a legend about a wounded Latvian chief."
   },
   {
@@ -976,7 +1238,11 @@
     "hint": "Three horizontal stripes — red, white (wider), red — with a green cedar tree in the center of the white stripe.",
     "image": "",
     "correctAnswer": "Lebanon",
-    "wrongAnswers": ["Austria", "Canada", "Peru"],
+    "wrongAnswers": [
+      "Austria",
+      "Canada",
+      "Peru"
+    ],
     "explanation": "Lebanon's flag has red and white stripes with a green cedar of Lebanon tree in the center. The cedar is the country's national symbol."
   },
   {
@@ -986,7 +1252,11 @@
     "hint": "Three horizontal stripes of blue, white, and green with a black Basotho hat (mokorotlo) in the center white stripe.",
     "image": "",
     "correctAnswer": "Lesotho",
-    "wrongAnswers": ["Sierra Leone", "Uzbekistan", "Botswana"],
+    "wrongAnswers": [
+      "Sierra Leone",
+      "Uzbekistan",
+      "Botswana"
+    ],
     "explanation": "Lesotho's flag features a black mokorotlo (Basotho hat) on white between blue and green stripes, symbolizing peace, rain, and prosperity."
   },
   {
@@ -996,7 +1266,11 @@
     "hint": "Eleven alternating red and white horizontal stripes with a blue square in the upper left containing a single white star.",
     "image": "",
     "correctAnswer": "Liberia",
-    "wrongAnswers": ["United States", "Malaysia", "Chile"],
+    "wrongAnswers": [
+      "United States",
+      "Malaysia",
+      "Chile"
+    ],
     "explanation": "Liberia's flag closely resembles the US flag but has only one star and eleven stripes. It was founded by freed American slaves."
   },
   {
@@ -1006,7 +1280,11 @@
     "hint": "Three horizontal stripes of red, black (wider), and green with a white crescent and star in the center of the black stripe.",
     "image": "",
     "correctAnswer": "Libya",
-    "wrongAnswers": ["Egypt", "Sudan", "Kenya"],
+    "wrongAnswers": [
+      "Egypt",
+      "Sudan",
+      "Kenya"
+    ],
     "explanation": "Libya's flag has red, black, and green stripes with a white crescent and star. The flag was readopted after the 2011 revolution, replacing Gaddafi's plain green flag."
   },
   {
@@ -1016,7 +1294,11 @@
     "hint": "Two horizontal stripes of blue and red with a golden crown in the upper left corner.",
     "image": "",
     "correctAnswer": "Liechtenstein",
-    "wrongAnswers": ["Haiti", "Luxembourg", "Netherlands"],
+    "wrongAnswers": [
+      "Haiti",
+      "Luxembourg",
+      "Netherlands"
+    ],
     "explanation": "Liechtenstein's flag has blue and red horizontal stripes with a gold princely crown in the canton. The crown was added in 1937 after confusion with Haiti's flag at the Olympics."
   },
   {
@@ -1026,7 +1308,11 @@
     "hint": "Three horizontal stripes: yellow on top, green in the middle, red on the bottom.",
     "image": "",
     "correctAnswer": "Lithuania",
-    "wrongAnswers": ["Bolivia", "Ethiopia", "Myanmar"],
+    "wrongAnswers": [
+      "Bolivia",
+      "Ethiopia",
+      "Myanmar"
+    ],
     "explanation": "Lithuania's flag has yellow, green, and red horizontal stripes. The yellow represents golden fields, green the forests, and red the blood of patriots."
   },
   {
@@ -1036,7 +1322,11 @@
     "hint": "Three horizontal stripes: red, white, and light blue. Very similar to another European flag but with a lighter shade of blue.",
     "image": "",
     "correctAnswer": "Luxembourg",
-    "wrongAnswers": ["Netherlands", "France", "Russia"],
+    "wrongAnswers": [
+      "Netherlands",
+      "France",
+      "Russia"
+    ],
     "explanation": "Luxembourg's flag has red, white, and light blue horizontal stripes. It is very similar to the Netherlands flag but uses a lighter (sky) blue."
   },
   {
@@ -1046,7 +1336,11 @@
     "hint": "A white vertical stripe on the left and two horizontal stripes of red and green on the right.",
     "image": "",
     "correctAnswer": "Madagascar",
-    "wrongAnswers": ["Italy", "Ivory Coast", "Indonesia"],
+    "wrongAnswers": [
+      "Italy",
+      "Ivory Coast",
+      "Indonesia"
+    ],
     "explanation": "Madagascar's flag has a white vertical stripe at the hoist with red and green horizontal stripes. The colors represent sovereignty, hope, and the island's Merina kingdom."
   },
   {
@@ -1056,7 +1350,11 @@
     "hint": "Three horizontal stripes of black, red, and green with a red rising sun with 31 rays on the black stripe.",
     "image": "",
     "correctAnswer": "Malawi",
-    "wrongAnswers": ["Kenya", "Libya", "Afghanistan"],
+    "wrongAnswers": [
+      "Kenya",
+      "Libya",
+      "Afghanistan"
+    ],
     "explanation": "Malawi's flag has black, red, and green stripes with a rising sun on the top stripe representing the dawn of hope and freedom for Africa."
   },
   {
@@ -1066,7 +1364,11 @@
     "hint": "Fourteen alternating red and white horizontal stripes with a dark blue canton containing a yellow crescent and a 14-pointed star.",
     "image": "",
     "correctAnswer": "Malaysia",
-    "wrongAnswers": ["United States", "Liberia", "Turkey"],
+    "wrongAnswers": [
+      "United States",
+      "Liberia",
+      "Turkey"
+    ],
     "explanation": "Malaysia's flag (Jalur Gemilang) has 14 red and white stripes and a blue canton with a crescent and 14-pointed star. The 14 stripes represent the 13 states and federal government."
   },
   {
@@ -1076,7 +1378,11 @@
     "hint": "A red border surrounding a green rectangle with a white crescent in the center.",
     "image": "",
     "correctAnswer": "Maldives",
-    "wrongAnswers": ["Pakistan", "Turkey", "Libya"],
+    "wrongAnswers": [
+      "Pakistan",
+      "Turkey",
+      "Libya"
+    ],
     "explanation": "The Maldives' flag has a red field with a green rectangle bearing a white crescent. The green represents peace and the crescent represents Islam."
   },
   {
@@ -1086,7 +1392,11 @@
     "hint": "Three vertical stripes of green, gold (yellow), and red with no emblem.",
     "image": "",
     "correctAnswer": "Mali",
-    "wrongAnswers": ["Guinea", "Senegal", "Cameroon"],
+    "wrongAnswers": [
+      "Guinea",
+      "Senegal",
+      "Cameroon"
+    ],
     "explanation": "Mali's flag has green, gold, and red vertical stripes — the reverse of Guinea's red, yellow, green. Both use Pan-African colors."
   },
   {
@@ -1096,7 +1406,11 @@
     "hint": "Two vertical halves — white on the left, red on the right — with a gray George Cross outlined in red in the upper left corner.",
     "image": "",
     "correctAnswer": "Malta",
-    "wrongAnswers": ["Poland", "Indonesia", "Monaco"],
+    "wrongAnswers": [
+      "Poland",
+      "Indonesia",
+      "Monaco"
+    ],
     "explanation": "Malta's flag is white and red with a George Cross (awarded by King George VI in 1942) in the upper-left corner."
   },
   {
@@ -1106,7 +1420,11 @@
     "hint": "A blue field with two diagonal stripes (orange and white) running from lower left to upper right, and a large white star in the upper left.",
     "image": "",
     "correctAnswer": "Marshall Islands",
-    "wrongAnswers": ["Nauru", "Palau", "Micronesia"],
+    "wrongAnswers": [
+      "Nauru",
+      "Palau",
+      "Micronesia"
+    ],
     "explanation": "The Marshall Islands' flag is blue with orange and white diagonal bands and a 24-pointed white star. The star's points represent the municipalities."
   },
   {
@@ -1116,7 +1434,11 @@
     "hint": "A green field with a gold crescent and star in the center, and red stripes at the top and bottom.",
     "image": "",
     "correctAnswer": "Mauritania",
-    "wrongAnswers": ["Pakistan", "Algeria", "Libya"],
+    "wrongAnswers": [
+      "Pakistan",
+      "Algeria",
+      "Libya"
+    ],
     "explanation": "Mauritania's flag is green with a gold crescent and star (representing Islam) and red top and bottom stripes (added in 2017 to honor those who shed blood for the nation)."
   },
   {
@@ -1126,7 +1448,11 @@
     "hint": "Four horizontal stripes of red, blue, yellow, and green of equal width.",
     "image": "",
     "correctAnswer": "Mauritius",
-    "wrongAnswers": ["Seychelles", "Comoros", "Gabon"],
+    "wrongAnswers": [
+      "Seychelles",
+      "Comoros",
+      "Gabon"
+    ],
     "explanation": "Mauritius' flag has four horizontal stripes: red (sacrifice), blue (Indian Ocean), yellow (independence light), and green (agriculture). It's one of few flags with four equal stripes."
   },
   {
@@ -1136,18 +1462,12 @@
     "hint": "Three vertical stripes (green, white, red) with a coat of arms featuring an eagle on a cactus eating a snake in the center.",
     "image": "",
     "correctAnswer": "Mexico",
-    "wrongAnswers": ["Italy", "Hungary", "Iran"],
+    "wrongAnswers": [
+      "Italy",
+      "Hungary",
+      "Iran"
+    ],
     "explanation": "Mexico's flag has green-white-red vertical stripes with the coat of arms — an eagle on a prickly pear cactus devouring a serpent."
-  },
-  {
-    "id": "flags-micronesia-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A light blue field with four white five-pointed stars arranged in a diamond pattern.",
-    "image": "",
-    "correctAnswer": "Micronesia",
-    "wrongAnswers": ["Palau", "Somalia", "European Union"],
-    "explanation": "Micronesia's flag is UN blue with four white stars representing its four states: Yap, Chuuk, Pohnpei, and Kosrae."
   },
   {
     "id": "flags-moldova-01",
@@ -1156,7 +1476,11 @@
     "hint": "Three vertical stripes of blue, yellow, and red with a coat of arms featuring an eagle holding a shield with an aurochs head.",
     "image": "",
     "correctAnswer": "Moldova",
-    "wrongAnswers": ["Romania", "Chad", "Andorra"],
+    "wrongAnswers": [
+      "Romania",
+      "Chad",
+      "Andorra"
+    ],
     "explanation": "Moldova's flag has blue, yellow, and red vertical stripes like Romania's, but with a coat of arms showing an eagle and aurochs head in the center."
   },
   {
@@ -1166,7 +1490,11 @@
     "hint": "Two horizontal stripes: red on top and white on the bottom. Almost identical to another Southeast Asian flag.",
     "image": "",
     "correctAnswer": "Monaco",
-    "wrongAnswers": ["Indonesia", "Poland", "Singapore"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Poland",
+      "Singapore"
+    ],
     "explanation": "Monaco's flag is red over white, virtually identical to Indonesia's flag but with different official proportions. Poland is the reverse: white over red."
   },
   {
@@ -1176,7 +1504,11 @@
     "hint": "Three vertical stripes of red, blue, and red with a golden Soyombo symbol on the left red stripe.",
     "image": "",
     "correctAnswer": "Mongolia",
-    "wrongAnswers": ["Cambodia", "China", "Kyrgyzstan"],
+    "wrongAnswers": [
+      "Cambodia",
+      "China",
+      "Kyrgyzstan"
+    ],
     "explanation": "Mongolia's flag has red-blue-red vertical stripes with the golden Soyombo symbol (fire, sun, moon, yin-yang, triangles, and rectangles) in the hoist stripe."
   },
   {
@@ -1186,7 +1518,11 @@
     "hint": "A red field with a gold border and a gold double-headed eagle with a shield featuring a lion on its chest.",
     "image": "",
     "correctAnswer": "Montenegro",
-    "wrongAnswers": ["Albania", "Serbia", "North Macedonia"],
+    "wrongAnswers": [
+      "Albania",
+      "Serbia",
+      "North Macedonia"
+    ],
     "explanation": "Montenegro's flag is red with a gold border and a gold two-headed eagle bearing a shield with a golden lion. Albania also has a two-headed eagle but in black on plain red."
   },
   {
@@ -1196,7 +1532,11 @@
     "hint": "A red field with a green five-pointed star (pentacle) outlined in the center.",
     "image": "",
     "correctAnswer": "Morocco",
-    "wrongAnswers": ["Turkey", "Tunisia", "Vietnam"],
+    "wrongAnswers": [
+      "Turkey",
+      "Tunisia",
+      "Vietnam"
+    ],
     "explanation": "Morocco's flag is red with a green outlined five-pointed star (the Seal of Solomon). The green star distinguishes it from other red flags with crescents."
   },
   {
@@ -1206,7 +1546,11 @@
     "hint": "Three horizontal stripes of green, black, and yellow separated by white lines, with a red triangle on the left containing a yellow star, an open book, a hoe, and an AK-47.",
     "image": "",
     "correctAnswer": "Mozambique",
-    "wrongAnswers": ["Angola", "Zimbabwe", "Kenya"],
+    "wrongAnswers": [
+      "Angola",
+      "Zimbabwe",
+      "Kenya"
+    ],
     "explanation": "Mozambique's flag uniquely features an AK-47 rifle in its emblem along with a hoe and book on a red triangle, representing defense, agriculture, and education."
   },
   {
@@ -1216,7 +1560,11 @@
     "hint": "Three horizontal stripes of yellow, green, and red with a large white five-pointed star in the center.",
     "image": "",
     "correctAnswer": "Myanmar",
-    "wrongAnswers": ["Lithuania", "Ghana", "Bolivia"],
+    "wrongAnswers": [
+      "Lithuania",
+      "Ghana",
+      "Bolivia"
+    ],
     "explanation": "Myanmar's flag has yellow, green, and red horizontal stripes with a large white star in the center, adopted in 2010 to replace the socialist-era flag."
   },
   {
@@ -1226,7 +1574,11 @@
     "hint": "A diagonal design with blue (upper left) and green (lower right) triangles separated by a red diagonal stripe bordered in white, with a gold sun in the upper left.",
     "image": "",
     "correctAnswer": "Namibia",
-    "wrongAnswers": ["Tanzania", "South Africa", "Democratic Republic of the Congo"],
+    "wrongAnswers": [
+      "Tanzania",
+      "South Africa",
+      "Democratic Republic of the Congo"
+    ],
     "explanation": "Namibia's flag has blue and green triangles divided by a red-white diagonal stripe with a gold 12-rayed sun in the upper corner, representing life and energy."
   },
   {
@@ -1236,7 +1588,11 @@
     "hint": "A dark blue field with a thin gold horizontal stripe through the middle and a white 12-pointed star below the stripe on the left side.",
     "image": "",
     "correctAnswer": "Nauru",
-    "wrongAnswers": ["Marshall Islands", "Palau", "Micronesia"],
+    "wrongAnswers": [
+      "Marshall Islands",
+      "Palau",
+      "Micronesia"
+    ],
     "explanation": "Nauru's flag is blue with a gold line representing the equator and a white 12-pointed star representing the island's 12 original tribes, positioned just south of the equator line."
   },
   {
@@ -1246,7 +1602,11 @@
     "hint": "The only non-rectangular national flag — two stacked red triangular pennants with blue borders featuring a white moon and sun symbol.",
     "image": "",
     "correctAnswer": "Nepal",
-    "wrongAnswers": ["Bhutan", "Sri Lanka", "India"],
+    "wrongAnswers": [
+      "Bhutan",
+      "Sri Lanka",
+      "India"
+    ],
     "explanation": "Nepal's flag is the world's only non-rectangular national flag, consisting of two stacked triangles with a crescent moon and sun. The unique shape represents the Himalayas."
   },
   {
@@ -1256,7 +1616,11 @@
     "hint": "Three horizontal stripes: red on top, white in the middle, blue on the bottom.",
     "image": "",
     "correctAnswer": "Netherlands",
-    "wrongAnswers": ["France", "Luxembourg", "Russia"],
+    "wrongAnswers": [
+      "France",
+      "Luxembourg",
+      "Russia"
+    ],
     "explanation": "The Netherlands' flag has horizontal red, white, and blue stripes. Luxembourg is similar but with a lighter blue."
   },
   {
@@ -1266,7 +1630,11 @@
     "hint": "A blue field with the Union Jack in the upper left and four red stars with white borders forming a constellation on the right.",
     "image": "",
     "correctAnswer": "New Zealand",
-    "wrongAnswers": ["Australia", "United Kingdom", "Fiji"],
+    "wrongAnswers": [
+      "Australia",
+      "United Kingdom",
+      "Fiji"
+    ],
     "explanation": "New Zealand's flag is blue with the Union Jack and four red stars (with white borders) of the Southern Cross. Australia has five white stars and a Commonwealth Star."
   },
   {
@@ -1276,7 +1644,11 @@
     "hint": "Three horizontal stripes of blue, white, and blue with a triangular coat of arms featuring a rainbow and five volcanoes in the center.",
     "image": "",
     "correctAnswer": "Nicaragua",
-    "wrongAnswers": ["Honduras", "El Salvador", "Argentina"],
+    "wrongAnswers": [
+      "Honduras",
+      "El Salvador",
+      "Argentina"
+    ],
     "explanation": "Nicaragua's flag has blue-white-blue stripes with a coat of arms showing a rainbow over five volcanoes. Honduras and El Salvador have similar blue-white-blue designs."
   },
   {
@@ -1286,7 +1658,11 @@
     "hint": "Three horizontal stripes of orange, white, and green with a small orange circle in the center of the white stripe.",
     "image": "",
     "correctAnswer": "Niger",
-    "wrongAnswers": ["India", "Ireland", "Ivory Coast"],
+    "wrongAnswers": [
+      "India",
+      "Ireland",
+      "Ivory Coast"
+    ],
     "explanation": "Niger's flag has orange, white, and green stripes with an orange roundel. India has similar colors but with saffron instead of orange and a blue Ashoka Chakra wheel."
   },
   {
@@ -1296,7 +1672,11 @@
     "hint": "Three vertical stripes: green, white, and green. A simple design with no emblem.",
     "image": "",
     "correctAnswer": "Nigeria",
-    "wrongAnswers": ["Pakistan", "Italy", "Ivory Coast"],
+    "wrongAnswers": [
+      "Pakistan",
+      "Italy",
+      "Ivory Coast"
+    ],
     "explanation": "Nigeria's flag has green-white-green vertical stripes. The green represents agriculture and the white represents peace."
   },
   {
@@ -1306,7 +1686,11 @@
     "hint": "A red field with a golden-yellow sun in the center, with eight broadening rays extending to the edges of the flag.",
     "image": "",
     "correctAnswer": "North Macedonia",
-    "wrongAnswers": ["Japan", "Kyrgyzstan", "Kazakhstan"],
+    "wrongAnswers": [
+      "Japan",
+      "Kyrgyzstan",
+      "Kazakhstan"
+    ],
     "explanation": "North Macedonia's flag has a stylized yellow sun with eight rays on a red background. The design replaced the controversial Vergina Star in 1995."
   },
   {
@@ -1316,7 +1700,11 @@
     "hint": "A red background with a blue Scandinavian cross outlined in white, offset to the left.",
     "image": "",
     "correctAnswer": "Norway",
-    "wrongAnswers": ["Iceland", "Denmark", "Finland"],
+    "wrongAnswers": [
+      "Iceland",
+      "Denmark",
+      "Finland"
+    ],
     "explanation": "Norway's flag has a blue Nordic cross with white borders on red. Iceland reverses this: blue background with a red cross outlined in white."
   },
   {
@@ -1326,7 +1714,11 @@
     "hint": "Three horizontal stripes of white, red, and green with a red vertical bar on the left containing the national emblem of a dagger and two swords.",
     "image": "",
     "correctAnswer": "Oman",
-    "wrongAnswers": ["Iran", "Kuwait", "United Arab Emirates"],
+    "wrongAnswers": [
+      "Iran",
+      "Kuwait",
+      "United Arab Emirates"
+    ],
     "explanation": "Oman's flag has white, red, and green stripes with a red bar at the hoist bearing the national emblem (khanjar dagger and two crossed swords)."
   },
   {
@@ -1336,7 +1728,11 @@
     "hint": "A dark green field with a white vertical stripe on the left, and a white crescent moon and five-pointed star on the green portion.",
     "image": "",
     "correctAnswer": "Pakistan",
-    "wrongAnswers": ["Algeria", "Turkey", "Libya"],
+    "wrongAnswers": [
+      "Algeria",
+      "Turkey",
+      "Libya"
+    ],
     "explanation": "Pakistan's flag is dark green with a white stripe at the hoist and a white crescent and star on the green section. The white stripe represents religious minorities."
   },
   {
@@ -1346,7 +1742,11 @@
     "hint": "A light blue field with a large yellow circle slightly off-center to the left.",
     "image": "",
     "correctAnswer": "Palau",
-    "wrongAnswers": ["Bangladesh", "Japan", "Micronesia"],
+    "wrongAnswers": [
+      "Bangladesh",
+      "Japan",
+      "Micronesia"
+    ],
     "explanation": "Palau's flag is light blue with a golden yellow disc, representing the moon. Like Bangladesh and Japan, it features a simple circle on a plain background."
   },
   {
@@ -1356,7 +1756,11 @@
     "hint": "Three horizontal stripes of black, white, and green with a red triangle on the left side.",
     "image": "",
     "correctAnswer": "Palestine",
-    "wrongAnswers": ["Jordan", "Sudan", "Kuwait"],
+    "wrongAnswers": [
+      "Jordan",
+      "Sudan",
+      "Kuwait"
+    ],
     "explanation": "Palestine's flag has black, white, and green stripes with a red triangle at the hoist. Jordan's flag is very similar but includes a white seven-pointed star in the triangle."
   },
   {
@@ -1366,7 +1770,11 @@
     "hint": "Four rectangles — white with blue star (upper left), red (upper right), blue (lower left), white with red star (lower right).",
     "image": "",
     "correctAnswer": "Panama",
-    "wrongAnswers": ["Chile", "Cuba", "Dominican Republic"],
+    "wrongAnswers": [
+      "Chile",
+      "Cuba",
+      "Dominican Republic"
+    ],
     "explanation": "Panama's flag has four quarters: white with a blue star, plain red, plain blue, and white with a red star. The colors represent the two political parties."
   },
   {
@@ -1376,7 +1784,11 @@
     "hint": "Divided diagonally — black upper triangle with white stars (Southern Cross) and red lower triangle with a yellow bird of paradise.",
     "image": "",
     "correctAnswer": "Papua New Guinea",
-    "wrongAnswers": ["Trinidad and Tobago", "Angola", "Albania"],
+    "wrongAnswers": [
+      "Trinidad and Tobago",
+      "Angola",
+      "Albania"
+    ],
     "explanation": "Papua New Guinea's flag is divided diagonally with the Southern Cross on black and a yellow bird of paradise on red."
   },
   {
@@ -1386,7 +1798,11 @@
     "hint": "Three horizontal stripes of red, white, and blue with different emblems on the front and back — the only national flag with different designs on each side.",
     "image": "",
     "correctAnswer": "Paraguay",
-    "wrongAnswers": ["Netherlands", "Luxembourg", "Croatia"],
+    "wrongAnswers": [
+      "Netherlands",
+      "Luxembourg",
+      "Croatia"
+    ],
     "explanation": "Paraguay's flag has red, white, and blue horizontal stripes. It is unique in having different emblems on each side — the national coat of arms on front and treasury seal on back."
   },
   {
@@ -1396,18 +1812,12 @@
     "hint": "Three vertical stripes: red, white, and red with no emblem on the civil flag.",
     "image": "",
     "correctAnswer": "Peru",
-    "wrongAnswers": ["Canada", "Austria", "Latvia"],
+    "wrongAnswers": [
+      "Canada",
+      "Austria",
+      "Latvia"
+    ],
     "explanation": "Peru's civil flag has red-white-red vertical stripes. The state flag adds a coat of arms. Austria has similar colors but in horizontal red-white-red stripes."
-  },
-  {
-    "id": "flags-philippines-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "Two horizontal stripes of blue and red with a white triangle on the left containing a golden sun with eight rays and three stars.",
-    "image": "",
-    "correctAnswer": "Philippines",
-    "wrongAnswers": ["Czech Republic", "Cuba", "Puerto Rico"],
-    "explanation": "The Philippines' flag has blue and red stripes with a white triangle bearing a gold sun and three stars. When flown with red on top, it signals a state of war."
   },
   {
     "id": "flags-poland-01",
@@ -1416,7 +1826,11 @@
     "hint": "Two horizontal stripes: white on top, red on the bottom. No symbols or emblems.",
     "image": "",
     "correctAnswer": "Poland",
-    "wrongAnswers": ["Indonesia", "Monaco", "Singapore"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Monaco",
+      "Singapore"
+    ],
     "explanation": "Poland's flag is white over red, the inverse of Indonesia's red over white."
   },
   {
@@ -1426,7 +1840,11 @@
     "hint": "Two vertical sections — green on the left (smaller) and red on the right (larger) — with a coat of arms at the dividing line featuring an armillary sphere and shield.",
     "image": "",
     "correctAnswer": "Portugal",
-    "wrongAnswers": ["Bangladesh", "Cameroon", "Italy"],
+    "wrongAnswers": [
+      "Bangladesh",
+      "Cameroon",
+      "Italy"
+    ],
     "explanation": "Portugal's flag has an asymmetric green-red division with the coat of arms (armillary sphere and Portuguese shield) at the boundary."
   },
   {
@@ -1436,7 +1854,11 @@
     "hint": "A maroon field with a broad white serrated band with nine points on the left side. The flag is notably wider than most.",
     "image": "",
     "correctAnswer": "Qatar",
-    "wrongAnswers": ["Bahrain", "United Arab Emirates", "Saudi Arabia"],
+    "wrongAnswers": [
+      "Bahrain",
+      "United Arab Emirates",
+      "Saudi Arabia"
+    ],
     "explanation": "Qatar's flag is maroon with a white serrated band (9 points) and is the only national flag wider than it is long. Bahrain is similar but red with 5 points."
   },
   {
@@ -1446,7 +1868,11 @@
     "hint": "Three vertical stripes of blue, yellow, and red with no emblem. Almost identical to another African country's flag.",
     "image": "",
     "correctAnswer": "Romania",
-    "wrongAnswers": ["Chad", "Moldova", "Andorra"],
+    "wrongAnswers": [
+      "Chad",
+      "Moldova",
+      "Andorra"
+    ],
     "explanation": "Romania's flag has blue, yellow, and red vertical stripes, nearly identical to Chad's. The main difference is Romania uses a slightly lighter (cobalt) blue."
   },
   {
@@ -1456,7 +1882,11 @@
     "hint": "Three horizontal stripes: white on top, blue in the middle, red on the bottom.",
     "image": "",
     "correctAnswer": "Russia",
-    "wrongAnswers": ["Netherlands", "France", "Luxembourg"],
+    "wrongAnswers": [
+      "Netherlands",
+      "France",
+      "Luxembourg"
+    ],
     "explanation": "Russia's flag has white, blue, and red horizontal stripes. The Netherlands has similar colors but in reverse order (red, white, blue)."
   },
   {
@@ -1466,7 +1896,11 @@
     "hint": "Three horizontal stripes — blue (wide), yellow (narrow), and green — with a golden sun with 24 rays in the upper right corner of the blue stripe.",
     "image": "",
     "correctAnswer": "Rwanda",
-    "wrongAnswers": ["Ukraine", "Gabon", "Sierra Leone"],
+    "wrongAnswers": [
+      "Ukraine",
+      "Gabon",
+      "Sierra Leone"
+    ],
     "explanation": "Rwanda's flag has a wide blue stripe, narrow yellow, and green stripe with a golden sun in the upper right. It was adopted in 2001 to promote unity after the genocide."
   },
   {
@@ -1476,7 +1910,11 @@
     "hint": "A diagonal design with green (upper left) and red (lower right) triangles separated by a black band with yellow borders containing two white stars.",
     "image": "",
     "correctAnswer": "Saint Kitts and Nevis",
-    "wrongAnswers": ["Jamaica", "Guyana", "South Africa"],
+    "wrongAnswers": [
+      "Jamaica",
+      "Guyana",
+      "South Africa"
+    ],
     "explanation": "Saint Kitts and Nevis' flag has green and red triangles with a black diagonal band bearing two white stars representing the two islands."
   },
   {
@@ -1486,7 +1924,11 @@
     "hint": "A blue field with a large triangle made of black and white triangles representing a mountain, with a golden triangle at the base.",
     "image": "",
     "correctAnswer": "Saint Lucia",
-    "wrongAnswers": ["Bahamas", "Barbados", "Dominica"],
+    "wrongAnswers": [
+      "Bahamas",
+      "Barbados",
+      "Dominica"
+    ],
     "explanation": "Saint Lucia's flag is light blue with a stylized golden and black triangle representing the Pitons, the island's twin volcanic peaks."
   },
   {
@@ -1496,7 +1938,11 @@
     "hint": "Three vertical stripes of blue, gold, and green with three green diamonds arranged in a V pattern on the gold center stripe.",
     "image": "",
     "correctAnswer": "Saint Vincent and the Grenadines",
-    "wrongAnswers": ["Barbados", "Dominica", "Grenada"],
+    "wrongAnswers": [
+      "Barbados",
+      "Dominica",
+      "Grenada"
+    ],
     "explanation": "Saint Vincent and the Grenadines' flag has blue, gold, and green stripes with three green diamonds in a V formation, earning it the nickname 'Gems of the Antilles'."
   },
   {
@@ -1506,7 +1952,11 @@
     "hint": "A red field with a blue rectangle in the upper left corner containing five white stars forming the Southern Cross.",
     "image": "",
     "correctAnswer": "Samoa",
-    "wrongAnswers": ["New Zealand", "Australia", "Tonga"],
+    "wrongAnswers": [
+      "New Zealand",
+      "Australia",
+      "Tonga"
+    ],
     "explanation": "Samoa's flag is red with a blue canton bearing five white stars of the Southern Cross. New Zealand and Australia have similar constellations but on blue backgrounds."
   },
   {
@@ -1516,7 +1966,11 @@
     "hint": "Two horizontal stripes of white and light blue with a coat of arms featuring three towers on three peaks in the center.",
     "image": "",
     "correctAnswer": "San Marino",
-    "wrongAnswers": ["Argentina", "Honduras", "El Salvador"],
+    "wrongAnswers": [
+      "Argentina",
+      "Honduras",
+      "El Salvador"
+    ],
     "explanation": "San Marino's flag has white and light blue stripes with a coat of arms showing three towers (Guaita, Cesta, and Montale) on Monte Titano."
   },
   {
@@ -1526,7 +1980,11 @@
     "hint": "Three horizontal stripes of green, yellow (wider), and green with a red triangle on the left and two black stars on the yellow stripe.",
     "image": "",
     "correctAnswer": "Sao Tome and Principe",
-    "wrongAnswers": ["Ghana", "Cameroon", "Ethiopia"],
+    "wrongAnswers": [
+      "Ghana",
+      "Cameroon",
+      "Ethiopia"
+    ],
     "explanation": "Sao Tome and Principe's flag has green-yellow-green stripes with a red triangle and two black stars on the yellow stripe representing the two islands."
   },
   {
@@ -1536,7 +1994,11 @@
     "hint": "A green field with white Arabic script (the shahada) and a white sword below the text.",
     "image": "",
     "correctAnswer": "Saudi Arabia",
-    "wrongAnswers": ["Libya", "Pakistan", "Iran"],
+    "wrongAnswers": [
+      "Libya",
+      "Pakistan",
+      "Iran"
+    ],
     "explanation": "Saudi Arabia's flag is green with the Islamic declaration of faith in white Arabic calligraphy and a white sword. It is never flown at half-mast due to its sacred text."
   },
   {
@@ -1546,7 +2008,11 @@
     "hint": "Three vertical stripes of green, yellow, and red with a green five-pointed star in the center of the yellow stripe.",
     "image": "",
     "correctAnswer": "Senegal",
-    "wrongAnswers": ["Mali", "Cameroon", "Guinea"],
+    "wrongAnswers": [
+      "Mali",
+      "Cameroon",
+      "Guinea"
+    ],
     "explanation": "Senegal's flag has green, yellow, and red vertical stripes with a green star on the yellow center stripe. Mali has the same stripes but no star."
   },
   {
@@ -1556,7 +2022,11 @@
     "hint": "Three horizontal stripes of red, blue, and white with a coat of arms featuring a double-headed eagle and crown, offset toward the left.",
     "image": "",
     "correctAnswer": "Serbia",
-    "wrongAnswers": ["Russia", "Croatia", "Slovakia"],
+    "wrongAnswers": [
+      "Russia",
+      "Croatia",
+      "Slovakia"
+    ],
     "explanation": "Serbia's flag has red, blue, and white stripes with a coat of arms (double-headed eagle with a crown) placed slightly left of center."
   },
   {
@@ -1566,7 +2036,11 @@
     "hint": "Five oblique bands of blue, yellow, red, white, and green radiating from the lower left corner.",
     "image": "",
     "correctAnswer": "Seychelles",
-    "wrongAnswers": ["Mauritius", "South Africa", "Comoros"],
+    "wrongAnswers": [
+      "Mauritius",
+      "South Africa",
+      "Comoros"
+    ],
     "explanation": "Seychelles' flag has five diverging bands of color (blue, yellow, red, white, green) fanning out from the bottom-left, symbolizing the country moving into the future."
   },
   {
@@ -1576,7 +2050,11 @@
     "hint": "Three horizontal stripes of green, white, and blue with no emblem.",
     "image": "",
     "correctAnswer": "Sierra Leone",
-    "wrongAnswers": ["Gabon", "Uzbekistan", "Lesotho"],
+    "wrongAnswers": [
+      "Gabon",
+      "Uzbekistan",
+      "Lesotho"
+    ],
     "explanation": "Sierra Leone's flag has green, white, and blue horizontal stripes representing agriculture, unity/justice, and the Atlantic Ocean harbor."
   },
   {
@@ -1586,7 +2064,11 @@
     "hint": "Two horizontal stripes of red and white with a white crescent moon and five white stars in a circle in the upper left.",
     "image": "",
     "correctAnswer": "Singapore",
-    "wrongAnswers": ["Indonesia", "Turkey", "Malaysia"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Turkey",
+      "Malaysia"
+    ],
     "explanation": "Singapore's flag has red and white stripes with a crescent and five stars (representing democracy, peace, progress, justice, equality) in the canton."
   },
   {
@@ -1596,7 +2078,11 @@
     "hint": "Three horizontal stripes of white, blue, and red with a coat of arms featuring a double cross on three hills on the left side.",
     "image": "",
     "correctAnswer": "Slovakia",
-    "wrongAnswers": ["Slovenia", "Russia", "Serbia"],
+    "wrongAnswers": [
+      "Slovenia",
+      "Russia",
+      "Serbia"
+    ],
     "explanation": "Slovakia's flag has white, blue, and red stripes with a shield showing a patriarchal (double) cross on three blue hills, representing the Tatra, Fatra, and Matra mountains."
   },
   {
@@ -1606,7 +2092,11 @@
     "hint": "Three horizontal stripes of white, blue, and red with a coat of arms featuring a mountain with three peaks and two wavy lines in the upper left.",
     "image": "",
     "correctAnswer": "Slovenia",
-    "wrongAnswers": ["Slovakia", "Russia", "Croatia"],
+    "wrongAnswers": [
+      "Slovakia",
+      "Russia",
+      "Croatia"
+    ],
     "explanation": "Slovenia's flag has white, blue, and red stripes with a coat of arms showing Mount Triglav and two wavy lines (rivers) in the upper-left corner."
   },
   {
@@ -1616,18 +2106,12 @@
     "hint": "Divided diagonally — blue upper triangle and green lower triangle separated by a thin yellow diagonal stripe, with five white stars in the blue triangle.",
     "image": "",
     "correctAnswer": "Solomon Islands",
-    "wrongAnswers": ["Papua New Guinea", "Vanuatu", "Fiji"],
+    "wrongAnswers": [
+      "Papua New Guinea",
+      "Vanuatu",
+      "Fiji"
+    ],
     "explanation": "The Solomon Islands' flag has blue and green triangles divided by a yellow stripe, with five white stars representing the country's five main island groups."
-  },
-  {
-    "id": "flags-somalia-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A light blue field with a single white five-pointed star in the center.",
-    "image": "",
-    "correctAnswer": "Somalia",
-    "wrongAnswers": ["Micronesia", "European Union", "Palau"],
-    "explanation": "Somalia's flag is light blue with a single white five-pointed star. The five points represent the five regions where Somalis traditionally live."
   },
   {
     "id": "flags-south-africa-01",
@@ -1636,7 +2120,11 @@
     "hint": "A green Y-shaped band (pall) edged in white and gold, separating sections of red (top), blue (bottom), and black (left).",
     "image": "",
     "correctAnswer": "South Africa",
-    "wrongAnswers": ["Kenya", "Tanzania", "Vanuatu"],
+    "wrongAnswers": [
+      "Kenya",
+      "Tanzania",
+      "Vanuatu"
+    ],
     "explanation": "South Africa's flag features a distinctive horizontal Y-shape (pall) in green, white, and gold, with red, blue, and black sections. Adopted in 1994 for the new democratic era."
   },
   {
@@ -1646,18 +2134,12 @@
     "hint": "Three horizontal stripes of black, red, and green separated by white lines, with a blue triangle on the left containing a gold star.",
     "image": "",
     "correctAnswer": "South Sudan",
-    "wrongAnswers": ["Kenya", "Sudan", "Palestine"],
+    "wrongAnswers": [
+      "Kenya",
+      "Sudan",
+      "Palestine"
+    ],
     "explanation": "South Sudan's flag has black, red, and green stripes with white fimbriations and a blue triangle with a gold star. Adopted upon independence in 2011, the world's newest country."
-  },
-  {
-    "id": "flags-spain-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "Three horizontal stripes: red (narrow), yellow (wide), red (narrow) with a coat of arms on the left side of the yellow stripe.",
-    "image": "",
-    "correctAnswer": "Spain",
-    "wrongAnswers": ["Catalonia", "Macedonia", "Vietnam"],
-    "explanation": "Spain's flag has red-yellow-red horizontal stripes with the yellow band twice as wide. The coat of arms features the royal seal with the Pillars of Hercules."
   },
   {
     "id": "flags-sri-lanka-01",
@@ -1666,7 +2148,11 @@
     "hint": "A gold-bordered flag with a maroon rectangle containing a golden lion holding a sword, and green and orange vertical stripes on the left.",
     "image": "",
     "correctAnswer": "Sri Lanka",
-    "wrongAnswers": ["Bhutan", "Cambodia", "Nepal"],
+    "wrongAnswers": [
+      "Bhutan",
+      "Cambodia",
+      "Nepal"
+    ],
     "explanation": "Sri Lanka's flag features a golden lion holding a sword (the Lion Flag) on maroon, with green and orange stripes representing minority communities."
   },
   {
@@ -1676,7 +2162,11 @@
     "hint": "Three horizontal stripes of red, white, and black with a green triangle on the left side.",
     "image": "",
     "correctAnswer": "Sudan",
-    "wrongAnswers": ["Palestine", "Jordan", "Kuwait"],
+    "wrongAnswers": [
+      "Palestine",
+      "Jordan",
+      "Kuwait"
+    ],
     "explanation": "Sudan's flag has red, white, and black stripes with a green triangle at the hoist, using Pan-Arab colors. Palestine has similar stripes but with a red (not green) triangle."
   },
   {
@@ -1686,7 +2176,11 @@
     "hint": "Five horizontal stripes of green, white, red (wider), white, and green with a yellow five-pointed star in the center of the red stripe.",
     "image": "",
     "correctAnswer": "Suriname",
-    "wrongAnswers": ["Guyana", "Togo", "Ghana"],
+    "wrongAnswers": [
+      "Guyana",
+      "Togo",
+      "Ghana"
+    ],
     "explanation": "Suriname's flag has green-white-red-white-green stripes with a yellow star on the wide red center stripe, representing unity and a golden future."
   },
   {
@@ -1696,7 +2190,11 @@
     "hint": "A blue background with a yellow (gold) Scandinavian cross offset to the left.",
     "image": "",
     "correctAnswer": "Sweden",
-    "wrongAnswers": ["Finland", "Norway", "Denmark"],
+    "wrongAnswers": [
+      "Finland",
+      "Norway",
+      "Denmark"
+    ],
     "explanation": "Sweden's flag features a golden-yellow Nordic cross on a blue background."
   },
   {
@@ -1706,7 +2204,11 @@
     "hint": "A white cross on a red square background — one of only two square sovereign-state flags in the world.",
     "image": "",
     "correctAnswer": "Switzerland",
-    "wrongAnswers": ["Denmark", "Austria", "Tonga"],
+    "wrongAnswers": [
+      "Denmark",
+      "Austria",
+      "Tonga"
+    ],
     "explanation": "Switzerland's flag is a white cross on a red square. It is one of two square national flags (the other being Vatican City). The Red Cross symbol is its color-inverse."
   },
   {
@@ -1716,7 +2218,11 @@
     "hint": "Three horizontal stripes of red, white, and black with two green five-pointed stars on the white stripe.",
     "image": "",
     "correctAnswer": "Syria",
-    "wrongAnswers": ["Iraq", "Egypt", "Yemen"],
+    "wrongAnswers": [
+      "Iraq",
+      "Egypt",
+      "Yemen"
+    ],
     "explanation": "Syria's flag has red, white, and black stripes with two green stars on the white stripe. Iraq has similar colors but with Arabic script instead of stars."
   },
   {
@@ -1726,7 +2232,11 @@
     "hint": "A red field with a blue rectangle in the upper left containing a white sun with 12 triangular rays.",
     "image": "",
     "correctAnswer": "Taiwan",
-    "wrongAnswers": ["China", "Myanmar", "Samoa"],
+    "wrongAnswers": [
+      "China",
+      "Myanmar",
+      "Samoa"
+    ],
     "explanation": "Taiwan's flag (Republic of China) is red with a blue canton bearing a white sun with 12 rays representing the twelve months and traditional Chinese hours."
   },
   {
@@ -1736,7 +2246,11 @@
     "hint": "Three horizontal stripes of red, white (wider), and green with a golden crown topped by seven stars in the center of the white stripe.",
     "image": "",
     "correctAnswer": "Tajikistan",
-    "wrongAnswers": ["Iran", "Hungary", "Uzbekistan"],
+    "wrongAnswers": [
+      "Iran",
+      "Hungary",
+      "Uzbekistan"
+    ],
     "explanation": "Tajikistan's flag has red, white, and green stripes with a crown and seven stars emblem. The seven stars represent the country's regions and the number seven's significance in Tajik culture."
   },
   {
@@ -1746,7 +2260,11 @@
     "hint": "A diagonal black stripe bordered by yellow running from lower left to upper right, with green in the upper triangle and blue in the lower triangle.",
     "image": "",
     "correctAnswer": "Tanzania",
-    "wrongAnswers": ["Namibia", "South Africa", "Jamaica"],
+    "wrongAnswers": [
+      "Namibia",
+      "South Africa",
+      "Jamaica"
+    ],
     "explanation": "Tanzania's flag has green and blue triangles separated by a yellow-bordered black diagonal stripe. The design combines elements from the former flags of Tanganyika and Zanzibar."
   },
   {
@@ -1756,7 +2274,11 @@
     "hint": "Five horizontal stripes in a symmetric pattern: red, white, blue (double width), white, red.",
     "image": "",
     "correctAnswer": "Thailand",
-    "wrongAnswers": ["Costa Rica", "North Korea", "Cambodia"],
+    "wrongAnswers": [
+      "Costa Rica",
+      "North Korea",
+      "Cambodia"
+    ],
     "explanation": "Thailand's flag (Trairanga) has red-white-blue-white-red stripes with the blue stripe twice as wide. The colors represent nation, religion, and monarchy."
   },
   {
@@ -1766,18 +2288,12 @@
     "hint": "Five alternating green and yellow horizontal stripes with a red square in the upper left containing a white five-pointed star.",
     "image": "",
     "correctAnswer": "Togo",
-    "wrongAnswers": ["Ghana", "Liberia", "Guinea-Bissau"],
+    "wrongAnswers": [
+      "Ghana",
+      "Liberia",
+      "Guinea-Bissau"
+    ],
     "explanation": "Togo's flag has five green and yellow stripes with a red canton bearing a white star. The five stripes represent the country's five regions."
-  },
-  {
-    "id": "flags-tonga-01",
-    "category": "flags",
-    "question": "Which country does this flag belong to?",
-    "hint": "A red field with a white rectangle in the upper left containing a red cross.",
-    "image": "",
-    "correctAnswer": "Tonga",
-    "wrongAnswers": ["Switzerland", "Georgia", "England"],
-    "explanation": "Tonga's flag is red with a white canton bearing a red cross, reflecting the nation's strong Christian heritage."
   },
   {
     "id": "flags-trinidad-and-tobago-01",
@@ -1786,7 +2302,11 @@
     "hint": "A red field with a diagonal black stripe bordered by white running from upper left to lower right.",
     "image": "",
     "correctAnswer": "Trinidad and Tobago",
-    "wrongAnswers": ["Jamaica", "Guyana", "Tanzania"],
+    "wrongAnswers": [
+      "Jamaica",
+      "Guyana",
+      "Tanzania"
+    ],
     "explanation": "Trinidad and Tobago's flag is red with a white-bordered black diagonal stripe. The red represents fire and courage, black represents dedication, and white represents the sea."
   },
   {
@@ -1796,7 +2316,11 @@
     "hint": "A red field with a white circle in the center containing a red crescent encircling a red five-pointed star.",
     "image": "",
     "correctAnswer": "Tunisia",
-    "wrongAnswers": ["Turkey", "Morocco", "Algeria"],
+    "wrongAnswers": [
+      "Turkey",
+      "Morocco",
+      "Algeria"
+    ],
     "explanation": "Tunisia's flag is red with a white disc bearing a red crescent and star. Turkey's is similar but without the white disc."
   },
   {
@@ -1806,7 +2330,11 @@
     "hint": "A red background with a white crescent moon and a white five-pointed star.",
     "image": "",
     "correctAnswer": "Turkey",
-    "wrongAnswers": ["Tunisia", "Algeria", "Pakistan"],
+    "wrongAnswers": [
+      "Tunisia",
+      "Algeria",
+      "Pakistan"
+    ],
     "explanation": "Turkey's flag features a white crescent and star on red. Tunisia is similar but has the crescent and star inside a white disc."
   },
   {
@@ -1816,7 +2344,11 @@
     "hint": "A green field with a vertical stripe of five carpet gul designs near the hoist, and a white crescent and five stars in the upper portion.",
     "image": "",
     "correctAnswer": "Turkmenistan",
-    "wrongAnswers": ["Uzbekistan", "Pakistan", "Saudi Arabia"],
+    "wrongAnswers": [
+      "Uzbekistan",
+      "Pakistan",
+      "Saudi Arabia"
+    ],
     "explanation": "Turkmenistan's flag is green with a vertical carpet-pattern stripe and a crescent with five stars. The carpet designs represent the five main tribes."
   },
   {
@@ -1826,7 +2358,11 @@
     "hint": "A light blue field with the Union Jack in the upper left and nine yellow stars on the right side arranged in the shape of the island chain.",
     "image": "",
     "correctAnswer": "Tuvalu",
-    "wrongAnswers": ["Fiji", "Australia", "New Zealand"],
+    "wrongAnswers": [
+      "Fiji",
+      "Australia",
+      "New Zealand"
+    ],
     "explanation": "Tuvalu's flag is light blue with the Union Jack and nine yellow stars arranged to represent the geographic positions of Tuvalu's nine islands."
   },
   {
@@ -1836,7 +2372,11 @@
     "hint": "Six horizontal stripes of black, yellow, and red (repeated twice) with a white circle in the center containing a grey crowned crane.",
     "image": "",
     "correctAnswer": "Uganda",
-    "wrongAnswers": ["Kenya", "Germany", "Belgium"],
+    "wrongAnswers": [
+      "Kenya",
+      "Germany",
+      "Belgium"
+    ],
     "explanation": "Uganda's flag has six alternating black, yellow, and red stripes with a white disc containing a grey crowned crane, the national bird."
   },
   {
@@ -1846,7 +2386,11 @@
     "hint": "Two horizontal stripes: blue on top and yellow on the bottom. A simple but distinctive design.",
     "image": "",
     "correctAnswer": "Ukraine",
-    "wrongAnswers": ["Sweden", "Palau", "Rwanda"],
+    "wrongAnswers": [
+      "Sweden",
+      "Palau",
+      "Rwanda"
+    ],
     "explanation": "Ukraine's flag is a simple blue over yellow bicolor, representing the sky over wheat fields. Sweden uses similar colors but with a cross design."
   },
   {
@@ -1856,7 +2400,11 @@
     "hint": "A red vertical bar on the left with three horizontal stripes of green, white, and black on the right.",
     "image": "",
     "correctAnswer": "United Arab Emirates",
-    "wrongAnswers": ["Kuwait", "Jordan", "Palestine"],
+    "wrongAnswers": [
+      "Kuwait",
+      "Jordan",
+      "Palestine"
+    ],
     "explanation": "The UAE's flag has a red vertical bar at the hoist with green, white, and black horizontal stripes using the four Pan-Arab colors."
   },
   {
@@ -1866,7 +2414,11 @@
     "hint": "A combination of red and white crosses and diagonals on a blue background — the Union Jack.",
     "image": "",
     "correctAnswer": "United Kingdom",
-    "wrongAnswers": ["Australia", "New Zealand", "Iceland"],
+    "wrongAnswers": [
+      "Australia",
+      "New Zealand",
+      "Iceland"
+    ],
     "explanation": "The Union Jack combines the crosses of St George (England), St Andrew (Scotland), and St Patrick (Ireland)."
   },
   {
@@ -1876,7 +2428,11 @@
     "hint": "Thirteen alternating red and white horizontal stripes with a blue canton containing fifty white stars.",
     "image": "",
     "correctAnswer": "United States",
-    "wrongAnswers": ["Liberia", "Malaysia", "Cuba"],
+    "wrongAnswers": [
+      "Liberia",
+      "Malaysia",
+      "Cuba"
+    ],
     "explanation": "The US flag has 13 stripes (original colonies) and 50 stars (current states). Liberia and Malaysia have similar designs inspired by the American flag."
   },
   {
@@ -1886,7 +2442,11 @@
     "hint": "Nine alternating white and blue horizontal stripes with a white square in the upper left containing a golden Sun of May.",
     "image": "",
     "correctAnswer": "Uruguay",
-    "wrongAnswers": ["Argentina", "Greece", "Israel"],
+    "wrongAnswers": [
+      "Argentina",
+      "Greece",
+      "Israel"
+    ],
     "explanation": "Uruguay's flag has nine blue and white stripes with the Sun of May in a white canton. Argentina also has the Sun of May but on light blue and white stripes."
   },
   {
@@ -1896,7 +2456,11 @@
     "hint": "Three horizontal stripes of blue, white, and green separated by thin red lines, with a white crescent and twelve stars in the blue stripe.",
     "image": "",
     "correctAnswer": "Uzbekistan",
-    "wrongAnswers": ["Turkmenistan", "Kazakhstan", "Tajikistan"],
+    "wrongAnswers": [
+      "Turkmenistan",
+      "Kazakhstan",
+      "Tajikistan"
+    ],
     "explanation": "Uzbekistan's flag has blue, white, and green stripes with thin red fimbriations and a crescent with 12 stars (representing months) in the blue stripe."
   },
   {
@@ -1906,7 +2470,11 @@
     "hint": "A red and green field separated by a black triangle outlined in yellow, with a yellow boar's tusk encircling two crossed fern fronds in the black area.",
     "image": "",
     "correctAnswer": "Vanuatu",
-    "wrongAnswers": ["Papua New Guinea", "Solomon Islands", "Fiji"],
+    "wrongAnswers": [
+      "Papua New Guinea",
+      "Solomon Islands",
+      "Fiji"
+    ],
     "explanation": "Vanuatu's flag has red and green halves with a black triangle bearing a yellow boar's tusk emblem (a symbol of prosperity) encircling two crossed namele fern fronds."
   },
   {
@@ -1916,7 +2484,11 @@
     "hint": "Two vertical stripes of yellow and white with the papal coat of arms (crossed keys and triple crown) on the white stripe. One of only two square national flags.",
     "image": "",
     "correctAnswer": "Vatican City",
-    "wrongAnswers": ["Switzerland", "San Marino", "Malta"],
+    "wrongAnswers": [
+      "Switzerland",
+      "San Marino",
+      "Malta"
+    ],
     "explanation": "Vatican City's flag is yellow and white with the papal tiara and crossed keys of Saint Peter. Like Switzerland's, it is a square flag."
   },
   {
@@ -1926,7 +2498,11 @@
     "hint": "Three horizontal stripes of yellow, blue, and red with an arc of eight white stars in the center of the blue stripe.",
     "image": "",
     "correctAnswer": "Venezuela",
-    "wrongAnswers": ["Colombia", "Ecuador", "Bolivia"],
+    "wrongAnswers": [
+      "Colombia",
+      "Ecuador",
+      "Bolivia"
+    ],
     "explanation": "Venezuela's flag has yellow, blue, and red stripes with eight white stars in an arc on the blue stripe. Colombia and Ecuador share the same basic tricolor."
   },
   {
@@ -1936,7 +2512,11 @@
     "hint": "A red field with a large yellow five-pointed star in the center.",
     "image": "",
     "correctAnswer": "Vietnam",
-    "wrongAnswers": ["China", "Morocco", "Turkey"],
+    "wrongAnswers": [
+      "China",
+      "Morocco",
+      "Turkey"
+    ],
     "explanation": "Vietnam's flag is red with a single large yellow star. China also has a red flag with yellow stars but has five stars (one large and four small)."
   },
   {
@@ -1946,7 +2526,11 @@
     "hint": "Three horizontal stripes of red, white, and black with no emblem or symbols.",
     "image": "",
     "correctAnswer": "Yemen",
-    "wrongAnswers": ["Egypt", "Iraq", "Syria"],
+    "wrongAnswers": [
+      "Egypt",
+      "Iraq",
+      "Syria"
+    ],
     "explanation": "Yemen's flag has plain red, white, and black horizontal stripes with no emblem. Egypt, Iraq, and Syria use the same colors but each adds an emblem."
   },
   {
@@ -1956,7 +2540,11 @@
     "hint": "A green field with three vertical stripes of red, black, and orange in the lower right corner, topped by an orange eagle in flight.",
     "image": "",
     "correctAnswer": "Zambia",
-    "wrongAnswers": ["Zimbabwe", "Tanzania", "Kenya"],
+    "wrongAnswers": [
+      "Zimbabwe",
+      "Tanzania",
+      "Kenya"
+    ],
     "explanation": "Zambia's flag is green with colored stripes and an orange African fish eagle in the lower-right corner, representing the country's freedom and ability to rise above problems."
   },
   {
@@ -1966,7 +2554,11 @@
     "hint": "Seven horizontal stripes of green, gold, red, black, red, gold, and green with a white triangle on the left containing a red star and a Zimbabwe bird.",
     "image": "",
     "correctAnswer": "Zimbabwe",
-    "wrongAnswers": ["Zambia", "Mozambique", "South Africa"],
+    "wrongAnswers": [
+      "Zambia",
+      "Mozambique",
+      "South Africa"
+    ],
     "explanation": "Zimbabwe's flag has seven stripes with a white triangle bearing a red star and the Zimbabwe Bird (from Great Zimbabwe ruins). The bird also appears on its currency."
   }
 ]

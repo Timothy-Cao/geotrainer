@@ -4,9 +4,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Shaped like a high-heeled boot kicking a ball.",
-    "image": "",
+    "image": "/shapes/italy.svg",
     "correctAnswer": "Italy",
-    "wrongAnswers": ["Greece", "Croatia", "Portugal"],
+    "wrongAnswers": [
+      "Greece",
+      "Croatia",
+      "Portugal"
+    ],
     "explanation": "Italy's iconic boot shape extends into the Mediterranean, with Sicily at its toe and Sardinia to the west."
   },
   {
@@ -14,9 +18,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "An archipelago of four main islands forming a curved chain off East Asia.",
-    "image": "",
+    "image": "/shapes/japan.svg",
     "correctAnswer": "Japan",
-    "wrongAnswers": ["Philippines", "Indonesia", "New Zealand"],
+    "wrongAnswers": [
+      "Philippines",
+      "Indonesia",
+      "New Zealand"
+    ],
     "explanation": "Japan's four main islands — Hokkaido, Honshu, Shikoku, and Kyushu — form a distinctive curved arc along the Pacific."
   },
   {
@@ -24,9 +32,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "An extremely long, narrow strip running north-south along a western coast.",
-    "image": "",
+    "image": "/shapes/chile.svg",
     "correctAnswer": "Chile",
-    "wrongAnswers": ["Argentina", "Peru", "Norway"],
+    "wrongAnswers": [
+      "Argentina",
+      "Peru",
+      "Norway"
+    ],
     "explanation": "Chile stretches over 4,300 km along South America's Pacific coast but averages only 177 km wide, squeezed between the Andes and the ocean."
   },
   {
@@ -34,9 +46,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A massive island continent with a distinctive bite taken out of the south coast.",
-    "image": "",
+    "image": "/shapes/australia.svg",
     "correctAnswer": "Australia",
-    "wrongAnswers": ["Brazil", "India", "Greenland"],
+    "wrongAnswers": [
+      "Brazil",
+      "India",
+      "Greenland"
+    ],
     "explanation": "Australia is the only country that is also a continent, recognizable by the Great Australian Bight indentation on its southern coast."
   },
   {
@@ -44,9 +60,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large triangular peninsula pointing south into the Indian Ocean.",
-    "image": "",
+    "image": "/shapes/india.svg",
     "correctAnswer": "India",
-    "wrongAnswers": ["Pakistan", "Saudi Arabia", "Myanmar"],
+    "wrongAnswers": [
+      "Pakistan",
+      "Saudi Arabia",
+      "Myanmar"
+    ],
     "explanation": "India's distinctive inverted triangle shape forms the Indian subcontinent, flanked by the Arabian Sea and the Bay of Bengal."
   },
   {
@@ -54,9 +74,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly hexagonal shape in Western Europe.",
-    "image": "",
+    "image": "/shapes/france.svg",
     "correctAnswer": "France",
-    "wrongAnswers": ["Spain", "Germany", "Poland"],
+    "wrongAnswers": [
+      "Spain",
+      "Germany",
+      "Poland"
+    ],
     "explanation": "France is often called 'l'Hexagone' due to its roughly six-sided shape, bordered by the Atlantic, Mediterranean, English Channel, and several mountain ranges."
   },
   {
@@ -64,9 +88,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The largest country in South America with a distinctive bulge on its eastern coast.",
-    "image": "",
+    "image": "/shapes/brazil.svg",
     "correctAnswer": "Brazil",
-    "wrongAnswers": ["Argentina", "Colombia", "Peru"],
+    "wrongAnswers": [
+      "Argentina",
+      "Colombia",
+      "Peru"
+    ],
     "explanation": "Brazil's shape features a prominent eastward bulge into the Atlantic Ocean, making it the closest point in South America to Africa."
   },
   {
@@ -74,9 +102,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "An island nation with a jagged coastline off the northwest coast of Europe.",
-    "image": "",
+    "image": "/shapes/united-kingdom.svg",
     "correctAnswer": "United Kingdom",
-    "wrongAnswers": ["Ireland", "Iceland", "Denmark"],
+    "wrongAnswers": [
+      "Ireland",
+      "Iceland",
+      "Denmark"
+    ],
     "explanation": "The United Kingdom's shape shows Great Britain's distinctive profile — broader Scotland in the north, narrowing through England toward the southeast."
   },
   {
@@ -84,9 +116,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large Central European country, broader in the south and narrowing toward the north coast.",
-    "image": "",
+    "image": "/shapes/germany.svg",
     "correctAnswer": "Germany",
-    "wrongAnswers": ["Poland", "France", "Czech Republic"],
+    "wrongAnswers": [
+      "Poland",
+      "France",
+      "Czech Republic"
+    ],
     "explanation": "Germany's shape is wider in the south (Bavaria) and tapers toward the North Sea and Baltic Sea coastlines."
   },
   {
@@ -94,9 +130,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The world's largest country, spanning from Eastern Europe across all of northern Asia.",
-    "image": "",
+    "image": "/shapes/russia.svg",
     "correctAnswer": "Russia",
-    "wrongAnswers": ["Canada", "China", "Kazakhstan"],
+    "wrongAnswers": [
+      "Canada",
+      "China",
+      "Kazakhstan"
+    ],
     "explanation": "Russia's enormous east-west span across 11 time zones makes it instantly recognizable, stretching from the Baltic Sea to the Pacific Ocean."
   },
   {
@@ -104,9 +144,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A massive country with an extremely jagged northern coastline and many Arctic islands.",
-    "image": "",
+    "image": "/shapes/canada.svg",
     "correctAnswer": "Canada",
-    "wrongAnswers": ["Russia", "United States", "Greenland"],
+    "wrongAnswers": [
+      "Russia",
+      "United States",
+      "Greenland"
+    ],
     "explanation": "Canada's shape features a vast Arctic archipelago in the north, Hudson Bay as a prominent inland sea, and a long southern border with the US."
   },
   {
@@ -114,9 +158,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A wide country spanning from the Atlantic to the Pacific with a distinctive rectangular interior.",
-    "image": "",
+    "image": "/shapes/united-states.svg",
     "correctAnswer": "United States",
-    "wrongAnswers": ["Canada", "Mexico", "Brazil"],
+    "wrongAnswers": [
+      "Canada",
+      "Mexico",
+      "Brazil"
+    ],
     "explanation": "The contiguous United States has a recognizable shape with Florida's peninsula in the southeast and the irregular northeastern coastline."
   },
   {
@@ -124,9 +172,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A horn-shaped country between the Pacific and the Gulf, narrowing toward the southeast.",
-    "image": "",
+    "image": "/shapes/mexico.svg",
     "correctAnswer": "Mexico",
-    "wrongAnswers": ["Colombia", "Venezuela", "Guatemala"],
+    "wrongAnswers": [
+      "Colombia",
+      "Venezuela",
+      "Guatemala"
+    ],
     "explanation": "Mexico's shape resembles a curved horn, wider in the north and tapering toward the Yucatan Peninsula in the southeast."
   },
   {
@@ -134,9 +186,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A vast East Asian country sometimes said to resemble a rooster.",
-    "image": "",
+    "image": "/shapes/china.svg",
     "correctAnswer": "China",
-    "wrongAnswers": ["India", "Mongolia", "Kazakhstan"],
+    "wrongAnswers": [
+      "India",
+      "Mongolia",
+      "Kazakhstan"
+    ],
     "explanation": "China's shape is often compared to a rooster, with the northeastern provinces as the head and the western regions forming the tail."
   },
   {
@@ -144,9 +200,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Occupies most of a large peninsula in southwestern Europe, roughly square-shaped.",
-    "image": "",
+    "image": "/shapes/spain.svg",
     "correctAnswer": "Spain",
-    "wrongAnswers": ["Portugal", "France", "Italy"],
+    "wrongAnswers": [
+      "Portugal",
+      "France",
+      "Italy"
+    ],
     "explanation": "Spain occupies about 85% of the Iberian Peninsula and has a compact, roughly rectangular shape with Portugal occupying the western strip."
   },
   {
@@ -154,9 +214,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A narrow vertical rectangle on the western edge of a European peninsula.",
-    "image": "",
+    "image": "/shapes/portugal.svg",
     "correctAnswer": "Portugal",
-    "wrongAnswers": ["Spain", "Ireland", "Belgium"],
+    "wrongAnswers": [
+      "Spain",
+      "Ireland",
+      "Belgium"
+    ],
     "explanation": "Portugal is a narrow strip along the Atlantic coast of the Iberian Peninsula, longer north-south than east-west."
   },
   {
@@ -164,9 +228,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A southern European country with a large peninsula and many islands in the eastern Mediterranean.",
-    "image": "",
+    "image": "/shapes/greece.svg",
     "correctAnswer": "Greece",
-    "wrongAnswers": ["Italy", "Turkey", "Croatia"],
+    "wrongAnswers": [
+      "Italy",
+      "Turkey",
+      "Croatia"
+    ],
     "explanation": "Greece features the Peloponnese peninsula dangling from the mainland and hundreds of islands scattered across the Aegean and Ionian Seas."
   },
   {
@@ -174,9 +242,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A rectangular landmass bridging two continents, with coastline on three sides.",
-    "image": "",
+    "image": "/shapes/turkey.svg",
     "correctAnswer": "Turkey",
-    "wrongAnswers": ["Iran", "Greece", "Syria"],
+    "wrongAnswers": [
+      "Iran",
+      "Greece",
+      "Syria"
+    ],
     "explanation": "Turkey's Anatolian peninsula forms a distinctive east-west rectangle bordered by the Black Sea, Mediterranean, and Aegean, with a small European portion across the Bosphorus."
   },
   {
@@ -184,9 +256,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly square country in northeast Africa with a distinctive triangular peninsula to the east.",
-    "image": "",
+    "image": "/shapes/egypt.svg",
     "correctAnswer": "Egypt",
-    "wrongAnswers": ["Libya", "Sudan", "Saudi Arabia"],
+    "wrongAnswers": [
+      "Libya",
+      "Sudan",
+      "Saudi Arabia"
+    ],
     "explanation": "Egypt's shape features a large square western desert region and the Sinai Peninsula extending east across the Suez Canal."
   },
   {
@@ -194,9 +270,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Located at the southern tip of its continent, with a small country completely enclosed within it.",
-    "image": "",
+    "image": "/shapes/south-africa.svg",
     "correctAnswer": "South Africa",
-    "wrongAnswers": ["Namibia", "Mozambique", "Tanzania"],
+    "wrongAnswers": [
+      "Namibia",
+      "Mozambique",
+      "Tanzania"
+    ],
     "explanation": "South Africa sits at the continent's southern tip where the Atlantic and Indian Oceans meet, and completely surrounds the small kingdom of Lesotho."
   },
   {
@@ -204,9 +284,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly square West African country with a distinctive southern coastline along the Gulf of Guinea.",
-    "image": "",
+    "image": "/shapes/nigeria.svg",
     "correctAnswer": "Nigeria",
-    "wrongAnswers": ["Ghana", "Cameroon", "Niger"],
+    "wrongAnswers": [
+      "Ghana",
+      "Cameroon",
+      "Niger"
+    ],
     "explanation": "Nigeria has a somewhat square shape tapering to the south, with the Niger River delta forming its distinctive southern coast on the Gulf of Guinea."
   },
   {
@@ -214,9 +298,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "An East African country with a coastline on the Indian Ocean and a distinctive angular shape.",
-    "image": "",
+    "image": "/shapes/kenya.svg",
     "correctAnswer": "Kenya",
-    "wrongAnswers": ["Tanzania", "Ethiopia", "Uganda"],
+    "wrongAnswers": [
+      "Tanzania",
+      "Ethiopia",
+      "Uganda"
+    ],
     "explanation": "Kenya has a distinctive shape with straight borders in the north and west (colonial-era lines) contrasting with its natural Indian Ocean coastline."
   },
   {
@@ -224,9 +312,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large landlocked Horn of Africa country with an irregular shape pointing east.",
-    "image": "",
+    "image": "/shapes/ethiopia.svg",
     "correctAnswer": "Ethiopia",
-    "wrongAnswers": ["Kenya", "Sudan", "Somalia"],
+    "wrongAnswers": [
+      "Kenya",
+      "Sudan",
+      "Somalia"
+    ],
     "explanation": "Ethiopia's shape is roughly triangular, wider in the west and tapering eastward, located in the Horn of Africa."
   },
   {
@@ -234,9 +326,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Shaped like the number 7 or a backward letter L, forming the Horn of Africa.",
-    "image": "",
+    "image": "/shapes/somalia.svg",
     "correctAnswer": "Somalia",
-    "wrongAnswers": ["Ethiopia", "Kenya", "Djibouti"],
+    "wrongAnswers": [
+      "Ethiopia",
+      "Kenya",
+      "Djibouti"
+    ],
     "explanation": "Somalia's distinctive 7-shape forms the actual 'horn' of the Horn of Africa, with a long Indian Ocean coastline curving around to the Gulf of Aden."
   },
   {
@@ -244,9 +340,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The world's fourth-largest island, located off the southeast coast of Africa.",
-    "image": "",
+    "image": "/shapes/madagascar.svg",
     "correctAnswer": "Madagascar",
-    "wrongAnswers": ["Sri Lanka", "New Zealand", "Cuba"],
+    "wrongAnswers": [
+      "Sri Lanka",
+      "New Zealand",
+      "Cuba"
+    ],
     "explanation": "Madagascar is a large elongated island in the Indian Ocean, separated from mainland Africa by the Mozambique Channel."
   },
   {
@@ -254,9 +354,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A massive Central African country with an irregular shape and a narrow western corridor reaching the Atlantic.",
-    "image": "",
+    "image": "/shapes/democratic-republic-of-the-congo.svg",
     "correctAnswer": "Democratic Republic of the Congo",
-    "wrongAnswers": ["Republic of the Congo", "Angola", "Central African Republic"],
+    "wrongAnswers": [
+      "Republic of the Congo",
+      "Angola",
+      "Central African Republic"
+    ],
     "explanation": "The DRC has a distinctive shape with a narrow strip of territory reaching the Atlantic coast near the Congo River mouth, and vast interior territories."
   },
   {
@@ -264,9 +368,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "An East African country with a roughly rectangular shape and a large island off its coast.",
-    "image": "",
+    "image": "/shapes/tanzania.svg",
     "correctAnswer": "Tanzania",
-    "wrongAnswers": ["Kenya", "Mozambique", "Uganda"],
+    "wrongAnswers": [
+      "Kenya",
+      "Mozambique",
+      "Uganda"
+    ],
     "explanation": "Tanzania's shape is roughly rectangular, bordering the Indian Ocean in the east, with the island of Zanzibar just off its coast."
   },
   {
@@ -274,9 +382,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A North African country at the continent's northwest corner, across the strait from Europe.",
-    "image": "",
+    "image": "/shapes/morocco.svg",
     "correctAnswer": "Morocco",
-    "wrongAnswers": ["Algeria", "Tunisia", "Libya"],
+    "wrongAnswers": [
+      "Algeria",
+      "Tunisia",
+      "Libya"
+    ],
     "explanation": "Morocco sits at Africa's northwest tip, just across the Strait of Gibraltar from Spain, with both Atlantic and Mediterranean coastlines."
   },
   {
@@ -284,9 +396,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A long country tapering to a point at the southern tip of South America.",
-    "image": "",
+    "image": "/shapes/argentina.svg",
     "correctAnswer": "Argentina",
-    "wrongAnswers": ["Chile", "Brazil", "Uruguay"],
+    "wrongAnswers": [
+      "Chile",
+      "Brazil",
+      "Uruguay"
+    ],
     "explanation": "Argentina's elongated shape stretches from subtropical regions in the north to Patagonia and Tierra del Fuego in the far south."
   },
   {
@@ -294,9 +410,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Located at the northwest corner of South America, with both Pacific and Caribbean coastlines.",
-    "image": "",
+    "image": "/shapes/colombia.svg",
     "correctAnswer": "Colombia",
-    "wrongAnswers": ["Venezuela", "Ecuador", "Peru"],
+    "wrongAnswers": [
+      "Venezuela",
+      "Ecuador",
+      "Peru"
+    ],
     "explanation": "Colombia occupies South America's northwest corner, the only South American country with coastlines on both the Pacific Ocean and the Caribbean Sea."
   },
   {
@@ -304,9 +424,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly triangular country on South America's western Pacific coast.",
-    "image": "",
+    "image": "/shapes/peru.svg",
     "correctAnswer": "Peru",
-    "wrongAnswers": ["Colombia", "Bolivia", "Ecuador"],
+    "wrongAnswers": [
+      "Colombia",
+      "Bolivia",
+      "Ecuador"
+    ],
     "explanation": "Peru has a roughly triangular shape along the Pacific coast, with the Andes running through it and the Amazon basin to the east."
   },
   {
@@ -314,9 +438,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A northern South American country with a long Caribbean coastline and a distinctive eastern tail.",
-    "image": "",
+    "image": "/shapes/venezuela.svg",
     "correctAnswer": "Venezuela",
-    "wrongAnswers": ["Colombia", "Guyana", "Brazil"],
+    "wrongAnswers": [
+      "Colombia",
+      "Guyana",
+      "Brazil"
+    ],
     "explanation": "Venezuela sits along the Caribbean coast of South America, with the Orinoco River delta forming a distinctive eastern extension."
   },
   {
@@ -324,9 +452,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A long Scandinavian country, wider in the south and tapering northward.",
-    "image": "",
+    "image": "/shapes/sweden.svg",
     "correctAnswer": "Sweden",
-    "wrongAnswers": ["Norway", "Finland", "Denmark"],
+    "wrongAnswers": [
+      "Norway",
+      "Finland",
+      "Denmark"
+    ],
     "explanation": "Sweden occupies the eastern portion of the Scandinavian Peninsula, elongated north-south with a wider southern section."
   },
   {
@@ -334,9 +466,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A long, narrow Scandinavian country hugging the western and northern coast with deep fjords.",
-    "image": "",
+    "image": "/shapes/norway.svg",
     "correctAnswer": "Norway",
-    "wrongAnswers": ["Sweden", "Finland", "Chile"],
+    "wrongAnswers": [
+      "Sweden",
+      "Finland",
+      "Chile"
+    ],
     "explanation": "Norway wraps around the western and northern coast of the Scandinavian Peninsula, extremely narrow in places with a deeply indented fjord coastline."
   },
   {
@@ -344,9 +480,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A Nordic country shaped somewhat like a person with an outstretched arm in the northwest.",
-    "image": "",
+    "image": "/shapes/finland.svg",
     "correctAnswer": "Finland",
-    "wrongAnswers": ["Sweden", "Norway", "Estonia"],
+    "wrongAnswers": [
+      "Sweden",
+      "Norway",
+      "Estonia"
+    ],
     "explanation": "Finland's shape is sometimes described as a figure with an outstretched right arm (the northwestern Lapland border), bordered by the Baltic Sea in the west."
   },
   {
@@ -354,9 +494,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A volcanic island in the North Atlantic with a jagged coastline and many fjords.",
-    "image": "",
+    "image": "/shapes/iceland.svg",
     "correctAnswer": "Iceland",
-    "wrongAnswers": ["Ireland", "Greenland", "United Kingdom"],
+    "wrongAnswers": [
+      "Ireland",
+      "Greenland",
+      "United Kingdom"
+    ],
     "explanation": "Iceland sits on the Mid-Atlantic Ridge in the North Atlantic, with a compact but deeply indented shape featuring numerous fjords and peninsulas."
   },
   {
@@ -364,9 +508,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A rounded island in the North Atlantic, just west of Great Britain.",
-    "image": "",
+    "image": "/shapes/ireland.svg",
     "correctAnswer": "Ireland",
-    "wrongAnswers": ["Iceland", "United Kingdom", "Denmark"],
+    "wrongAnswers": [
+      "Iceland",
+      "United Kingdom",
+      "Denmark"
+    ],
     "explanation": "Ireland has a distinctive rounded shape, sometimes compared to a teddy bear, sitting just west of Great Britain in the North Atlantic."
   },
   {
@@ -374,9 +522,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly square Central European country with a Baltic Sea coastline to the north.",
-    "image": "",
+    "image": "/shapes/poland.svg",
     "correctAnswer": "Poland",
-    "wrongAnswers": ["Germany", "Ukraine", "Czech Republic"],
+    "wrongAnswers": [
+      "Germany",
+      "Ukraine",
+      "Czech Republic"
+    ],
     "explanation": "Poland has a compact, roughly square shape in Central Europe, with a Baltic coastline in the north and the Carpathian Mountains in the south."
   },
   {
@@ -384,9 +536,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The largest country entirely within Europe, with a distinctive southern coastline on a large sea.",
-    "image": "",
+    "image": "/shapes/ukraine.svg",
     "correctAnswer": "Ukraine",
-    "wrongAnswers": ["Poland", "Romania", "Kazakhstan"],
+    "wrongAnswers": [
+      "Poland",
+      "Romania",
+      "Kazakhstan"
+    ],
     "explanation": "Ukraine is the largest country fully in Europe, with a broad east-west shape and a Black Sea coastline featuring the Crimean Peninsula."
   },
   {
@@ -394,9 +550,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly oval-shaped Eastern European country with the Carpathian Mountains curving through its center.",
-    "image": "",
+    "image": "/shapes/romania.svg",
     "correctAnswer": "Romania",
-    "wrongAnswers": ["Hungary", "Bulgaria", "Ukraine"],
+    "wrongAnswers": [
+      "Hungary",
+      "Bulgaria",
+      "Ukraine"
+    ],
     "explanation": "Romania has a compact, roughly circular shape in southeastern Europe, with the Carpathian Mountains arcing through its interior."
   },
   {
@@ -404,9 +564,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small, oval-shaped landlocked Central European country.",
-    "image": "",
+    "image": "/shapes/hungary.svg",
     "correctAnswer": "Hungary",
-    "wrongAnswers": ["Romania", "Austria", "Czech Republic"],
+    "wrongAnswers": [
+      "Romania",
+      "Austria",
+      "Czech Republic"
+    ],
     "explanation": "Hungary has a compact oval shape sitting in the Pannonian Basin, a flat plain surrounded by the Carpathian Mountains."
   },
   {
@@ -414,9 +578,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small, elongated east-west country in the Alps of Central Europe.",
-    "image": "",
+    "image": "/shapes/austria.svg",
     "correctAnswer": "Austria",
-    "wrongAnswers": ["Switzerland", "Hungary", "Czech Republic"],
+    "wrongAnswers": [
+      "Switzerland",
+      "Hungary",
+      "Czech Republic"
+    ],
     "explanation": "Austria has an elongated east-west shape, wider in the east where Vienna sits, and narrower in the mountainous western Alps."
   },
   {
@@ -424,9 +592,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small, compact landlocked Alpine country in Western Europe.",
-    "image": "",
+    "image": "/shapes/switzerland.svg",
     "correctAnswer": "Switzerland",
-    "wrongAnswers": ["Austria", "Belgium", "Czech Republic"],
+    "wrongAnswers": [
+      "Austria",
+      "Belgium",
+      "Czech Republic"
+    ],
     "explanation": "Switzerland has a compact, roughly trapezoidal shape nestled in the heart of the Alps between Germany, France, Italy, and Austria."
   },
   {
@@ -434,9 +606,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small, flat country in Northwestern Europe, partly below sea level.",
-    "image": "",
+    "image": "/shapes/netherlands.svg",
     "correctAnswer": "Netherlands",
-    "wrongAnswers": ["Belgium", "Denmark", "Luxembourg"],
+    "wrongAnswers": [
+      "Belgium",
+      "Denmark",
+      "Luxembourg"
+    ],
     "explanation": "The Netherlands has a compact shape along the North Sea, with much of the country reclaimed from the sea using dikes and polders."
   },
   {
@@ -444,9 +620,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small Western European country between France, Germany, and the Netherlands.",
-    "image": "",
+    "image": "/shapes/belgium.svg",
     "correctAnswer": "Belgium",
-    "wrongAnswers": ["Netherlands", "Luxembourg", "Switzerland"],
+    "wrongAnswers": [
+      "Netherlands",
+      "Luxembourg",
+      "Switzerland"
+    ],
     "explanation": "Belgium has a roughly triangular shape with a short North Sea coastline, wedged between France, Germany, Luxembourg, and the Netherlands."
   },
   {
@@ -454,9 +634,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A landlocked Central European country with a shape like a pointing hand or irregular diamond.",
-    "image": "",
+    "image": "/shapes/czech-republic.svg",
     "correctAnswer": "Czech Republic",
-    "wrongAnswers": ["Austria", "Poland", "Slovakia"],
+    "wrongAnswers": [
+      "Austria",
+      "Poland",
+      "Slovakia"
+    ],
     "explanation": "The Czech Republic (Czechia) has an irregular diamond shape, with the western Bohemia region forming a distinct basin surrounded by mountains."
   },
   {
@@ -464,9 +648,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A distinctively shaped European country — like a boomerang or crescent — along the Adriatic coast.",
-    "image": "",
+    "image": "/shapes/croatia.svg",
     "correctAnswer": "Croatia",
-    "wrongAnswers": ["Slovenia", "Bosnia and Herzegovina", "Serbia"],
+    "wrongAnswers": [
+      "Slovenia",
+      "Bosnia and Herzegovina",
+      "Serbia"
+    ],
     "explanation": "Croatia's unique crescent or boomerang shape wraps around Bosnia and Herzegovina, with a long Adriatic coastline and the Slavonian panhandle extending east."
   },
   {
@@ -474,9 +662,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A landlocked Balkan country with a roughly heart-like shape.",
-    "image": "",
+    "image": "/shapes/serbia.svg",
     "correctAnswer": "Serbia",
-    "wrongAnswers": ["Romania", "Bulgaria", "Hungary"],
+    "wrongAnswers": [
+      "Romania",
+      "Bulgaria",
+      "Hungary"
+    ],
     "explanation": "Serbia has a compact, roughly oval shape in the central Balkans, landlocked and bordered by eight countries."
   },
   {
@@ -484,9 +676,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly rectangular Balkan country with a Black Sea coast to the east.",
-    "image": "",
+    "image": "/shapes/bulgaria.svg",
     "correctAnswer": "Bulgaria",
-    "wrongAnswers": ["Romania", "Serbia", "Greece"],
+    "wrongAnswers": [
+      "Romania",
+      "Serbia",
+      "Greece"
+    ],
     "explanation": "Bulgaria has a roughly rectangular shape in southeastern Europe, with the Danube forming its northern border and the Black Sea to the east."
   },
   {
@@ -494,9 +690,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A Scandinavian country consisting of a peninsula and many islands between the North and Baltic Seas.",
-    "image": "",
+    "image": "/shapes/denmark.svg",
     "correctAnswer": "Denmark",
-    "wrongAnswers": ["Netherlands", "Belgium", "Sweden"],
+    "wrongAnswers": [
+      "Netherlands",
+      "Belgium",
+      "Sweden"
+    ],
     "explanation": "Denmark consists of the Jutland Peninsula and over 400 islands, situated between the North Sea and the Baltic Sea."
   },
   {
@@ -504,9 +704,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A massive desert country occupying most of a large Middle Eastern peninsula.",
-    "image": "",
+    "image": "/shapes/saudi-arabia.svg",
     "correctAnswer": "Saudi Arabia",
-    "wrongAnswers": ["Iran", "Iraq", "Yemen"],
+    "wrongAnswers": [
+      "Iran",
+      "Iraq",
+      "Yemen"
+    ],
     "explanation": "Saudi Arabia dominates the Arabian Peninsula, a vast roughly rectangular landmass bordered by the Red Sea, Persian Gulf, and Indian Ocean."
   },
   {
@@ -514,9 +718,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large Middle Eastern country shaped somewhat like a cat, with coastlines on two bodies of water.",
-    "image": "",
+    "image": "/shapes/iran.svg",
     "correctAnswer": "Iran",
-    "wrongAnswers": ["Turkey", "Iraq", "Afghanistan"],
+    "wrongAnswers": [
+      "Turkey",
+      "Iraq",
+      "Afghanistan"
+    ],
     "explanation": "Iran has a roughly diamond-shaped landmass between the Persian Gulf in the south and the Caspian Sea in the north."
   },
   {
@@ -524,9 +732,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly trapezoidal Middle Eastern country between two major rivers.",
-    "image": "",
+    "image": "/shapes/iraq.svg",
     "correctAnswer": "Iraq",
-    "wrongAnswers": ["Syria", "Iran", "Saudi Arabia"],
+    "wrongAnswers": [
+      "Syria",
+      "Iran",
+      "Saudi Arabia"
+    ],
     "explanation": "Iraq's shape narrows toward the southeast where the Tigris and Euphrates Rivers meet, with a small Persian Gulf coastline."
   },
   {
@@ -534,9 +746,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A South Asian country shaped somewhat like an irregular diamond, with a coast on the Arabian Sea.",
-    "image": "",
+    "image": "/shapes/pakistan.svg",
     "correctAnswer": "Pakistan",
-    "wrongAnswers": ["Iran", "Afghanistan", "India"],
+    "wrongAnswers": [
+      "Iran",
+      "Afghanistan",
+      "India"
+    ],
     "explanation": "Pakistan has an irregular shape stretching from the Arabian Sea coast in the south to the Karakoram mountains in the far north."
   },
   {
@@ -544,9 +760,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A landlocked Central Asian country with a distinctive narrow corridor extending to the northeast.",
-    "image": "",
+    "image": "/shapes/afghanistan.svg",
     "correctAnswer": "Afghanistan",
-    "wrongAnswers": ["Pakistan", "Iran", "Tajikistan"],
+    "wrongAnswers": [
+      "Pakistan",
+      "Iran",
+      "Tajikistan"
+    ],
     "explanation": "Afghanistan has a distinctive shape featuring the Wakhan Corridor — a narrow strip of land extending northeast to touch China."
   },
   {
@@ -554,9 +774,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A Southeast Asian country shaped like an elephant's head with a long trunk extending south.",
-    "image": "",
+    "image": "/shapes/thailand.svg",
     "correctAnswer": "Thailand",
-    "wrongAnswers": ["Myanmar", "Vietnam", "Cambodia"],
+    "wrongAnswers": [
+      "Myanmar",
+      "Vietnam",
+      "Cambodia"
+    ],
     "explanation": "Thailand's shape is often compared to an elephant's head, with the main body in the north and a long thin peninsula extending south."
   },
   {
@@ -564,9 +788,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A long, S-shaped country running along the eastern coast of Southeast Asia.",
-    "image": "",
+    "image": "/shapes/vietnam.svg",
     "correctAnswer": "Vietnam",
-    "wrongAnswers": ["Thailand", "Laos", "Philippines"],
+    "wrongAnswers": [
+      "Thailand",
+      "Laos",
+      "Philippines"
+    ],
     "explanation": "Vietnam's distinctive S-shape stretches along the South China Sea, wider at the Red River delta in the north and Mekong delta in the south."
   },
   {
@@ -574,9 +802,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The world's largest archipelago, spanning thousands of islands across the equator in Southeast Asia.",
-    "image": "",
+    "image": "/shapes/indonesia.svg",
     "correctAnswer": "Indonesia",
-    "wrongAnswers": ["Philippines", "Malaysia", "Japan"],
+    "wrongAnswers": [
+      "Philippines",
+      "Malaysia",
+      "Japan"
+    ],
     "explanation": "Indonesia spans over 17,000 islands including Sumatra, Java, Borneo (Kalimantan), Sulawesi, and western New Guinea."
   },
   {
@@ -584,9 +816,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "An archipelago of over 7,000 islands in Southeast Asia, north of Indonesia.",
-    "image": "",
+    "image": "/shapes/philippines.svg",
     "correctAnswer": "Philippines",
-    "wrongAnswers": ["Indonesia", "Japan", "Taiwan"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Japan",
+      "Taiwan"
+    ],
     "explanation": "The Philippines consists of over 7,600 islands, with Luzon in the north and Mindanao in the south being the most recognizable."
   },
   {
@@ -594,9 +830,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The southern half of a divided East Asian peninsula.",
-    "image": "",
+    "image": "/shapes/south-korea.svg",
     "correctAnswer": "South Korea",
-    "wrongAnswers": ["North Korea", "Japan", "Taiwan"],
+    "wrongAnswers": [
+      "North Korea",
+      "Japan",
+      "Taiwan"
+    ],
     "explanation": "South Korea occupies the southern portion of the Korean Peninsula, with a relatively smooth western coast and a jagged southern coastline."
   },
   {
@@ -604,9 +844,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The northern half of a divided East Asian peninsula, bordering China and Russia.",
-    "image": "",
+    "image": "/shapes/north-korea.svg",
     "correctAnswer": "North Korea",
-    "wrongAnswers": ["South Korea", "Mongolia", "Laos"],
+    "wrongAnswers": [
+      "South Korea",
+      "Mongolia",
+      "Laos"
+    ],
     "explanation": "North Korea occupies the northern portion of the Korean Peninsula, wider in the north where it borders China along the Yalu River."
   },
   {
@@ -614,9 +858,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large, oval-shaped landlocked country between Russia and China.",
-    "image": "",
+    "image": "/shapes/mongolia.svg",
     "correctAnswer": "Mongolia",
-    "wrongAnswers": ["Kazakhstan", "Turkmenistan", "Afghanistan"],
+    "wrongAnswers": [
+      "Kazakhstan",
+      "Turkmenistan",
+      "Afghanistan"
+    ],
     "explanation": "Mongolia has a roughly oval shape, a vast landlocked country of steppes and deserts sandwiched between Russia and China."
   },
   {
@@ -624,9 +872,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The largest landlocked country in the world, spanning Central Asia with a western coastline on an inland sea.",
-    "image": "",
+    "image": "/shapes/kazakhstan.svg",
     "correctAnswer": "Kazakhstan",
-    "wrongAnswers": ["Mongolia", "Uzbekistan", "Turkmenistan"],
+    "wrongAnswers": [
+      "Mongolia",
+      "Uzbekistan",
+      "Turkmenistan"
+    ],
     "explanation": "Kazakhstan is vast and roughly rectangular, the world's largest landlocked country, with the Caspian Sea forming its western border."
   },
   {
@@ -634,9 +886,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Two main islands in the South Pacific, oriented northeast-southwest.",
-    "image": "",
+    "image": "/shapes/new-zealand.svg",
     "correctAnswer": "New Zealand",
-    "wrongAnswers": ["Japan", "Philippines", "Madagascar"],
+    "wrongAnswers": [
+      "Japan",
+      "Philippines",
+      "Madagascar"
+    ],
     "explanation": "New Zealand consists of the North Island and South Island, separated by the Cook Strait, in the South Pacific."
   },
   {
@@ -644,9 +900,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Occupies the eastern half of a large tropical island north of Australia, plus many smaller islands.",
-    "image": "",
+    "image": "/shapes/papua-new-guinea.svg",
     "correctAnswer": "Papua New Guinea",
-    "wrongAnswers": ["Indonesia", "Solomon Islands", "Fiji"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Solomon Islands",
+      "Fiji"
+    ],
     "explanation": "Papua New Guinea occupies the eastern half of the island of New Guinea plus numerous offshore islands."
   },
   {
@@ -654,9 +914,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The largest Caribbean island, long and narrow like a crocodile.",
-    "image": "",
+    "image": "/shapes/cuba.svg",
     "correctAnswer": "Cuba",
-    "wrongAnswers": ["Jamaica", "Haiti", "Puerto Rico"],
+    "wrongAnswers": [
+      "Jamaica",
+      "Haiti",
+      "Puerto Rico"
+    ],
     "explanation": "Cuba is the largest island in the Caribbean, with an elongated shape stretching about 1,200 km east to west."
   },
   {
@@ -664,9 +928,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A teardrop-shaped island off the southern tip of a large Asian country.",
-    "image": "",
+    "image": "/shapes/sri-lanka.svg",
     "correctAnswer": "Sri Lanka",
-    "wrongAnswers": ["Madagascar", "Taiwan", "Cyprus"],
+    "wrongAnswers": [
+      "Madagascar",
+      "Taiwan",
+      "Cyprus"
+    ],
     "explanation": "Sri Lanka is a teardrop-shaped island just off the southeastern tip of India, separated by the Palk Strait."
   },
   {
@@ -674,9 +942,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A leaf-shaped island off the east coast of Asia.",
-    "image": "",
+    "image": "/shapes/taiwan.svg",
     "correctAnswer": "Taiwan",
-    "wrongAnswers": ["Sri Lanka", "Cyprus", "Jamaica"],
+    "wrongAnswers": [
+      "Sri Lanka",
+      "Cyprus",
+      "Jamaica"
+    ],
     "explanation": "Taiwan is a leaf or sweet-potato-shaped island off the coast of southeastern China, with mountains running along its eastern side."
   },
   {
@@ -684,9 +956,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A Southeast Asian country shaped like a kite with a long tail extending south along the coast.",
-    "image": "",
+    "image": "/shapes/myanmar.svg",
     "correctAnswer": "Myanmar",
-    "wrongAnswers": ["Thailand", "Laos", "Bangladesh"],
+    "wrongAnswers": [
+      "Thailand",
+      "Laos",
+      "Bangladesh"
+    ],
     "explanation": "Myanmar (Burma) has a diamond-shaped northern region with a long narrow southern tail extending along the Andaman Sea coast."
   },
   {
@@ -694,9 +970,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small, low-lying South Asian country in the world's largest river delta.",
-    "image": "",
+    "image": "/shapes/bangladesh.svg",
     "correctAnswer": "Bangladesh",
-    "wrongAnswers": ["Myanmar", "Nepal", "Sri Lanka"],
+    "wrongAnswers": [
+      "Myanmar",
+      "Nepal",
+      "Sri Lanka"
+    ],
     "explanation": "Bangladesh is a compact, low-lying country mostly comprising the Ganges-Brahmaputra delta, almost entirely surrounded by India."
   },
   {
@@ -704,9 +984,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly rectangular landlocked country in the Himalayas between two giant Asian nations.",
-    "image": "",
+    "image": "/shapes/nepal.svg",
     "correctAnswer": "Nepal",
-    "wrongAnswers": ["Bhutan", "Bangladesh", "Laos"],
+    "wrongAnswers": [
+      "Bhutan",
+      "Bangladesh",
+      "Laos"
+    ],
     "explanation": "Nepal is a narrow rectangular strip along the Himalayas, sandwiched between India to the south and China (Tibet) to the north."
   },
   {
@@ -714,9 +998,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly square Southeast Asian country with a large lake in the center.",
-    "image": "",
+    "image": "/shapes/cambodia.svg",
     "correctAnswer": "Cambodia",
-    "wrongAnswers": ["Laos", "Thailand", "Vietnam"],
+    "wrongAnswers": [
+      "Laos",
+      "Thailand",
+      "Vietnam"
+    ],
     "explanation": "Cambodia has a compact, roughly square shape centered around the Tonle Sap lake and Mekong River."
   },
   {
@@ -724,9 +1012,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A country split into two parts — a peninsula and a portion of a large island — in Southeast Asia.",
-    "image": "",
+    "image": "/shapes/malaysia.svg",
     "correctAnswer": "Malaysia",
-    "wrongAnswers": ["Indonesia", "Thailand", "Philippines"],
+    "wrongAnswers": [
+      "Indonesia",
+      "Thailand",
+      "Philippines"
+    ],
     "explanation": "Malaysia is split between Peninsular Malaysia (south of Thailand) and East Malaysia on northern Borneo, separated by the South China Sea."
   },
   {
@@ -734,9 +1026,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The largest country in Africa, with a Mediterranean coastline and vast Saharan interior.",
-    "image": "",
+    "image": "/shapes/algeria.svg",
     "correctAnswer": "Algeria",
-    "wrongAnswers": ["Libya", "Niger", "Mali"],
+    "wrongAnswers": [
+      "Libya",
+      "Niger",
+      "Mali"
+    ],
     "explanation": "Algeria is Africa's largest country, with a narrow fertile Mediterranean coast in the north and the vast Sahara Desert dominating the south."
   },
   {
@@ -744,9 +1040,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large, roughly rectangular North African country with a concave Mediterranean coast.",
-    "image": "",
+    "image": "/shapes/libya.svg",
     "correctAnswer": "Libya",
-    "wrongAnswers": ["Algeria", "Egypt", "Chad"],
+    "wrongAnswers": [
+      "Algeria",
+      "Egypt",
+      "Chad"
+    ],
     "explanation": "Libya has a roughly rectangular shape with a concave Mediterranean coastline (the Gulf of Sidra) and straight desert borders to the south."
   },
   {
@@ -754,9 +1054,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly rectangular West African country on the Gulf of Guinea coast.",
-    "image": "",
+    "image": "/shapes/ghana.svg",
     "correctAnswer": "Ghana",
-    "wrongAnswers": ["Ivory Coast", "Togo", "Benin"],
+    "wrongAnswers": [
+      "Ivory Coast",
+      "Togo",
+      "Benin"
+    ],
     "explanation": "Ghana has a compact rectangular shape on the Gulf of Guinea, with Lake Volta — one of the world's largest artificial lakes — in its interior."
   },
   {
@@ -764,9 +1068,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large Southern African country with an Atlantic coastline and a detached northern exclave.",
-    "image": "",
+    "image": "/shapes/angola.svg",
     "correctAnswer": "Angola",
-    "wrongAnswers": ["Zambia", "Democratic Republic of the Congo", "Mozambique"],
+    "wrongAnswers": [
+      "Zambia",
+      "Democratic Republic of the Congo",
+      "Mozambique"
+    ],
     "explanation": "Angola has a large roughly square shape on Africa's Atlantic coast, with the distinctive Cabinda exclave separated by DRC territory."
   },
   {
@@ -774,9 +1082,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A long, narrow country along southeastern Africa's Indian Ocean coast.",
-    "image": "",
+    "image": "/shapes/mozambique.svg",
     "correctAnswer": "Mozambique",
-    "wrongAnswers": ["Tanzania", "Madagascar", "Malawi"],
+    "wrongAnswers": [
+      "Tanzania",
+      "Madagascar",
+      "Malawi"
+    ],
     "explanation": "Mozambique stretches along the Indian Ocean coast of southeastern Africa, with a long coastline and a shape that narrows in the center."
   },
   {
@@ -784,9 +1096,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A Southern African country with a distinctive long, narrow strip of territory extending to the northeast.",
-    "image": "",
+    "image": "/shapes/namibia.svg",
     "correctAnswer": "Namibia",
-    "wrongAnswers": ["Botswana", "Angola", "Zambia"],
+    "wrongAnswers": [
+      "Botswana",
+      "Angola",
+      "Zambia"
+    ],
     "explanation": "Namibia has a distinctive shape with the Caprivi Strip — a narrow panhandle extending northeast to the Zambezi River."
   },
   {
@@ -794,9 +1110,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A West African country almost completely surrounding a smaller country along a river.",
-    "image": "",
+    "image": "/shapes/senegal.svg",
     "correctAnswer": "Senegal",
-    "wrongAnswers": ["Gambia", "Guinea-Bissau", "Mali"],
+    "wrongAnswers": [
+      "Gambia",
+      "Guinea-Bissau",
+      "Mali"
+    ],
     "explanation": "Senegal's shape nearly completely surrounds The Gambia, a narrow country along the Gambia River that penetrates deep into Senegal's interior."
   },
   {
@@ -804,9 +1124,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A Central/West African country shaped like a sideways triangle, sometimes called 'Africa in miniature.'",
-    "image": "",
+    "image": "/shapes/cameroon.svg",
     "correctAnswer": "Cameroon",
-    "wrongAnswers": ["Nigeria", "Gabon", "Central African Republic"],
+    "wrongAnswers": [
+      "Nigeria",
+      "Gabon",
+      "Central African Republic"
+    ],
     "explanation": "Cameroon has a distinctive triangular shape, wider in the north and tapering toward the south, with diverse geography from coast to Sahel."
   },
   {
@@ -814,9 +1138,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large northeast African country with a distinctive angular shape below Egypt.",
-    "image": "",
+    "image": "/shapes/sudan.svg",
     "correctAnswer": "Sudan",
-    "wrongAnswers": ["South Sudan", "Chad", "Ethiopia"],
+    "wrongAnswers": [
+      "South Sudan",
+      "Chad",
+      "Ethiopia"
+    ],
     "explanation": "Sudan is one of the largest countries in Africa, with a broad shape and the Nile flowing through it."
   },
   {
@@ -824,9 +1152,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small Pacific coast country in South America straddling a famous geographic line.",
-    "image": "",
+    "image": "/shapes/ecuador.svg",
     "correctAnswer": "Ecuador",
-    "wrongAnswers": ["Colombia", "Peru", "Bolivia"],
+    "wrongAnswers": [
+      "Colombia",
+      "Peru",
+      "Bolivia"
+    ],
     "explanation": "Ecuador is a compact country on South America's Pacific coast, named for the equator which passes through it."
   },
   {
@@ -834,9 +1166,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A landlocked South American country with a distinctive notch in its western border.",
-    "image": "",
+    "image": "/shapes/bolivia.svg",
     "correctAnswer": "Bolivia",
-    "wrongAnswers": ["Paraguay", "Peru", "Ecuador"],
+    "wrongAnswers": [
+      "Paraguay",
+      "Peru",
+      "Ecuador"
+    ],
     "explanation": "Bolivia is a large landlocked country in central South America, with a distinctive shape including the Altiplano plateau in the west."
   },
   {
@@ -844,9 +1180,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small, landlocked South American country shaped like a rough diamond.",
-    "image": "",
+    "image": "/shapes/paraguay.svg",
     "correctAnswer": "Paraguay",
-    "wrongAnswers": ["Uruguay", "Bolivia", "Ecuador"],
+    "wrongAnswers": [
+      "Uruguay",
+      "Bolivia",
+      "Ecuador"
+    ],
     "explanation": "Paraguay is a compact, landlocked country divided by the Paraguay River into the forested east and the dry Chaco region in the west."
   },
   {
@@ -854,9 +1194,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small country on the Atlantic coast of South America, south of its giant neighbor.",
-    "image": "",
+    "image": "/shapes/uruguay.svg",
     "correctAnswer": "Uruguay",
-    "wrongAnswers": ["Paraguay", "Argentina", "Guyana"],
+    "wrongAnswers": [
+      "Paraguay",
+      "Argentina",
+      "Guyana"
+    ],
     "explanation": "Uruguay is a small, roughly triangular country on the Atlantic coast between Argentina and Brazil."
   },
   {
@@ -864,9 +1208,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small, oval-shaped Caribbean island south of a larger island.",
-    "image": "",
+    "image": "/shapes/jamaica.svg",
     "correctAnswer": "Jamaica",
-    "wrongAnswers": ["Cuba", "Haiti", "Trinidad and Tobago"],
+    "wrongAnswers": [
+      "Cuba",
+      "Haiti",
+      "Trinidad and Tobago"
+    ],
     "explanation": "Jamaica is a compact, oval-shaped island in the Caribbean Sea, the third-largest island in the Caribbean."
   },
   {
@@ -874,9 +1222,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Occupies the eastern two-thirds of a Caribbean island shared with another nation.",
-    "image": "",
+    "image": "/shapes/dominican-republic.svg",
     "correctAnswer": "Dominican Republic",
-    "wrongAnswers": ["Haiti", "Cuba", "Jamaica"],
+    "wrongAnswers": [
+      "Haiti",
+      "Cuba",
+      "Jamaica"
+    ],
     "explanation": "The Dominican Republic occupies the eastern two-thirds of the island of Hispaniola, sharing it with Haiti to the west."
   },
   {
@@ -884,9 +1236,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "Occupies the western third of a Caribbean island, with a distinctive two-pronged southern peninsula.",
-    "image": "",
+    "image": "/shapes/haiti.svg",
     "correctAnswer": "Haiti",
-    "wrongAnswers": ["Dominican Republic", "Jamaica", "Cuba"],
+    "wrongAnswers": [
+      "Dominican Republic",
+      "Jamaica",
+      "Cuba"
+    ],
     "explanation": "Haiti occupies the western third of Hispaniola, recognizable by its two southern peninsulas creating the Gulf of Gonave."
   },
   {
@@ -894,9 +1250,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "The northernmost and most populous country in Central America.",
-    "image": "",
+    "image": "/shapes/guatemala.svg",
     "correctAnswer": "Guatemala",
-    "wrongAnswers": ["Honduras", "El Salvador", "Belize"],
+    "wrongAnswers": [
+      "Honduras",
+      "El Salvador",
+      "Belize"
+    ],
     "explanation": "Guatemala has a roughly rectangular shape at the top of Central America, bordering Mexico to the north and west."
   },
   {
@@ -904,9 +1264,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A long S-shaped isthmus connecting two continents, where a famous canal was built.",
-    "image": "",
+    "image": "/shapes/panama.svg",
     "correctAnswer": "Panama",
-    "wrongAnswers": ["Costa Rica", "Colombia", "Nicaragua"],
+    "wrongAnswers": [
+      "Costa Rica",
+      "Colombia",
+      "Nicaragua"
+    ],
     "explanation": "Panama's S-shaped isthmus connects North and South America, narrowing to just 50 km at the site of the Panama Canal."
   },
   {
@@ -914,9 +1278,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small, narrow Middle Eastern country along the eastern Mediterranean, with a triangular southern desert region.",
-    "image": "",
+    "image": "/shapes/israel.svg",
     "correctAnswer": "Israel",
-    "wrongAnswers": ["Lebanon", "Jordan", "Cyprus"],
+    "wrongAnswers": [
+      "Lebanon",
+      "Jordan",
+      "Cyprus"
+    ],
     "explanation": "Israel has a narrow shape along the Mediterranean coast, widening into the triangular Negev Desert in the south pointing toward the Red Sea."
   },
   {
@@ -924,9 +1292,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A Middle Eastern country with mostly straight borders and a small outlet to the sea in the south.",
-    "image": "",
+    "image": "/shapes/jordan.svg",
     "correctAnswer": "Jordan",
-    "wrongAnswers": ["Syria", "Iraq", "Israel"],
+    "wrongAnswers": [
+      "Syria",
+      "Iraq",
+      "Israel"
+    ],
     "explanation": "Jordan has mostly straight colonial-era borders with a distinctive narrow southern outlet to the Red Sea at the Gulf of Aqaba."
   },
   {
@@ -934,29 +1306,27 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A roughly rectangular Middle Eastern country with a Mediterranean coast and a southeastern panhandle.",
-    "image": "",
+    "image": "/shapes/syria.svg",
     "correctAnswer": "Syria",
-    "wrongAnswers": ["Iraq", "Jordan", "Lebanon"],
+    "wrongAnswers": [
+      "Iraq",
+      "Jordan",
+      "Lebanon"
+    ],
     "explanation": "Syria has a roughly rectangular shape with a Mediterranean coastline in the west and the Euphrates River crossing its eastern regions."
-  },
-  {
-    "id": "shapes-cyprus-01",
-    "category": "country-shapes",
-    "question": "Which country has this shape?",
-    "hint": "A Mediterranean island with a distinctive panhandle extending to the northeast.",
-    "image": "",
-    "correctAnswer": "Cyprus",
-    "wrongAnswers": ["Crete", "Sicily", "Sardinia"],
-    "explanation": "Cyprus is the third-largest Mediterranean island, recognizable by the Karpas Peninsula extending like a finger toward the northeast."
   },
   {
     "id": "shapes-uzbekistan-01",
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A doubly-landlocked Central Asian country with an irregular shape.",
-    "image": "",
+    "image": "/shapes/uzbekistan.svg",
     "correctAnswer": "Uzbekistan",
-    "wrongAnswers": ["Turkmenistan", "Tajikistan", "Kyrgyzstan"],
+    "wrongAnswers": [
+      "Turkmenistan",
+      "Tajikistan",
+      "Kyrgyzstan"
+    ],
     "explanation": "Uzbekistan has an irregular shape in Central Asia and is one of only two doubly-landlocked countries in the world."
   },
   {
@@ -964,9 +1334,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large, landlocked West African country shaped like a bow tie or hourglass.",
-    "image": "",
+    "image": "/shapes/mali.svg",
     "correctAnswer": "Mali",
-    "wrongAnswers": ["Niger", "Burkina Faso", "Mauritania"],
+    "wrongAnswers": [
+      "Niger",
+      "Burkina Faso",
+      "Mauritania"
+    ],
     "explanation": "Mali has a distinctive hourglass shape, narrow in the center and wider in the north (Sahara) and south (Sahel and savanna)."
   },
   {
@@ -974,9 +1348,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A large, landlocked Saharan country, wider in the north than the south.",
-    "image": "",
+    "image": "/shapes/niger.svg",
     "correctAnswer": "Niger",
-    "wrongAnswers": ["Mali", "Chad", "Nigeria"],
+    "wrongAnswers": [
+      "Mali",
+      "Chad",
+      "Nigeria"
+    ],
     "explanation": "Niger has a large shape spreading across the central Sahara, named after the Niger River which flows through its southwestern corner."
   },
   {
@@ -984,9 +1362,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A small country at the eastern end of the Black Sea, in the Caucasus mountains.",
-    "image": "",
+    "image": "/shapes/georgia.svg",
     "correctAnswer": "Georgia",
-    "wrongAnswers": ["Armenia", "Azerbaijan", "Turkey"],
+    "wrongAnswers": [
+      "Armenia",
+      "Azerbaijan",
+      "Turkey"
+    ],
     "explanation": "Georgia sits at the crossroads of Europe and Asia along the eastern Black Sea coast, with the Greater Caucasus mountains forming its northern border."
   },
   {
@@ -994,9 +1376,13 @@
     "category": "country-shapes",
     "question": "Which country has this shape?",
     "hint": "A landlocked Southern African country with a distinctive butterfly or bowtie shape.",
-    "image": "",
+    "image": "/shapes/zambia.svg",
     "correctAnswer": "Zambia",
-    "wrongAnswers": ["Zimbabwe", "Malawi", "Botswana"],
+    "wrongAnswers": [
+      "Zimbabwe",
+      "Malawi",
+      "Botswana"
+    ],
     "explanation": "Zambia has a roughly butterfly-shaped outline, with the Zambezi River forming natural borders and Victoria Falls on its southern border."
   }
 ]
