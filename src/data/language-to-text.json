@@ -79,18 +79,18 @@
     "id": "lang-to-text-mandarin-chinese-01",
     "category": "language-to-text",
     "question": "Which language is this? «欢迎来到我们的城市»",
-    "hint": "Written entirely in simplified Chinese characters (hanzi). No hiragana/katakana (Japanese) or spacing between words.",
+    "hint": "Written entirely in Chinese characters (hanzi). No hiragana/katakana (Japanese) or spacing between words.",
     "image": "",
-    "correctAnswer": "Mandarin Chinese",
+    "correctAnswer": "Chinese",
     "wrongAnswers": [
       "Japanese",
-      "Traditional Chinese",
+      "Vietnamese",
       "Korean"
     ],
-    "explanation": "\"欢迎来到我们的城市\" is Simplified Chinese for 'Welcome to our city.' The simplified forms like 欢 (vs. traditional 歡) and lack of kana distinguish it from Japanese.",
+    "explanation": "\"欢迎来到我们的城市\" is Chinese for 'Welcome to our city.' The lack of kana distinguish it from Japanese.",
     "wrongAnswerSamples": {
       "Japanese": "私たちの街へようこそ",
-      "Traditional Chinese": "歡迎來到我們的城市",
+      "Vietnamese": "Chào mừng đến thành phố của chúng tôi",
       "Korean": "우리 도시에 오신 것을 환영합니다"
     }
   },
@@ -98,18 +98,18 @@
     "id": "lang-to-text-mandarin-chinese-02",
     "category": "language-to-text",
     "question": "Which language is this? «火车站在哪里？»",
-    "hint": "Written entirely in simplified Chinese characters (hanzi). No hiragana/katakana (Japanese) or spacing between words.",
+    "hint": "Written entirely in Chinese characters (hanzi). No hiragana/katakana (Japanese) or spacing between words.",
     "image": "",
-    "correctAnswer": "Mandarin Chinese",
+    "correctAnswer": "Chinese",
     "wrongAnswers": [
       "Japanese",
-      "Traditional Chinese",
+      "Vietnamese",
       "Korean"
     ],
-    "explanation": "\"火车站在哪里？\" is Simplified Chinese for 'Where is the train station?' The simplified 车 (vs. traditional 車) is a key indicator.",
+    "explanation": "\"火车站在哪里？\" is Chinese for 'Where is the train station?' The characters and lack of kana distinguish it from Japanese.",
     "wrongAnswerSamples": {
       "Japanese": "駅はどこですか？",
-      "Traditional Chinese": "火車站在哪裡？",
+      "Vietnamese": "Nhà ga xe lửa ở đâu?",
       "Korean": "기차역이 어디에 있나요?"
     }
   },
@@ -117,18 +117,18 @@
     "id": "lang-to-text-mandarin-chinese-03",
     "category": "language-to-text",
     "question": "Which language is this? «非常感谢»",
-    "hint": "Written entirely in simplified Chinese characters (hanzi). No hiragana/katakana (Japanese) or spacing between words.",
+    "hint": "Written entirely in Chinese characters (hanzi). No hiragana/katakana (Japanese) or spacing between words.",
     "image": "",
-    "correctAnswer": "Mandarin Chinese",
+    "correctAnswer": "Chinese",
     "wrongAnswers": [
       "Japanese",
-      "Traditional Chinese",
+      "Vietnamese",
       "Korean"
     ],
-    "explanation": "\"非常感谢\" is Simplified Chinese for 'Thank you very much.' The simplified 谢 (vs. traditional 謝) identifies this as Simplified Chinese.",
+    "explanation": "\"非常感谢\" is Chinese for 'Thank you very much.' The characters identify this as Chinese.",
     "wrongAnswerSamples": {
       "Japanese": "どうもありがとうございます",
-      "Traditional Chinese": "非常感謝",
+      "Vietnamese": "Cảm ơn bạn rất nhiều",
       "Korean": "대단히 감사합니다"
     }
   },
@@ -136,18 +136,18 @@
     "id": "lang-to-text-mandarin-chinese-04",
     "category": "language-to-text",
     "question": "Which language is this? «今天天气很好»",
-    "hint": "Written entirely in simplified Chinese characters (hanzi). No hiragana/katakana (Japanese) or spacing between words.",
+    "hint": "Written entirely in Chinese characters (hanzi). No hiragana/katakana (Japanese) or spacing between words.",
     "image": "",
-    "correctAnswer": "Mandarin Chinese",
+    "correctAnswer": "Chinese",
     "wrongAnswers": [
       "Japanese",
-      "Traditional Chinese",
+      "Vietnamese",
       "Korean"
     ],
-    "explanation": "\"今天天气很好\" is Simplified Chinese for 'The weather is beautiful today.' The simplified 气 (vs. traditional 氣) is a telltale sign.",
+    "explanation": "\"今天天气很好\" is Chinese for 'The weather is beautiful today.' The characters identify this as Chinese.",
     "wrongAnswerSamples": {
       "Japanese": "今日はとても良い天気です",
-      "Traditional Chinese": "今天天氣很好",
+      "Vietnamese": "Hôm nay thời tiết đẹp",
       "Korean": "오늘 날씨가 아름답습니다"
     }
   },
@@ -691,14 +691,14 @@
     "image": "",
     "correctAnswer": "Japanese",
     "wrongAnswers": [
-      "Mandarin Chinese",
-      "Traditional Chinese",
+      "Chinese",
+      "Vietnamese",
       "Korean"
     ],
     "explanation": "\"私たちの街へようこそ\" is Japanese for 'Welcome to our city.' The mix of kanji (私, 街) with hiragana (たちの, へようこそ) is uniquely Japanese.",
     "wrongAnswerSamples": {
-      "Mandarin Chinese": "欢迎来到我们的城市",
-      "Traditional Chinese": "歡迎來到我們的城市",
+      "Chinese": "欢迎来到我们的城市",
+      "Vietnamese": "Chào mừng đến thành phố của chúng tôi",
       "Korean": "우리 도시에 오신 것을 환영합니다"
     }
   },
@@ -710,14 +710,14 @@
     "image": "",
     "correctAnswer": "Japanese",
     "wrongAnswers": [
-      "Mandarin Chinese",
-      "Traditional Chinese",
+      "Chinese",
+      "Vietnamese",
       "Korean"
     ],
     "explanation": "\"駅はどこですか？\" is Japanese for 'Where is the train station?' The particle 'は' and question marker 'か' in hiragana are unmistakably Japanese.",
     "wrongAnswerSamples": {
-      "Mandarin Chinese": "火车站在哪里？",
-      "Traditional Chinese": "火車站在哪裡？",
+      "Chinese": "火车站在哪里？",
+      "Vietnamese": "Nhà ga xe lửa ở đâu?",
       "Korean": "기차역이 어디에 있나요?"
     }
   },
@@ -729,14 +729,14 @@
     "image": "",
     "correctAnswer": "Japanese",
     "wrongAnswers": [
-      "Mandarin Chinese",
-      "Traditional Chinese",
+      "Chinese",
+      "Vietnamese",
       "Korean"
     ],
     "explanation": "\"どうもありがとうございます\" is Japanese for 'Thank you very much.' Written entirely in hiragana, the curved flowing characters are distinctly Japanese.",
     "wrongAnswerSamples": {
-      "Mandarin Chinese": "非常感谢",
-      "Traditional Chinese": "非常感謝",
+      "Chinese": "非常感谢",
+      "Vietnamese": "Cảm ơn bạn rất nhiều",
       "Korean": "대단히 감사합니다"
     }
   },
@@ -748,14 +748,14 @@
     "image": "",
     "correctAnswer": "Japanese",
     "wrongAnswers": [
-      "Mandarin Chinese",
-      "Traditional Chinese",
+      "Chinese",
+      "Vietnamese",
       "Korean"
     ],
     "explanation": "\"今日はとても良い天気です\" is Japanese for 'The weather is beautiful today.' The kanji 今日 mixed with hiragana は, とても, です identifies it as Japanese.",
     "wrongAnswerSamples": {
-      "Mandarin Chinese": "今天天气很好",
-      "Traditional Chinese": "今天天氣很好",
+      "Chinese": "今天天气很好",
+      "Vietnamese": "Hôm nay thời tiết đẹp",
       "Korean": "오늘 날씨가 아름답습니다"
     }
   },
@@ -844,14 +844,14 @@
     "correctAnswer": "Korean",
     "wrongAnswers": [
       "Japanese",
-      "Mandarin Chinese",
-      "Traditional Chinese"
+      "Chinese",
+      "Vietnamese"
     ],
     "explanation": "\"우리 도시에 오신 것을 환영합니다\" is Korean for 'Welcome to our city.' Hangul's block-like syllable structures (환영합니다) are unique to Korean.",
     "wrongAnswerSamples": {
       "Japanese": "私たちの街へようこそ",
-      "Mandarin Chinese": "欢迎来到我们的城市",
-      "Traditional Chinese": "歡迎來到我們的城市"
+      "Chinese": "欢迎来到我们的城市",
+      "Vietnamese": "Chào mừng đến thành phố của chúng tôi"
     }
   },
   {
@@ -863,14 +863,14 @@
     "correctAnswer": "Korean",
     "wrongAnswers": [
       "Japanese",
-      "Mandarin Chinese",
-      "Traditional Chinese"
+      "Chinese",
+      "Vietnamese"
     ],
     "explanation": "\"기차역이 어디에 있나요?\" is Korean for 'Where is the train station?' The circular vowel ㅇ and block arrangement of Hangul are unmistakable.",
     "wrongAnswerSamples": {
       "Japanese": "駅はどこですか？",
-      "Mandarin Chinese": "火车站在哪里？",
-      "Traditional Chinese": "火車站在哪裡？"
+      "Chinese": "火车站在哪里？",
+      "Vietnamese": "Nhà ga xe lửa ở đâu?"
     }
   },
   {
@@ -882,14 +882,14 @@
     "correctAnswer": "Korean",
     "wrongAnswers": [
       "Japanese",
-      "Mandarin Chinese",
-      "Traditional Chinese"
+      "Chinese",
+      "Vietnamese"
     ],
     "explanation": "\"대단히 감사합니다\" is Korean for 'Thank you very much.' The polite ending '-합니다' is a common Korean verb conjugation pattern.",
     "wrongAnswerSamples": {
       "Japanese": "どうもありがとうございます",
-      "Mandarin Chinese": "非常感谢",
-      "Traditional Chinese": "非常感謝"
+      "Chinese": "非常感谢",
+      "Vietnamese": "Cảm ơn bạn rất nhiều"
     }
   },
   {
@@ -901,14 +901,14 @@
     "correctAnswer": "Korean",
     "wrongAnswers": [
       "Japanese",
-      "Mandarin Chinese",
-      "Traditional Chinese"
+      "Chinese",
+      "Vietnamese"
     ],
     "explanation": "\"오늘 날씨가 아름답습니다\" is Korean for 'The weather is beautiful today.' The double consonant in '날씨' (weather) is a typical Hangul feature.",
     "wrongAnswerSamples": {
       "Japanese": "今日はとても良い天気です",
-      "Mandarin Chinese": "今天天气很好",
-      "Traditional Chinese": "今天天氣很好"
+      "Chinese": "今天天气很好",
+      "Vietnamese": "Hôm nay thời tiết đẹp"
     }
   },
   {
