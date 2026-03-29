@@ -3,14 +3,18 @@ import type { Card, Category } from "@/lib/types";
 import languageToTextData from "./language-to-text.json";
 import textToLanguageData from "./text-to-language.json";
 import countryShapesData from "./country-shapes.json";
+import shapesReverseData from "./shapes-reverse.json";
 import flagsData from "./flags.json";
 import factsData from "./facts.json";
+import flagsReverseData from "./flags-reverse.json";
 
 export const allCards: Card[] = [
   ...languageToTextData,
   ...textToLanguageData,
   ...countryShapesData,
+  ...shapesReverseData,
   ...flagsData,
+  ...flagsReverseData,
   ...factsData,
 ];
 
@@ -37,10 +41,24 @@ export const categories: Category[] = [
     mode: "srs",
   },
   {
+    id: "shapes-reverse",
+    name: "Name \u2192 Shape",
+    icon: "\uD83C\uDF0D",
+    description: "Given a country name, pick the correct shape",
+    mode: "srs",
+  },
+  {
     id: "flags",
     name: "Flags",
     icon: "\uD83C\uDFF4",
     description: "Match flags to their countries",
+    mode: "srs",
+  },
+  {
+    id: "flags-reverse",
+    name: "Name \u2192 Flag",
+    icon: "\uD83C\uDFF3\uFE0F",
+    description: "Given a country name, pick the correct flag",
     mode: "srs",
   },
   {

@@ -65,7 +65,9 @@ export default function FlashCard({ card, onAnswer, onNext }: FlashCardProps) {
 
   const isLanguageToText = card.category === "language-to-text";
   const isFlags = card.category === "flags";
+  const isFlagsReverse = card.category === "flags-reverse";
   const isShapes = card.category === "country-shapes";
+  const isShapesReverse = card.category === "shapes-reverse";
 
   // Render the visual area based on card type
   const renderVisual = () => {
@@ -94,6 +96,34 @@ export default function FlashCard({ card, onAnswer, onNext }: FlashCardProps) {
           ) : (
             <span className="text-8xl">🏴</span>
           )}
+        </div>
+      );
+    }
+
+    // Flags reverse: show country name prominently
+    if (isFlagsReverse) {
+      return (
+        <div className="w-full py-10 px-6 bg-[#0e0e18] flex items-center justify-center">
+          <div className="text-center">
+            <span className="text-5xl mb-3 block opacity-40">🏳️</span>
+            <p className="text-2xl md:text-3xl font-bold text-[#e0e0e0]">
+              {card.correctAnswer}
+            </p>
+          </div>
+        </div>
+      );
+    }
+
+    // Shapes reverse: show country name prominently
+    if (isShapesReverse) {
+      return (
+        <div className="w-full py-10 px-6 bg-[#0e0e18] flex items-center justify-center">
+          <div className="text-center">
+            <span className="text-5xl mb-3 block opacity-40">🌍</span>
+            <p className="text-2xl md:text-3xl font-bold text-[#e0e0e0]">
+              {card.correctAnswer}
+            </p>
+          </div>
         </div>
       );
     }
@@ -145,7 +175,7 @@ export default function FlashCard({ card, onAnswer, onNext }: FlashCardProps) {
           )}
 
           {/* Choices */}
-          <div className="grid gap-2.5 mt-5">
+          <div className={`grid gap-2.5 mt-5 ${isFlagsReverse ? "grid-cols-2" : ""}`}>
             {choices.map((choice, i) => (
               <button
                 key={i}
@@ -153,10 +183,25 @@ export default function FlashCard({ card, onAnswer, onNext }: FlashCardProps) {
                 disabled={selectedAnswer !== null}
                 className={getButtonClasses(choice)}
               >
-                <span className="text-[#888] mr-2 text-xs font-mono">
-                  {String.fromCharCode(65 + i)}
-                </span>
-                {choice}
+                {isFlagsReverse ? (
+                  <div className="flex flex-col items-center py-2">
+                    <img
+                      src={countryToFlagUrl(choice)}
+                      alt={selectedAnswer ? choice : `Option ${String.fromCharCode(65 + i)}`}
+                      className="h-16 md:h-20 object-contain rounded shadow mb-2"
+                    />
+                    {selectedAnswer && (
+                      <span className="text-xs">{choice}</span>
+                    )}
+                  </div>
+                ) : (
+                  <>
+                    <span className="text-[#888] mr-2 text-xs font-mono">
+                      {String.fromCharCode(65 + i)}
+                    </span>
+                    {choice}
+                  </>
+                )}
               </button>
             ))}
           </div>
